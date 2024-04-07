@@ -1,0 +1,1172 @@
+[
+    {
+        "name": "Eight of Pentacles",
+        "suite": "Pentacles",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Eight-of-Pentacles-icon.png",
+        "vi": {
+            "description": "Một nghệ nhân bằng đá trong tác phẩm của mình, được anh trưng bày dưới dạng các danh hiệu.",
+            "interpretation": "Công việc, việc làm, hoa hồng, tay nghề thủ công, kỹ năng thủ công và kinh doanh, có lẽ đang trong giai đoạn chuẩn bị.",
+            "reversed": "Tham vọng vô hiệu, phù phiếm, tham lam, đòi hỏi, cho vay nặng lãi. Nó cũng có thể biểu thị sự sở hữu kỹ năng, theo nghĩa là đầu óc khéo léo chuyển sang xảo quyệt và mưu mô."
+        },
+        "en": {
+            "description": "An artist in stone at his work, which he exhibits in the form of trophies.",
+            "interpretation": "Work, employment, commission, craftsmanship, skll in craft and business, perhaps in the preparatory stage.",
+            "reversed": "Voided ambition, vanity, cupidity, exaction, usury. It may also signify the possession of skill, in the sense of the ingenious mind turned to cunning and intrigue."
+        }
+    },
+    {
+        "name": "Page of Cups",
+        "suite": "Cups",
+        "image": "https://tarot.vn/wp-content/uploads/2014/09/Page-of-Cups-icon.png",
+        "vi": {
+            "description": "Một trang công bằng, dễ chịu, có phần hơi ẻo lả, về khía cạnh hiếu học và có ý định, chiêm ngưỡng một con cá trồi lên khỏi cốc để nhìn anh ta. Nó là những hình ảnh của tâm trí đang hình thành.",
+            "interpretation": "Người thanh niên công bằng, một người được thúc đẩy để cung cấp dịch vụ và người mà Querent sẽ được kết nối với; tuổi trẻ hiếu học; tin tức, tin nhắn; ứng dụng, suy tư, thiền định; những điều này cũng hướng đến kinh doanh.",
+            "reversed": "Hương vị, khuynh hướng, quyến luyến, quyến rũ, lừa dối, giả tạo."
+        },
+        "en": {
+            "description": "A fair, pleasing, somewhat effeminate page, of studious and intent aspect, contemplates a fish rising from a cup to look at him. It is the pictures of the mind taking form.",
+            "interpretation": "Fair young man, one impelled to render service and with whom the Querent will be connected; a studious youth; news, message; application, reflection, meditation; also these things directed to business.",
+            "reversed": "Taste, inclination, attachment, seduction, deception, artifice."
+        }
+    },
+    {
+        "name": "King of Pentacles",
+        "suite": "Pentacles",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/King-of-Pentacles-icon.png",
+        "vi": {
+            "description": "Hình vẽ không cần miêu tả gì đặc biệt, khuôn mặt khá tối, gợi ra sự can đảm, nhưng có xu hướng hơi lờ đờ. Đầu bò tót cần được lưu ý là biểu tượng lặp lại trên ngai vàng. Dấu hiệu của bộ đồ này được thể hiện xuyên suốt như được khắc hoặc thổi sáng với ngôi sao năm cánh, thể hiện sự tương ứng của bốn nguyên tố trong bản chất con người và mà chúng có thể được điều hành. Trong nhiều bộ bài Tarot cũ, bộ đồ này đại diện cho đồng xu, tiền, đồng xu hiện tại. Tôi đã không phát minh ra sự thay thế của các dấu sao năm cánh và tôi không có lý do đặc biệt nào để duy trì sự thay thế. Nhưng sự nhất trí của các ý nghĩa bói toán là về mặt của một số thay đổi, bởi vì các lá bài không xảy ra để đối phó đặc biệt với các câu hỏi về tiền bạc.",
+            "interpretation": "Có giá trị, nhận ra trí thông minh, năng khiếu kinh doanh và trí tuệ bình thường, đôi khi là năng khiếu toán học và thành tích thuộc loại này; thành công trong những con đường này.",
+            "reversed": "Tật xấu, yếu, nghịch, tham nhũng, nguy hiểm."
+        },
+        "en": {
+            "description": "The figure calls for no special description the face is rather dark, suggesting also courage, but somewhat lethargic in tendency. The bull's head should be noted as a recurrent symbol on the throne. The sign of this suit is represented throughout as engraved or blazoned with the pentagram, typifying the correspondence of the four elements in human nature and that by which they may be governed. In many old Tarot packs this suit stood for current coin, money, deniers. I have not invented the substitution of pentacles and I have no special cause to sustain in respect of the alternative. But the consensus of divinatory meanings is on the side of some change, because the cards do not happen to deal especially with questions of money.",
+            "interpretation": "Valour, realizing intelligence, business and normal intellectual aptitude, sometimes mathematical gifts and attainments of this kind; success in these paths.",
+            "reversed": "Vice, weakness, ugliness, perversity, corruption, peril."
+        }
+    },
+    {
+        "name": "King of Swords",
+        "suite": "Swords",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/King-of-Swords-icon.png",
+        "vi": {
+            "description": "Anh ta ngồi trong sự phán xét, cầm dấu hiệu chưa bóc vỏ của bộ đồ của mình. Tất nhiên, anh ta nhớ lại Biểu tượng công lý thông thường trong Trumps Major, và anh ta có thể đại diện cho đức tính này, nhưng anh ta đúng hơn là sức mạnh của sự sống và cái chết, dựa trên chức vụ của mình.",
+            "interpretation": "Bất kỳ điều gì nảy sinh từ ý tưởng về sự phán xét và tất cả các mối liên hệ của nó - quyền lực, mệnh lệnh, quyền hạn, tình báo quân sự, luật pháp, văn phòng của vương miện và nhiều thứ khác.",
+            "reversed": "Độc ác, nghịch ngợm, dã man, hoàn hảo, ý đồ xấu xa."
+        },
+        "en": {
+            "description": "He sits in judgment, holding the unsheathed sign of his suit. He recalls, of course, the conventional Symbol of justice in the Trumps Major, and he may represent this virtue, but he is rather the power of life and death, in virtue of his office.",
+            "interpretation": "Whatsoever arises out of the idea of judgment and all its connexions-power, command, authority, militant intelligence, law, offices of the crown, and so forth.",
+            "reversed": "Cruelty, perversity, barbarity, perfidy, evil intention."
+        }
+    },
+    {
+        "name": "The Fool",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2015/12/00-Major-Fool1.jpg",
+        "vi": {
+            "description": "Với bước đi nhẹ nhàng, như thể trái đất và những thứ tội lỗi của nó có ít sức mạnh để kìm hãm anh ta, một người đàn ông trẻ trong bộ lễ phục lộng lẫy dừng lại trước bờ vực của một vách đá giữa những đỉnh cao vĩ đại của thế giới; anh ta khảo sát khoảng cách màu xanh trước mắt - bầu trời rộng lớn của nó chứ không phải là viễn cảnh bên dưới. Hành động háo hức đi bộ của anh ta vẫn được chỉ ra, mặc dù anh ta đang đứng yên tại thời điểm nhất định; con chó của anh ấy vẫn còn bị ràng buộc. Cạnh mở ra trên độ sâu không có nỗi kinh hoàng; nó như thể các thiên thần đang chờ đợi để nâng đỡ anh ta, nếu điều đó xảy ra rằng anh ta đã nhảy từ độ cao. Vẻ mặt của anh ấy đầy thông minh và mơ ước. Anh ta cầm một bông hồng trên tay và tay kia là một cây đũa phép đắt tiền, từ đó phụ thuộc vào vai phải của anh ta một chiếc ví được thêu một cách cầu kỳ. Anh ấy là hoàng tử của thế giới bên kia trong chuyến du hành xuyên qua một thế giới duy nhất này giữa đám rau muống, trong bầu không khí sắc sảo. Mặt trời chiếu sáng sau lưng anh ấy, biết anh ấy đến từ lúc nào, anh ấy sẽ đi đến đâu và anh ấy sẽ trở lại bằng con đường nào sau nhiều ngày nữa. Anh ấy là tinh thần tìm kiếm kinh nghiệm. Nhiều biểu tượng của những Bí ẩn được tổ chức được tóm tắt trong lá bài này, nó sẽ đảo ngược, dưới sự bảo đảm cao, tất cả những nhầm lẫn đã xảy ra trước nó. Trong Sách hướng dẫn về phong thủy học của mình, Grand Orient có một gợi ý kỳ lạ về văn phòng của Mystic Fool, ngoài quá trình của anh ta trong việc bói toán cao hơn; nhưng nó có thể kêu gọi nhiều hơn những món quà thông thường để đưa nó vào hoạt động. Chúng ta sẽ xem lá bài có giá trị như thế nào theo nghệ thuật bói toán thông thường, và nó sẽ là một ví dụ, cho những người có thể phân biệt, về thực tế, nếu không thì hiển nhiên rằng Trumps Major ban đầu không có chỗ đứng trong nghệ thuật cờ bạc tâm linh, khi các thẻ được sử dụng làm bộ đếm và tiền mã hóa. Tuy nhiên, chúng ta biết rất ít về những hoàn cảnh mà nghệ thuật này phát sinh. Các giải thích thông thường nói rằng Kẻ lừa đảo biểu thị xác thịt, cuộc sống nhạy cảm, và bằng một câu châm biếm đặc biệt, tên phụ của nó đã có lúc là nhà giả kim, mô tả sự điên rồ ở giai đoạn vô cảm nhất. ",
+            "interpretation": "Cuồng nhiệt, hưng cảm, ngông cuồng, say sưa, mê sảng, điên cuồng, mê muội.",
+            "reversed": "Sơ suất, vắng mặt, phân phối, bất cẩn, thờ ơ, vô hiệu, phù phiếm."
+        },
+        "en": {
+            "description": "With light step, as if earth and its trammels had little power to restrain him, a young man in gorgeous vestments pauses at the brink of a precipice among the great heights of the world; he surveys the blue distance before him-its expanse of sky rather than the prospect below. His act of eager walking is still indicated, though he is stationary at the given moment; his dog is still bounding. The edge which opens on the depth has no terror; it is as if angels were waiting to uphold him, if it came about that he leaped from the height. His countenance is full of intelligence and expectant dream. He has a rose in one hand and in the other a costly wand, from which depends over his right shoulder a wallet curiously embroidered. He is a prince of the other world on his travels through this one-all amidst the morning glory, in the keen air. The sun, which shines behind him, knows whence he came, whither he is going, and how he will return by another path after many days. He is the spirit in search of experience. Many symbols of the Instituted Mysteries are summarized in this card, which reverses, under high warrants, all the confusions that have preceded it. In his Manual of Cartomancy, Grand Orient has a curious suggestion of the office of Mystic Fool, as apart of his process in higher divination; but it might call for more than ordinary gifts to put it into operation. We shall see how the card fares according to the common arts of fortune-telling, and it will be an example, to those who can discern, of the fact, otherwise so evident, that the Trumps Major had no place originally in the arts of psychic gambling, when cards are used as the counters and pretexts. Of the circumstances under which this art arose we know, however, very little. The conventional explanations say that the Fool signifies the flesh, the sensitive life, and by a peculiar satire its subsidiary name was at one time the alchemist, as depicting folly at the most insensate stage.",
+            "interpretation": "Folly, mania, extravagance, intoxication, delirium, frenzy, bewrayment.",
+            "reversed": "Negligence, absence, distribution, carelessness, apathy, nullity, vanity."
+        }
+    },
+    {
+        "name": "Justice",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/11-Justice-icon.png",
+        "vi": {
+            "description": "Vì lá bài này tuân theo chủ nghĩa biểu tượng truyền thống và mang trên hết những ý nghĩa hiển nhiên của nó, nên có rất ít điều để nói về nó ngoài một số cân nhắc được thu thập trong phần đầu tiên, mà người đọc được đề cập đến. Tuy nhiên, người ta sẽ thấy rằng nhân vật được đặt giữa các cột trụ, giống như Nữ tư tế tối cao, và về mặt này, nó có vẻ mong muốn chỉ ra rằng nguyên tắc đạo đức áp dụng cho mọi người tùy theo công việc của anh ta - trong khi tất nhiên, nó tương tự chặt chẽ với những thứ cao hơn; - khác về bản chất của nó với công lý tinh thần liên quan đến ý tưởng bầu cử. Người thứ hai thuộc về một trật tự Thần bí bí ẩn, nhờ đó, một số người đàn ông có thể hình thành ý tưởng cống hiến cho những điều cao cả nhất. Sự vận hành của điều này giống như sự thở của Thánh Linh theo ý muốn của nó, và chúng ta không có lời phê bình hay cơ sở giải thích nào liên quan đến nó. Nó tương tự như việc sở hữu những món quà thần tiên, những món quà cao cả và những món quà ân cần của nhà thơ: chúng ta có chúng hay không, và sự hiện diện của chúng cũng là một điều bí ẩn như sự vắng mặt của chúng. Tuy nhiên, luật Tư pháp không được tham gia bởi một trong hai phương pháp thay thế. Tóm lại, các trụ cột của Công lý mở ra một thế giới và các trụ cột của High Priestess vào một thế giới khác.",
+            "interpretation": "Vốn chủ sở hữu, tính đúng đắn, tính chứng thực, tính điều hành; chiến thắng của bên xứng đáng trong pháp luật.",
+            "reversed": "Luật pháp trong tất cả các bộ phận của nó, phức tạp pháp lý, cố chấp, thiên vị, nghiêm trọng quá mức."
+        },
+        "en": {
+            "description": "As this card follows the traditional symbolism and carries above all its obvious meanings, there is little to say regarding it outside the few considerations collected in the first part, to which the reader is referred. It will be seen, however, that the figure is seated between pillars, like the High Priestess, and on this account it seems desirable to indicate that the moral principle which deals unto every man according to his works--while, of course, it is in strict analogy with higher things;--differs in its essence from the spiritual justice which is involved in the idea of election. The latter belongs to a mysterious order of Providence, in virtue of which it is possible for certain men to conceive the idea of dedication to the highest things. The operation of this is like the breathing of the Spirit where it wills, and we have no canon of criticism or ground of explanation concerning it. It is analogous to the possession of the fairy gifts and the high gifts and the gracious gifts of the poet: we have them or have not, and their presence is as much a mystery as their absence. The law of Justice is not however involved by either alternative. In conclusion, the pillars of Justice open into one world and the pillars of the High Priestess into another.",
+            "interpretation": "Equity, rightness, probity, executive; triumph of the deserving side in law.",
+            "reversed": "Law in all its departments, legal complications, bigotry, bias, excessive severity."
+        }
+    },
+    {
+        "name": "Queen of Swords",
+        "suite": "Swords",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Queen-of-Swords-icon.png",
+        "vi": {
+            "description": "Tay phải của cô ấy nâng vũ khí theo chiều dọc và chuôi kiếm đặt trên một cánh tay của chiếc ghế hoàng gia của cô ấy, tay trái duỗi ra, cánh tay giơ lên với vẻ mặt nghiêm nghị nhưng thanh khiết; nó gợi ra sự quen thuộc với nỗi buồn. Nó không đại diện cho lòng thương xót, và mặc dù vậy, thanh kiếm của cô ấy cũng không phải là biểu tượng của sức mạnh.",
+            "interpretation": "Tình trạng góa bụa, đàn bà buồn bã và xấu hổ, vắng mặt, vô trùng, tang tóc, sang trọng, chia ly.",
+            "reversed": "Ác độc, cố chấp, giả tạo, thận trọng, nỗi đau, gian dối."
+        },
+        "en": {
+            "description": "Her right hand raises the weapon vertically and the hilt rests on an arm of her royal chair the left hand is extended, the arm raised her countenance is severe but chastened; it suggests familiarity with sorrow. It does not represent mercy, and, her sword notwithstanding, she is scarcely a symbol of power.",
+            "interpretation": "Widowhood, female sadness and embarrassment, absence, sterility, mourning, privation, separation.",
+            "reversed": "Malice, bigotry, artifice, prudery, bale, deceit."
+        }
+    },
+    {
+        "name": "Six of Cups",
+        "suite": "Cups",
+        "image": "https://tarot.vn/wp-content/uploads/2014/09/Six-of-Cups-icon.png",
+        "vi": {
+            "description": "Những đứa trẻ trong một khu vườn cũ, những chiếc cốc của chúng đầy hoa.",
+            "interpretation": "Một lá bài về quá khứ và những kỷ niệm, khi nhìn lại - chẳng hạn như - về thời thơ ấu; hạnh phúc, thích thú, nhưng đến thay vì đến từ quá khứ; những thứ đã biến mất. Một bài đọc khác đảo ngược điều này, đưa ra các mối quan hệ mới, kiến thức mới, môi trường mới, và sau đó bọn trẻ được chuyển đến một khu vực xa lạ.",
+            "reversed": "Tương lai, sự đổi mới, mà hiện tại sẽ xảy ra."
+        },
+        "en": {
+            "description": "Children in an old garden, their cups filled with flowers.",
+            "interpretation": "A card of the past and of memories, looking back, as--for example--on childhood; happiness, enjoyment, but coming rather from the past; things that have vanished. Another reading reverses this, giving new relations, new knowledge, new environment, and then the children are disporting in an unfamiliar precinct.",
+            "reversed": "The future, renewal, that which will come to pass presently."
+        }
+    },
+    {
+        "name": "Queen of Pentacles",
+        "suite": "Pentacles",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Queen-of-Pentacles-icon.png",
+        "vi": {
+            "description": "Khuôn mặt gợi ý về một người phụ nữ đen tối, mà những phẩm chất có thể được tóm gọn trong ý tưởng về sự vĩ đại của tâm hồn; cô ấy cũng có một dàn diễn viên thông minh nghiêm túc; cô ấy chiêm ngưỡng biểu tượng của mình và có thể nhìn thấy thế giới trong đó.",
+            "interpretation": "Sự sang trọng, hào phóng, tráng lệ, an toàn, tự do.",
+            "reversed": "Ác ma, nghi ngờ, hồi hộp, sợ hãi, ngờ vực."
+        },
+        "en": {
+            "description": "The face suggests that of a dark woman, whose qualities might be summed up in the idea of greatness of soul; she has also the serious cast of intelligence; she contemplates her symbol and may see worlds therein.",
+            "interpretation": "Opulence, generosity, magnificence, security, liberty.",
+            "reversed": "Evil, suspicion, suspense, fear, mistrust."
+        }
+    },
+    {
+        "name": "Ten of Swords",
+        "suite": "Swords",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Ten-of-Swords-icon.png",
+        "vi": {
+            "description": "Một nhân vật tuyến tiền liệt, bị xuyên thủng bởi tất cả các thanh kiếm thuộc thẻ.",
+            "interpretation": "Bất kỳ cái gì được thiết kế thân mật; cũng đau đớn, phiền não, nước mắt, buồn bã, hoang vắng. Nó không đặc biệt là một lá bài của cái chết bạo lực.",
+            "reversed": "Lợi thế, lợi nhuận, thành công, ưu ái, nhưng không có cái nào trong số này là vĩnh viễn; cũng là quyền lực và quyền hạn."
+        },
+        "en": {
+            "description": "A prostrate figure, pierced by all the swords belonging to the card.",
+            "interpretation": "Whatsoever is intimated by the design; also pain, affliction, tears, sadness, desolation. It is not especially a card of violent death.",
+            "reversed": "Advantage, profit, success, favour, but none of these are permanent; also power and authority."
+        }
+    },
+    {
+        "name": "Five of Cups",
+        "suite": "Cups",
+        "image": "https://tarot.vn/wp-content/uploads/2014/09/Five-of-Cups-icon.png",
+        "vi": {
+            "description": "Một người mặc áo choàng đen, nhìn nghiêng về ba chiếc cốc nằm sấp, hai người khác đứng thẳng sau lưng anh ta; một cây cầu đang ở trong nền, dẫn đến việc giữ hoặc giữ nhỏ.",
+            "interpretation": "Nó là một lá bài của sự mất mát, nhưng một cái gì đó vẫn còn hơn; ba người đã được lấy đi, nhưng hai người còn lại; nó là con bài của sự kế thừa, gia truyền, nhưng không tương ứng với sự mong đợi; với một số người giải thích nó là một lá bài của hôn nhân, nhưng không phải là không có sự cay đắng hay thất vọng.",
+            "reversed": "Tin tức, liên minh, mối quan hệ, sự hợp tác, tổ tiên, trở lại, các dự án sai."
+        },
+        "en": {
+            "description": "A dark, cloaked figure, looking sideways at three prone cups two others stand upright behind him; a bridge is in the background, leading to a small keep or holding.",
+            "interpretation": "It is a card of loss, but something remains over; three have been taken, but two are left; it is a card of inheritance, patrimony, transmission, but not corresponding to expectations; with some interpreters it is a card of marriage, but not without bitterness or frustration.",
+            "reversed": "News, alliances, affinity, consanguinity, ancestry, return, false projects."
+        }
+    },
+    {
+        "name": "High Priestess",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/2-High-Priestess-icon.png",
+        "vi": {
+            "description": "Cô ấy có lưỡi liềm mặt trăng ở chân, một cái sừng trên đầu, với một quả địa cầu ở vị trí chính giữa, và một cây thánh giá mặt trời lớn trên ngực. Cuộn giấy trên tay cô ấy có khắc chữ Tora, biểu thị cho Luật lớn hơn, Luật bí mật và ý nghĩa thứ hai của Lời. Nó được che phủ một phần bởi lớp áo của cô ấy, cho cô ấy biết rằng một số điều được ngụ ý và một số điều được nói ra. Cô ấy đang ngồi giữa những cây cột trắng và đen của Ngôi đền thần bí, và bức màn của Ngôi đền ở phía sau cô ấy: nó được thêu bằng những cây cọ và quả lựu. Những bộ lễ phục có độ bồng bềnh và mỏng manh, và lớp áo gợi ý ánh sáng - một ánh hào quang lung linh. Cô ấy được gọi là Khoa học huyền bí ở ngưỡng cửa của Thánh địa Isis, nhưng cô ấy thực sự là Nhà thờ bí mật, Ngôi nhà là của Chúa và con người. Cô cũng đại diện cho Cuộc hôn nhân thứ hai của Hoàng tử không còn thuộc thế giới này; cô ấy là Mẹ và Cô dâu thiêng liêng, con gái của các vì sao và Khu vườn Địa đàng cao hơn. Cô ấy, tốt, là Nữ hoàng của ánh sáng vay mượn, nhưng đây là ánh sáng của tất cả. Mẹ là Mặt trăng và được nuôi dưỡng bằng sữa của Mẹ Siêu phàm. Theo một cách nào đó, bà cũng là Mẹ Siêu phàm - có nghĩa là, bà là sự phản chiếu tươi sáng. Theo ý nghĩa phản ánh này, cái tên chân thực nhất và cao nhất của cô ấy trong chủ nghĩa bạo lực là Shekinah - người đồng sở hữu vinh quang. Theo Kabalism, có một Shekinah ở cả trên và dưới. Trong thế giới siêu việt, nó được gọi là Binah, sự hiểu biết siêu phàm phản ánh những hóa thân bên dưới. Ở hạ giới, đó là MaIkuth - thế giới đó, vì mục đích này, được hiểu là một Vương quốc phước hạnh mà nó được ban phước là Vinh quang ẩn cư. Nói một cách huyền bí, Shekinah là Cô dâu Tinh thần của một người đàn ông công chính, và khi anh ta đọc Luật, cô ấy cho biết ý nghĩa thiêng liêng. Có một số khía cạnh mà lá bài này là cao nhất và linh thiêng nhất trong Greater Arcana. ",
+            "interpretation": "Bí mật, bí ẩn, tương lai chưa được tiết lộ; người phụ nữ quan tâm đến người mê tín, nếu là nam giới; bản thân người mê tín, nếu là nữ; im lặng, ngoan cường; bí ẩn, trí tuệ, khoa học.",
+            "reversed": "Niềm đam mê, lòng nhiệt thành về đạo đức hoặc thể chất, sự tự phụ, kiến ​​thức bề nổi."
+        },
+        "en": {
+            "description": "She has the lunar crescent at her feet, a horned diadem on her head, with a globe in the middle place, and a large solar cross on her breast. The scroll in her hands is inscribed with the word Tora, signifying the Greater Law, the Secret Law and the second sense of the Word. It is partly covered by her mantle, to shew that some things are implied and some spoken. She is seated between the white and black pillars--J. and B.--of the mystic Temple, and the veil of the Temple is behind her: it is embroidered with palms and pomegranates. The vestments are flowing and gauzy, and the mantle suggests light--a shimmering radiance. She has been called occult Science on the threshold of the Sanctuary of Isis, but she is really the Secret Church, the House which is of God and man. She represents also the Second Marriage of the Prince who is no longer of this world; she is the spiritual Bride and Mother, the daughter of the stars and the Higher Garden of Eden. She is, in fine, the Queen of the borrowed light, but this is the light of all. She is the Moon nourished by the milk of the Supernal Mother. In a manner, she is also the Supernal Mother herself--that is to say, she is the bright reflection. It is in this sense of reflection that her truest and highest name in bolism is Shekinah--the co-habiting glory. According to Kabalism, there is a Shekinah both above and below. In the superior world it is called Binah, the Supernal Understanding which reflects to the emanations that are beneath. In the lower world it is MaIkuth--that world being, for this purpose, understood as a blessed Kingdom that with which it is made blessed being the Indwelling Glory. Mystically speaking, the Shekinah is the Spiritual Bride of the just man, and when he reads the Law she gives the Divine meaning. There are some respects in which this card is the highest and holiest of the Greater Arcana.",
+            "interpretation": "Secrets, mystery, the future as yet unrevealed; the woman who interests the Querent, if male; the Querent herself, if female; silence, tenacity; mystery, wisdom, science.",
+            "reversed": "Passion, moral or physical ardour, conceit, surface knowledge."
+        }
+    },
+    {
+        "name": "Sun",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/19-Sun-icon.png",
+        "vi": {
+            "description": "Đứa trẻ khỏa thân cưỡi trên một con ngựa trắng và hiển thị một tiêu chuẩn màu đỏ đã được đề cập đến như một biểu tượng tốt hơn được kết nối với thẻ này. Đó là số phận của Phương Đông Siêu Nhiên và ánh sáng vĩ đại và thánh thiện đi trước đám rước vô tận của nhân loại, bước ra từ khu vườn có tường bao quanh cuộc sống nhạy cảm và đi trên hành trình về nhà. Do đó, lá bài biểu thị sự chuyển tiếp từ ánh sáng hiển hiện của thế giới này, được đại diện bởi mặt trời huy hoàng của trái đất, đến ánh sáng của thế giới sắp tới, đi trước khát vọng và được điển hình bởi trái tim của một đứa trẻ. Nhưng sự ám chỉ cuối cùng lại là chìa khóa cho một hình thức hoặc khía cạnh khác của biểu tượng. Mặt trời là của ý thức trong tinh thần - trực tiếp như phản ánh sáng phản chiếu. Loại đặc trưng của con người đã trở thành một đứa trẻ nhỏ trong đó - một đứa trẻ theo nghĩa đơn giản và hồn nhiên theo nghĩa thông thái. Trong sự đơn giản đó, anh ta mang dấu ấn của Tự nhiên và Nghệ thuật; trong sự ngây thơ đó, anh ta biểu thị thế giới đã được phục hồi. Khi tinh thần tự biết mình đã ló dạng trong ý thức bên trên tâm trí tự nhiên, tâm trí đó trong quá trình đổi mới dẫn đến bản chất động vật ở trạng thái hoàn toàn phù hợp.",
+            "interpretation": "Hạnh phúc vật chất, hôn nhân may mắn, mãn nguyện.",
+            "reversed": "Tương tự theo nghĩa thấp hơn."
+        },
+        "en": {
+            "description": "The naked child mounted on a white horse and displaying a red standard has been mentioned already as the better symbolism connected with this card. It is the destiny of the Supernatural East and the great and holy light which goes before the endless procession of humanity, coming out from the walled garden of the sensitive life and passing on the journey home. The card signifies, therefore, the transit from the manifest light of this world, represented by the glorious sun of earth, to the light of the world to come, which goes before aspiration and is typified by the heart of a child. But the last allusion is again the key to a different form or aspect of the symbolism. The sun is that of consciousness in the spirit - the direct as the antithesis of the reflected light. The characteristic type of humanity has become a little child therein--a child in the sense of simplicity and innocence in the sense of wisdom. In that simplicity, he bears the seal of Nature and of Art; in that innocence, he signifies the restored world. When the self-knowing spirit has dawned in the consciousness above the natural mind, that mind in its renewal leads forth the animal nature in a state of perfect conformity.",
+            "interpretation": "Material happiness, fortunate marriage, contentment.",
+            "reversed": "The same in a lesser sense."
+        }
+    },
+    {
+        "name": "Judgement",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/20-Judgement-icon.png",
+        "vi": {
+            "description": "Tôi đã nói rằng biểu tượng này về cơ bản là bất biến trong tất cả các bộ Tarot, hoặc ít nhất là các biến thể không làm thay đổi đặc tính của nó. Thiên thần vĩ đại ở đây được bao phủ bởi những đám mây, nhưng ông thổi chiếc kèn cấm của mình, và thánh giá như thường lệ được hiển thị trên biểu ngữ. Những người chết đang trỗi dậy từ những ngôi mộ của họ - một người phụ nữ ở bên phải, một người đàn ông ở bên trái, và giữa họ là đứa con của họ, người quay lưng lại. Nhưng trong lá bài này có nhiều hơn ba người được phục hồi, và việc thực hiện biến thể này được cho là rất đáng để minh họa cho sự thiếu sót của các giải thích hiện tại. Cần lưu ý rằng tất cả các nhân vật đều giống như một trong sự kỳ diệu, sự tôn thờ và sự hùng vĩ được thể hiện qua thái độ của họ. Nó là lá bài ghi lại thành tích của công việc biến đổi vĩ đại để trả lời cho lời triệu tập của Siêu thần - mà lời triệu tập được nghe và trả lời từ bên trong. Đây là nội dung của một ý nghĩa không thể được thực hiện xa hơn ở nơi hiện tại. Điều gì bên trong chúng ta vốn phát ra tiếng kèn và tất cả những gì thấp kém hơn trong bản chất của chúng ta đều dấy lên phản ứng - gần như trong khoảnh khắc, gần như trong ánh mắt lấp lánh? Hãy để lá bài tiếp tục miêu tả, đối với những người không thể nhìn thấy gì xa hơn, Sự phán xét cuối cùng và sự phục sinh trong cơ thể tự nhiên; nhưng hãy để những ai có con mắt hướng nội nhìn và khám phá điều đó. Họ sẽ hiểu rằng trong quá khứ, nó thực sự được gọi là lá bài của sự sống vĩnh cửu, và vì lý do này, nó có thể được so sánh với lá bài mang tên Temperance.",
+            "interpretation": "Thay đổi vị trí, đổi mới, kết quả. Một tài khoản khác cho biết tổng số tổn thất thông qua vụ kiện.",
+            "reversed": "Yếu đuối, tự cao, đơn giản; còn nghị án, quyết định, tuyên án."
+        },
+        "en": {
+            "description": "I have said that this symbol is essentially invariable in all Tarot sets, or at least the variations do not alter its character. The great angel is here encompassed by clouds, but he blows his bannered trumpet, and the cross as usual is displayed on the banner. The dead are rising from their tombs--a woman on the right, a man on the left hand, and between them their child, whose back is turned. But in this card there are more than three who are restored, and it has been thought worth while to make this variation as illustrating the insufficiency of current explanations. It should be noted that all the figures are as one in the wonder, adoration and ecstacy expressed by their attitudes. It is the card which registers the accomplishment of the great work of transformation in answer to the summons of the Supernal--which summons is heard and answered from within. Herein is the intimation of a significance which cannot well be carried further in the present place. What is that within us which does sound a trumpet and all that is lower in our nature rises in response--almost in a moment, almost in the twinkling of an eye? Let the card continue to depict, for those who can see no further, the Last judgment and the resurrection in the natural body; but let those who have inward eyes look and discover therewith. They will understand that it has been called truly in the past a card of eternal life, and for this reason it may be compared with that which passes under the name of Temperance.",
+            "interpretation": "Change of position, renewal, outcome. Another account specifies total loss though lawsuit.",
+            "reversed": "Weakness, pusillanimity, simplicity; also deliberation, decision, sentence."
+        }
+    },
+    {
+        "name": "Death",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/13-Death-icon.png",
+        "vi": {
+            "description": "Bức màn hoặc mặt nạ của cuộc sống luôn tồn tại trong sự thay đổi, biến đổi và đi từ thấp lên cao, và điều này được thể hiện một cách chính xác hơn trong Tarot được chỉnh sửa bằng một trong những tầm nhìn về ngày tận thế hơn là bởi khái niệm thô thiển về bộ xương gặt hái. Đằng sau nó là cả thế giới đi lên trong tinh thần. Người kỵ mã bí ẩn di chuyển chậm rãi, mang theo một biểu ngữ đen có trang trí Bông hồng huyền bí, biểu thị sự sống. Giữa hai cây cột bên bờ chân trời có ánh mặt trời bất tử. Người kỵ mã không mang theo vũ khí rõ ràng, nhưng nhà vua và trẻ em và thiếu nữ ngã xuống trước mặt anh ta, trong khi một vị giám quốc đang chắp tay chờ đợi sự kết thúc của anh ta. Không cần phải chỉ ra rằng gợi ý về cái chết mà tôi đã đưa ra liên quan đến lá bài trước, tất nhiên, được hiểu một cách thần bí, nhưng đây không phải là trường hợp trong trường hợp hiện tại. Quá trình tự nhiên của con người đến giai đoạn tiếp theo của con người hoặc có thể là một dạng tiến bộ của anh ta, nhưng lối vào kỳ lạ và hầu như không được biết đến, khi vẫn còn trong cuộc sống này, vào trạng thái chết thần bí là một sự thay đổi dưới dạng ý thức và con đường đi vào trạng thái mà cái chết bình thường không phải là con đường cũng không phải là cánh cổng. Nhìn chung, những lời giải thích huyền bí hiện có của lá bài thứ 13 là tốt hơn bình thường, sự tái sinh, sự sáng tạo, điểm đến, sự đổi mới và phần còn lại.",
+            "interpretation": "Sự kết thúc, sự chết chóc, sự hủy diệt, sự bại hoại đối với một người đàn ông; sự mất mát của một ân nhân đối với một người phụ nữ, rất nhiều điều trái ngược; cho một người giúp việc, thất bại của các dự án hôn nhân.",
+            "reversed": "Lười biếng, ngủ, hôn mê, hóa đá, mộng du; hy vọng bị phá hủy."
+        },
+        "en": {
+            "description": "The veil or mask of life is perpetuated in change, transformation and passage from lower to higher, and this is more fitly represented in the rectified Tarot by one of the apocalyptic visions than by the crude notion of the reaping skeleton. Behind it lies the whole world of ascent in the spirit. The mysterious horseman moves slowly, bearing a black banner emblazoned with the Mystic Rose, which signifies life. Between two pillars on the verge of the horizon there shines the sun of immortality. The horseman carries no visible weapon, but king and child and maiden fall before him, while a prelate with clasped hands awaits his end. There should be no need to point out that the suggestion of death which I have made in connection with the previous card is, of course, to be understood mystically, but this is not the case in the present instance. The natural transit of man to the next stage of his being either is or may be one form of his progress, but the exotic and almost unknown entrance, while still in this life, into the state of mystical death is a change in the form of consciousness and the passage into a state to which ordinary death is neither the path nor gate. The existing occult explanations of the 13th card are, on the whole, better than usual, rebirth, creation, destination, renewal, and the rest.",
+            "interpretation": "End, mortality, destruction, corruption also, for a man, the loss of a benefactor for a woman, many contrarieties; for a maid, failure of marriage projects.",
+            "reversed": "Inertia, sleep, lethargy, petrifaction, somnambulism; hope destroyed."
+        }
+    },
+    {
+        "name": "Five of Pentacles",
+        "suite": "Pentacles",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Five-of-Pentacles-icon.png",
+        "vi": {
+            "description": "Hai người hành khất trong cơn bão tuyết vượt qua một cái hộp được thắp sáng.",
+            "interpretation": "Trên hết, lá bài báo trước rắc rối về vật chất, cho dù ở dạng được minh họa - tức là sự túng quẫn - hay cách khác. Đối với một số nhà khoa học bản đồ, nó là lá bài của tình yêu và tình nhân - vợ, chồng, bạn bè, tình nhân; cũng tương hợp, tương duyên. Những lựa chọn thay thế này không thể được hài hòa.",
+            "reversed": "Rối loạn, hỗn loạn, đổ nát, bất hòa, thâm độc."
+        },
+        "en": {
+            "description": "Two mendicants in a snow-storm pass a lighted casement.",
+            "interpretation": "The card foretells material trouble above all, whether in the form illustrated--that is, destitution--or otherwise. For some cartomancists, it is a card of love and lovers-wife, husband, friend, mistress; also concordance, affinities. These alternatives cannot be harmonized.",
+            "reversed": "Disorder, chaos, ruin, discord, profligacy."
+        }
+    },
+    {
+        "name": "Knight of Swords",
+        "suite": "Swords",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Knight-of-Swords-icon.png",
+        "vi": {
+            "description": "Anh ta đang cưỡi ngựa hoàn toàn, như thể đang phân tán kẻ thù của mình. Trong thiết kế, anh ấy thực sự là một anh hùng nguyên mẫu của tinh thần hiệp sĩ lãng mạn. Anh ta gần như là Galahad, người có thanh kiếm nhanh nhẹn và chắc chắn bởi vì anh ta là người trong sạch.",
+            "interpretation": "Kỹ năng, bản lĩnh, năng lực, phòng thủ, địa chỉ, thù hận, thịnh nộ, chiến tranh, hủy diệt, chống đối, kháng cự, hủy hoại. Do đó, lá bài biểu thị cái chết, nhưng nó chỉ mang ý nghĩa này gần với các lá bài khác của tử vong.",
+            "reversed": "Tính thiếu thận trọng, thiếu năng lực, ngông cuồng."
+        },
+        "en": {
+            "description": "He is riding in full course, as if scattering his enemies. In the design he is really a prototypical hero of romantic chivalry. He might almost be Galahad, whose sword is swift and sure because he is clean of heart.",
+            "interpretation": "Skill, bravery, capacity, defence, address, enmity, wrath, war, destruction, opposition, resistance, ruin. There is therefore a sense in which the card signifies death, but it carries this meaning only in its proximity to other cards of fatality.",
+            "reversed": "Imprudence, incapacity, extravagance."
+        }
+    },
+    {
+        "name": "Eight of Cups",
+        "suite": "Cups",
+        "image": "https://tarot.vn/wp-content/uploads/2014/09/Eight-of-Cups-icon.png",
+        "vi": {
+            "description": "Một người đàn ông có khía cạnh chán nản đang từ bỏ những chén rượu về tội ác, công việc, công việc hoặc mối quan tâm trước đây của anh ta.",
+            "interpretation": "Lá bài nói lên bề ngoài, nhưng các cách đọc khác hoàn toàn trái nghĩa - mang lại niềm vui, sự ôn hòa, nhút nhát, danh dự, khiêm tốn. Trong thực tế, người ta thường thấy rằng lá bài thể hiện sự suy tàn của một vấn đề hoặc một vấn đề được cho là quan trọng thực sự chỉ có hậu quả nhẹ - cho cả thiện hay ác.",
+            "reversed": "Niềm vui lớn, hạnh phúc, thịnh soạn."
+        },
+        "en": {
+            "description": "A man of dejected aspect is deserting the cups of his felicity, enterprise, undertaking or previous concern.",
+            "interpretation": "The card speaks for itself on the surface, but other readings are entirely antithetical--giving joy, mildness, timidity, honour, modesty. In practice, it is usually found that the card shews the decline of a matter, or that a matter which has been thought to be important is really of slight consequence--either for good or evil.",
+            "reversed": "Great joy, happiness, feasting."
+        }
+    },
+    {
+        "name": "Seven of Cups",
+        "suite": "Cups",
+        "image": "https://tarot.vn/wp-content/uploads/2014/09/Seven-of-Cups-icon.png",
+        "vi": {
+            "description": "Những mảnh ghép kỳ lạ về tầm nhìn, nhưng những hình ảnh đặc biệt hơn là những hình ảnh của tinh thần tuyệt vời.",
+            "interpretation": "Tiên thiên, hình ảnh phản chiếu, tình cảm, trí tưởng tượng, những điều nhìn thấy trong kính chiêm ngưỡng; một số thành tựu trong các mức độ này, nhưng không có gì lâu dài hoặc đáng kể được gợi ý.",
+            "reversed": "Khát vọng, ý chí, quyết tâm, trù hoạch."
+        },
+        "en": {
+            "description": "Strange chalices of vision, but the images are more especially those of the fantastic spirit.",
+            "interpretation": "Fairy favours, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested.",
+            "reversed": "Desire, will, determination, project."
+        }
+    },
+    {
+        "name": "The Lovers",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/6-Lovers-icon.png",
+        "vi": {
+            "description": "Mặt trời tỏa sáng trên thiên đỉnh, và bên dưới là một nhân vật có cánh vĩ đại đang giang rộng cánh tay, trút xuống những ảnh hưởng. Trước mắt là hai hình người, nam và nữ, xuất hiện trước mặt nhau, như thể Adam và Eve khi họ lần đầu tiên chiếm thiên đường của cơ thể trần gian. Phía sau người đàn ông là Cây Sự sống, mang mười hai trái, và Cây Kiến thức về Thiện và Ác ở phía sau người phụ nữ; con rắn đang xoắn quanh nó. Các con số gợi ý tuổi trẻ, sự trinh trắng, sự trong trắng và tình yêu trước khi nó bị ô nhiễm bởi ham muốn vật chất thô thiển. Nói một cách đơn giản, đây là lá bài của tình yêu thương con người, ở đây được trưng bày như một phần của con đường, sự thật và cuộc sống. Nó thay thế, bằng cách sử dụng các nguyên tắc đầu tiên, lá bài cũ của hôn nhân, mà tôi đã mô tả trước đây, và các nguyên tắc sau đó mô tả con người giữa phụ nữ và đức hạnh. Theo một nghĩa nào đó, lá bài là một bí ẩn của Giao ước và Ngày Sa-bát. \nĐề xuất về người phụ nữ là cô ấy biểu thị sự hấp dẫn đối với cuộc sống nhạy cảm mang trong nó ý tưởng về Sự sụp đổ của Con người, nhưng cô ấy là chứ không phải là hoạt động của Quy luật Quan phòng Bí mật hơn là một kẻ cám dỗ sẵn sàng và có ý thức. Chính nhờ sự mất hiệu lực ngầm của cô ấy mà cuối cùng người đàn ông sẽ xuất hiện, và chỉ có cô ấy, anh ta mới có thể hoàn thiện bản thân mình. Do đó, lá bài theo cách của nó là một nội dung khác liên quan đến bí ẩn lớn lao của tình phụ nữ. Những ý nghĩa cũ rơi xuống mức cần thiết với những bức tranh cũ, nhưng ngay cả khi giải thích về những bức tranh cũ, một số trong số chúng là thứ tự của thông thường và những bức khác là sai về biểu tượng.",
+            "interpretation": "Sự hấp dẫn, tình yêu, vẻ đẹp, thử thách vượt qua.",
+            "reversed": "Thất bại, những thiết kế ngu ngốc. Một tài khoản khác nói về hôn nhân thất vọng và trái ngược đủ loại."
+        },
+        "en": {
+            "description": "The sun shines in the zenith, and beneath is a great winged figure with arms extended, pouring down influences. In the foreground are two human figures, male and female, unveiled before each other, as if Adam and Eve when they first occupied the paradise of the earthly body. Behind the man is the Tree of Life, bearing twelve fruits, and the Tree of the Knowledge of Good and Evil is behind the woman; the serpent is twining round it. The figures suggest youth, virginity, innocence and love before it is contaminated by gross material desire. This is in all simplicity the card of human love, here exhibited as part of the way, the truth and the life. It replaces, by recourse to first principles, the old card of marriage, which I have described previously, and the later follies which depicted man between vice and virtue. In a very high sense, the card is a mystery of the Covenant and Sabbath.\nThe suggestion in respect of the woman is that she signifies that attraction towards the sensitive life which carries within it the idea of the Fall of Man, but she is rather the working of a Secret Law of Providence than a willing and conscious temptress. It is through her imputed lapse that man shall arise ultimately, and only by her can he complete himself. The card is therefore in its way another intimation concerning the great mystery of womanhood. The old meanings fall to pieces of necessity with the old pictures, but even as interpretations of the latter, some of them were of the order of commonplace and others were false in symbolism.",
+            "interpretation": "Attraction, love, beauty, trials overcome.",
+            "reversed": "Failure, foolish designs. Another account speaks of marriage frustrated and contrarieties of all kinds."
+        }
+    },
+    {
+        "name": "Six of Swords",
+        "suite": "Swords",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Six-of-Swords-icon.png",
+        "vi": {
+            "description": "Một người lái phà chở hành khách trong tình trạng nguy hiểm đến bờ biển xa hơn. Vận trình suôn sẻ, thấy tiền vận nhẹ nhàng, có thể nhận thấy công việc không ngoài sức của mình.",
+            "interpretation": "hành trình bằng đường thủy, tuyến đường, đường đi, phái viên, người truyền giáo, người thám hiểm.",
+            "reversed": "Tuyên bố, tự thú, công khai; một lời tường thuật nói rằng đó là một lời cầu hôn của tình yêu."
+        },
+        "en": {
+            "description": "A ferryman carrying passengers in his punt to the further shore. The course is smooth, and seeing that the freight is light, it may be noted that the work is not beyond his strength.",
+            "interpretation": "journey by water, route, way, envoy, commissionary, expedient.",
+            "reversed": "Declaration, confession, publicity; one account says that it is a proposal of love."
+        }
+    },
+    {
+        "name": "Queen of Cups",
+        "suite": "Cups",
+        "image": "https://tarot.vn/wp-content/uploads/2014/09/Queen-of-Cups-icon.png",
+        "vi": {
+            "description": "Đẹp đẽ, công bằng, mơ mộng - như một người nhìn thấy những điều trông thấy trong một chiếc cốc. Tuy nhiên, đây chỉ là một trong những khía cạnh của cô ấy; cô ấy nhìn thấy nhưng cô ấy cũng hành động và hoạt động của cô ấy nuôi dưỡng ước mơ của cô ấy.",
+            "interpretation": "Người phụ nữ tốt, công bằng; người phụ nữ trung thực, tận tụy, người sẽ phục vụ Querent; trí thông minh yêu thương, và do đó là món quà của tầm nhìn; thành công, hạnh phúc, vui vẻ; cũng là trí tuệ, đức hạnh; một người vợ hoàn hảo và một người mẹ tốt.",
+            "reversed": "Các tài khoản khác nhau; người phụ nữ tốt; nếu không, người phụ nữ nổi bật nhưng không đáng tin cậy; người phụ nữ đồi bại; phó mặc, đê tiện, sa đọa."
+        },
+        "en": {
+            "description": "Beautiful, fair, dreamy--as one who sees visions in a cup. This is, however, only one of her aspects; she sees, but she also acts, and her activity feeds her dream.",
+            "interpretation": "Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue; a perfect spouse and a good mother.",
+            "reversed": "The accounts vary; good woman; otherwise, distinguished woman but one not to be trusted; perverse woman; vice, dishonour, depravity."
+        }
+    },
+    {
+        "name": "Ace of Wands",
+        "suite": "Wands",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Ace-of-Wands-icon.png",
+        "vi": {
+            "description": "Một bàn tay phát ra từ đám mây nắm lấy một cây đũa phép hoặc câu lạc bộ cứng cáp.",
+            "interpretation": "Sáng tạo, phát minh, doanh nghiệp, quyền hạn dẫn đến những điều này; nguyên tắc, đầu, nguồn; sự ra đời, gia đình, nguồn gốc, và theo một nghĩa nào đó là sự thâm độc đằng sau họ; điểm xuất phát của doanh nghiệp; theo tài khoản khác là tiền, tài sản, thừa kế.",
+            "reversed": "Sự sụp đổ, suy đồi, đổ nát, diệt vong, diệt vong cũng là một niềm vui nhất định bị vẩn đục."
+        },
+        "en": {
+            "description": "A hand issuing from a cloud grasps a stout wand or club.",
+            "interpretation": " Creation, invention, enterprise, the powers which result in these; principle, beginning, source; birth, family, origin, and in a sense the virility which is behind them; the starting point of enterprises; according to another account, money, fortune, inheritance.",
+            "reversed": "Fall, decadence, ruin, perdition, to perish also a certain clouded joy."
+        }
+    },
+    {
+        "name": "Nine of Swords",
+        "suite": "Swords",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Nine-of-Swords-icon.png",
+        "vi": {
+            "description": "Một người ngồi trên chiếc ghế dài của cô ấy than thở, với những thanh kiếm trên người cô ấy. Cô ấy là một người không biết nỗi buồn giống như của cô ấy. Nó là một lá bài của sự hoang vắng hoàn toàn.",
+            "interpretation": "Cái chết, thất bại, sẩy thai, trì hoãn, lừa dối, thất vọng, tuyệt vọng.",
+            "reversed": "Bỏ tù, nghi ngờ, nghi ngờ, sợ hãi hợp lý, xấu hổ."
+        },
+        "en": {
+            "description": "One seated on her couch in lamentation, with the swords over her. She is as one who knows no sorrow which is like unto hers. It is a card of utter desolation.",
+            "interpretation": "Death, failure, miscarriage, delay, deception, disappointment, despair.",
+            "reversed": "Imprisonment, suspicion, doubt, reasonable fear, shame."
+        }
+    },
+    {
+        "name": "Star",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/17-Star-icon.png",
+        "vi": {
+            "description": "Một ngôi sao lớn, rạng rỡ gồm tám tia, được bao quanh bởi bảy ngôi sao nhỏ hơn - cũng có tám tia. Hình ảnh phụ nữ ở phía trước hoàn toàn khỏa thân. Đầu gối trái của cô ấy ở trên mặt đất và bàn chân phải của cô ấy ở trên mặt nước. Cô ấy đổ Nước Sự sống từ hai con sông lớn, tưới nước biển và đất liền. Phía sau cô ấy là nền đất trồi lên và bên phải là một bụi cây hoặc cây cối, nơi có một con chim bay lên. Con số thể hiện tuổi trẻ và vẻ đẹp vĩnh cửu. Ngôi sao là l'etoile flamboyante, xuất hiện trong biểu tượng Masonic, nhưng đã bị nhầm lẫn trong đó. Cái mà hình thể giao tiếp với cảnh sống là bản chất của trời và các nguyên tố. Người ta đã thực sự nói rằng phương châm của lá bài này là 'Nước của sự sống tự do' và 'Quà tặng của tinh thần'. Bản tóm tắt của một số lời giải thích mang tính chế nhạo nói rằng đó là một lá bài của hy vọng. Trên các máy bay khác, nó đã được chứng nhận là bất tử và ánh sáng bên trong. Đối với phần lớn những tâm trí đã chuẩn bị sẵn sàng, nhân vật sẽ xuất hiện như kiểu Chân lý được tiết lộ, vẻ đẹp rực rỡ bất diệt, đổ xuống dòng nước của tâm hồn một phần nào đó và đo lường sự sở hữu vô giá của cô ấy. Nhưng trên thực tế, cô ấy là Người Mẹ Vĩ đại trong Sephira Binah Kabalistic, đó là sự Hiểu biết siêu phàm, người đã giao tiếp với Sephiroth ở bên dưới để họ có thể tiếp nhận dòng chảy của cô ấy.",
+            "interpretation": "Mất mát, trộm cắp, thiếu thốn, bị bỏ rơi; một bài đọc khác nói-hy vọng và triển vọng tươi sáng",
+            "reversed": "Kiêu căng, ngạo mạn, bất lực."
+        },
+        "en": {
+            "description": "A great, radiant star of eight rays, surrounded by seven lesser stars--also of eight rays. The female figure in the foreground is entirely naked. Her left knee is on the land and her right foot upon the water. She pours Water of Life from two great ewers, irrigating sea and land. Behind her is rising ground and on the right a shrub or tree, whereon a bird alights. The figure expresses eternal youth and beauty. The star is l'etoile flamboyante, which appears in Masonic symbolism, but has been confused therein. That which the figure communicates to the living scene is the substance of the heavens and the elements. It has been said truly that the mottoes of this card are 'Waters of Life freely' and 'Gifts of the Spirit'. The summary of several tawdry explanations says that it is a card of hope. On other planes it has been certified as immortality and interior light. For the majority of prepared minds, the figure will appear as the type of Truth unveiled, glorious in undying beauty, pouring on the waters of the soul some part and measure of her priceless possession. But she is in reality the Great Mother in the Kabalistic Sephira Binah, which is supernal Understanding, who communicates to the Sephiroth that are below in the measure that they can receive her influx.",
+            "interpretation": "Loss, theft, privation, abandonment; another reading says-hope and bright prospects,",
+            "reversed": "Arrogance, haughtiness, impotence."
+        }
+    },
+    {
+        "name": "Wheel of Fortune",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/10-Wheel-of-Fortune-icon.png",
+        "vi": {
+            "description": "Trong biểu tượng này, tôi đã một lần nữa theo dõi sự tái tạo của Eliphas Levi, người đã cung cấp một số biến thể. Việc sử dụng biểu tượng Ai Cập khi điều này phục vụ mục đích của chúng ta là hợp pháp - như tôi đã nói - sử dụng biểu tượng Ai Cập khi điều này phục vụ mục đích của chúng ta, với điều kiện là không có lý thuyết nguồn gốc nào được ngụ ý trong đó. Tuy nhiên, tôi đã trình bày Typhon trong hình dạng rắn của anh ta. Tất nhiên, biểu tượng không chỉ là của người Ai Cập, vì bốn Sinh vật Sống của Ezekiel chiếm các góc của lá bài, và bản thân bánh xe cũng tuân theo các chỉ dẫn khác của Levi đối với tầm nhìn của Ezekiel, như minh họa cho Chìa khóa Tarot cụ thể. Với nhà huyền bí học người Pháp, và trong chính thiết kế, bức tranh tượng trưng cho sự chuyển động vĩnh viễn của một vũ trụ linh hoạt và cho dòng chảy của cuộc sống con người. Tượng Nhân sư là điểm cân bằng trong đó. Phiên âm của Taro là Rota được khắc trên bánh xe, được thay thế bằng các chữ cái của Thần thánh - để hiểu rằng Chúa quan phòng được bao hàm trong tất cả. Nhưng đây là ý định thiêng liêng bên trong, và ý định tương tự mà không có ý định đó được minh họa bởi bốn Sinh vật sống. Đôi khi tượng nhân sư được tượng trưng cho tượng trưng bày trên một cái bệ phía trên, điều này đánh lừa tính biểu tượng bằng cách nuôi dưỡng ý tưởng thiết yếu về sự ổn định giữa chuyển động. Đằng sau khái niệm chung được thể hiện trong biểu tượng đó là sự từ chối cơ hội và cái chết được ngụ ý trong đó. Có thể nói thêm rằng, từ thời Levi trở đi, những lời giải thích huyền bí của lá bài này - ngay cả đối với bản thân thuyết huyền bí - thuộc loại đặc biệt béo bở. Nó đã được cho là có nghĩa là nguyên tắc, giàu có, danh dự thấp kém, quyền lực cai trị.",
+            "interpretation": "Vận mệnh, tài lộc, thành công, thăng tiến, may mắn, trọng tội.",
+            "reversed": "Lớn lên, vô số, thừa thãi."
+        },
+        "en": {
+            "description": "In this symbol I have again followed the reconstruction of Eliphas Levi, who has furnished several variants. It is legitimate--as I have intimated--to use Egyptian symbolism when this serves our purpose, provided that no theory of origin is implied therein. I have, however, presented Typhon in his serpent form. The symbolism is, of course, not exclusively Egyptian, as the four Living Creatures of Ezekiel occupy the angles of the card, and the wheel itself follows other indications of Levi in respect of Ezekiel's vision, as illustrative of the particular Tarot Key. With the French occultist, and in the design itself, the symbolic picture stands for the perpetual motion of a fluidic universe and for the flux of human life. The Sphinx is the equilibrium therein. The transliteration of Taro as Rota is inscribed on the wheel, counterchanged with the letters of the Divine Name--to shew that Providence is imphed through all. But this is the Divine intention within, and the similar intention without is exemplified by the four Living Creatures. Sometimes the sphinx is represented couchant on a pedestal above, which defrauds the symbolism by stultifying the essential idea of stability amidst movement. Behind the general notion expressed in the symbol there lies the denial of chance and the fatality which is implied therein. It may be added that, from the days of Levi onward, the occult explanations of this card are--even for occultism itself--of a singularly fatuous kind. It has been said to mean principle, fecundity, virile honour, ruling authority, etc. The findings of common fortune-telling are better than this on their own plane.",
+            "interpretation": "Destiny, fortune, success, elevation, luck, felicity.",
+            "reversed": "Increase, abundance, superfluity."
+        }
+    },
+    {
+        "name": "Six of Pentacles",
+        "suite": "Pentacles",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Six-of-Pentacles-icon.png",
+        "vi": {
+            "description": "Một người trong lốt thương nhân cân tiền trong một cặp cân và phân phát cho những người khốn khó và túng quẫn. Đó là bằng chứng cho sự thành công của chính anh ấy trong cuộc sống, cũng như cho tấm lòng nhân hậu của anh ấy.",
+            "interpretation": "Quà tặng, quà tặng, sự hài lòng một tài khoản khác nói rằng sự chú ý, cảnh giác bây giờ là thời điểm được chấp nhận, sự thịnh vượng hiện tại, v.v.",
+            "reversed": "Ham muốn, tình yêu, đố kỵ, ghen tị, ảo tưởng."
+        },
+        "en": {
+            "description": "A person in the guise of a merchant weighs money in a pair of scales and distributes it to the needy and distressed. It is a testimony to his own success in life, as well as to his goodness of heart.",
+            "interpretation": "Presents, gifts, gratification another account says attention, vigilance now is the accepted time, present prosperity, etc.",
+            "reversed": "Desire, cupidity, envy, jealousy, illusion."
+        }
+    },
+    {
+        "name": "Seven of Swords",
+        "suite": "Swords",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Seven-of-Swords-icon.png",
+        "vi": {
+            "description": "Một người đàn ông trong hành động mang đi nhanh chóng năm thanh kiếm; hai thẻ khác vẫn bị mắc kẹt trong đất. Một trại đã đóng lại trong tầm tay.",
+            "interpretation": "Thiết kế, cố gắng, mong muốn, hy vọng, tự tin; cũng hay cãi vã, một kế hoạch có thể thất bại, bức xúc. Thiết kế không chắc chắn trong việc nhập khẩu của nó, bởi vì ý nghĩa của nó rất khác nhau.",
+            "reversed": "Lời khuyên tốt, khuyên bảo, chỉ dẫn, vu khống, nói lảm nhảm."
+        },
+        "en": {
+            "description": "A man in the act of carrying away five swords rapidly; the two others of the card remain stuck in the ground. A camp is close at hand.",
+            "interpretation": "Design, attempt, wish, hope, confidence; also quarrelling, a plan that may fail, annoyance. The design is uncertain in its import, because the significations are widely at variance with each other.",
+            "reversed": "Good advice, counsel, instruction, slander, babbling."
+        }
+    },
+    {
+        "name": "Knight of Pentacles",
+        "suite": "Pentacles",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Knight-of-Pentacles-icon.png",
+        "vi": {
+            "description": "Anh ta cưỡi một con ngựa nặng nề, chậm chạp, bền bỉ, tương ứng với khía cạnh của anh ta. Anh ta trưng bày biểu tượng của mình, nhưng không nhìn vào đó.",
+            "interpretation": "Tiện ích, khả năng phục vụ, quan tâm, trách nhiệm, thái độ - tất cả trên bình diện bình thường và bên ngoài.",
+            "reversed": "Chậm chạp, sự nhàn rỗi, sự yên bình của lòng tốt, sự trì trệ; cũng có sự dịu dàng, chán nản, bất cẩn."
+        },
+        "en": {
+            "description": "He rides a slow, enduring, heavy horse, to which his own aspect corresponds. He exhibits his symbol, but does not look therein.",
+            "interpretation": "Utility, serviceableness, interest, responsibility, rectitude-all on the normal and external plane.",
+            "reversed": "Inertia, idleness, repose of that kind, stagnation; also placidity, discouragement, carelessness."
+        }
+    },
+    {
+        "name": "Four of Swords",
+        "suite": "Swords",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Four-of-Swords-icon.png",
+        "vi": {
+            "description": "Hình nộm của một hiệp sĩ trong thái độ cầu nguyện, ở chiều dài toàn bộ ngôi mộ của anh ta.",
+            "interpretation": "Cảnh giác, rút lui, cô độc, ẩn tu, lưu đày, lăng mộ và quan tài. Đó là những thứ cuối cùng đã gợi ý thiết kế.",
+            "reversed": "Quản lý khôn ngoan, cẩn thận, tiết kiệm, hám lợi, đề phòng, di chúc."
+        },
+        "en": {
+            "description": "The effigy of a knight in the attitude of prayer, at full length upon his tomb.",
+            "interpretation": "Vigilance, retreat, solitude, hermit's repose, exile, tomb and coffin. It is these last that have suggested the design.",
+            "reversed": "Wise administration, circumspection, economy, avarice, precaution, testament."
+        }
+    },
+    {
+        "name": "Two of Swords",
+        "suite": "Swords",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Two-of-Swords-icon.png",
+        "vi": {
+            "description": "Một nữ nhân vật có mũ trùm đầu đang cân bằng hai thanh kiếm trên vai.",
+            "interpretation": "Sự phù hợp và sự trang bị mà nó gợi ý, lòng dũng cảm, tình bạn, sự hòa hợp trong một trạng thái của vòng tay; cách đọc khác mang lại sự dịu dàng, trìu mến, thân mật. Đề xuất về sự hài hòa và các bài đọc thuận lợi khác phải được xem xét một cách đủ tiêu chuẩn, vì Swords nói chung không phải là biểu tượng của các lực lượng nhân từ trong các vấn đề của con người. Đảo ngược: Không trong sạch, giả dối, trùng lặp, không trung thành.",
+            "reversed": "Không có"
+        },
+        "en": {
+            "description": "A hoodwinked female figure balances two swords upon her shoulders.",
+            "interpretation": "Conformity and the equipoise which it suggests, courage, friendship, concord in a state of arms; another reading gives tenderness, affection, intimacy. The suggestion of harmony and other favourable readings must be considered in a qualified manner, as Swords generally are not symbolical of beneficent forces in human affairs.",
+            "reversed": "Imposture, falsehood, duplicity, disloyalty."
+        }
+    },
+    {
+        "name": "Hierophant",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/4-Emperor-icon.png",
+        "vi": {
+            "description": "Anh ta đội chiếc vương miện ba đầu và ngồi giữa hai cây cột, nhưng chúng không phải là của Ngôi đền được canh giữ bởi Nữ tư tế tối cao. Trong tay trái, anh ta cầm một cây vương trượng kết thúc bằng hình thập tự giá, và tay phải anh ta đưa ra dấu hiệu giáo hội nổi tiếng được gọi là bí truyền, phân biệt giữa phần hiển lộ và phần bị che giấu của giáo lý. Điều đáng chú ý trong mối liên hệ này là Nữ tư tế cao không có dấu hiệu nào. Dưới chân anh ấy là những chiếc chìa khóa bắt chéo, và hai người thừa tác viên linh mục trong albs quỳ gối trước anh ấy. Ông thường được gọi là Giáo hoàng, đây là một ứng dụng cụ thể của chức vụ tổng quát hơn mà ông tượng trưng. Anh ta là quyền lực thống trị của tôn giáo bên ngoài, như High Priestess là thiên tài phổ biến của quyền lực bí truyền, đã được rút lại. Ý nghĩa thích hợp của lá bài này đã phải chịu đựng sự phụ họa đáng tiếc từ hầu hết các bàn tay. Grand Orient thực sự nói rằng Hierophant là sức mạnh của những chiếc chìa khóa, học thuyết chính thống công nghệ, và là mặt bên ngoài của cuộc sống dẫn đến học thuyết; nhưng chắc chắn ông không phải là ông hoàng của học thuyết huyền bí, như một nhà bình luận khác đã gợi ý. Ông đúng hơn là nhà thần học summa totius, khi nó đã đi vào sự cứng nhắc tối đa của cách diễn đạt; nhưng Ngài cũng tượng trưng cho tất cả những gì chính đáng và thiêng liêng ở bên hiển lộ. Như vậy, anh ta là kênh ân sủng thuộc về thế giới của thể chế khác biệt với thể chế của Tự nhiên, và anh ta là người lãnh đạo sự cứu rỗi cho loài người nói chung. Anh ta là trật tự và là người đứng đầu của hệ thống phân cấp được công nhận, là sự phản ánh của một trật tự thứ bậc khác và lớn hơn; nhưng có thể xảy ra như vậy là Giáo hoàng quên mất tầm quan trọng của trạng thái biểu tượng này và hành động như thể ông ấy chứa trong các biện pháp thích hợp của mình tất cả những gì dấu hiệu của ông ấy biểu thị hoặc biểu tượng của ông ấy tìm cách lật tẩy. Như người ta vẫn nghĩ, ông không phải là triết học - ngoại trừ về mặt thần học; anh ấy không phải là nguồn cảm hứng; và anh ta không phải là tôn giáo, mặc dù anh ta là một phương thức biểu đạt của nó.",
+            "interpretation": "Hôn nhân, liên minh, giam cầm, nô lệ; bởi một tài khoản khác, lòng nhân từ và sự tốt lành; nguồn cảm hứng; người đàn ông mà Querent đã nhờ cậy.",
+            "reversed": "Xã hội, sự hiểu biết tốt, sự hòa hợp, sự quá khích, sự yếu kém."
+        },
+        "en": {
+            "description": "He wears the triple crown and is seated between two pillars, but they are not those of the Temple which is guarded by the High Priestess. In his left hand he holds a sceptre terminating in the triple cross, and with his right hand he gives the well-known ecclesiastical sign which is called that of esotericism, distinguishing between the manifest and concealed part of doctrine. It is noticeable in this connexion that the High Priestess makes no sign. At his feet are the crossed keys, and two priestly ministers in albs kneel before him. He has been usually called the Pope, which is a particular application of the more general office that he symbolizes. He is the ruling power of external religion, as the High Priestess is the prevailing genius of the esoteric, withdrawn power. The proper meanings of this card have suffered woeful admixture from nearly all hands. Grand Orient says truly that the Hierophant is the power of the keys, exoteric orthodox doctrine, and the outer side of the life which leads to the doctrine; but he is certainly not the prince of occult doctrine, as another commentator has suggested. He is rather the summa totius theologiæ, when it has passed into the utmost rigidity of expression; but he symbolizes also all things that are righteous and sacred on the manifest side. As such, he is the channel of grace belonging to the world of institution as distinct from that of Nature, and he is the leader of salvation for the human race at large. He is the order and the head of the recognized hierarchy, which is the reflection of another and greater hierarchic order; but it may so happen that the pontiff forgets the significance of this his symbolic state and acts as if he contained within his proper measures all that his sign signifies or his symbol seeks to shew forth. He is not, as it has been thought, philosophy-except on the theological side; he is not inspiration; and he is not religion, although he is a mode of its expression.",
+            "interpretation": "Marriage, alliance, captivity, servitude; by another account, mercy and goodness; inspiration; the man to whom the Querent has recourse.",
+            "reversed": "Society, good understanding, concord, overkindness, weakness."
+        }
+    },
+    {
+        "name": "Ace of Swords",
+        "suite": "Swords",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Ace-of-Swords-icon.png",
+        "vi": {
+            "description": "Một bàn tay đưa ra từ một đám mây, nắm bắt như lời nói, điểm của nó được bao quanh bởi một vương miện.",
+            "interpretation": "Chiến thắng, mức độ quá mức trong mọi thứ, chinh phục, chiến thắng của lực lượng. Nó là một lá bài có sức mạnh to lớn, trong tình yêu cũng như sự thù hận. Vương miện có thể mang một ý nghĩa cao hơn nhiều so với thông thường trong lĩnh vực bói toán.",
+            "reversed": "Giống nhau, nhưng kết quả thật thảm hại; một tài khoản khác nói - thụ thai, sinh con, nâng cao, đa dạng."
+        },
+        "en": {
+            "description": "A hand issues from a cloud, grasping as word, the point of which is encircled by a crown.",
+            "interpretation": "Triumph, the excessive degree in everything, conquest, triumph of force. It is a card of great force, in love as well as in hatred. The crown may carry a much higher significance than comes usually within the sphere of fortune-telling.",
+            "reversed": "The same, but the results are disastrous; another account says--conception, childbirth, augmentation, multiplicity."
+        }
+    },
+    {
+        "name": "Two of Cups",
+        "suite": "Cups",
+        "image": "https://tarot.vn/wp-content/uploads/2014/09/Two-of-Cups-icon.png",
+        "vi": {
+            "description": "Một thanh niên và thiếu nữ đang cam kết với nhau, và phía trên chiếc cốc của họ có Trượng của Hermes, giữa đôi cánh vĩ đại có hình một đầu sư tử. Nó là một biến thể của một dấu hiệu được tìm thấy trong một vài ví dụ cũ của thẻ này. Một số ý nghĩa biểu tượng tò mò được đính kèm với nó, nhưng chúng không liên quan đến chúng tôi ở nơi này.",
+            "interpretation": "Tình yêu, niềm đam mê, tình bạn, mối quan hệ, sự kết hợp, sự hòa hợp, sự cảm thông, mối tương quan của hai giới và - như một gợi ý ngoài tất cả các nhiệm vụ của bói toán - mong muốn đó không có trong Tự nhiên, mà là do Tự nhiên được thần thánh hóa.",
+            "reversed": "Không có"
+        },
+        "en": {
+            "description": "A youth and maiden are pledging one another, and above their cups rises the Caduceus of Hermes, between the great wings of which there appears a lion's head. It is a variant of a sign which is found in a few old examples of this card. Some curious emblematical meanings are attached to it, but they do not concern us in this place.",
+            "interpretation": "Love, passion, friendship, affinity, union, concord, sympathy, the interrelation of the sexes, and--as a suggestion apart from all offices of divination--that desire which is not in Nature, but by which Nature is sanctified.",
+            "reversed": "Empty"
+        }
+    },
+    {
+        "name": "Three of Wands",
+        "suite": "Wands",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Three-of-Wands-icon.png",
+        "vi": {
+            "description": "Một nhân vật điềm đạm, trang nghiêm, quay lưng lại, nhìn từ mép vách đá về những con tàu đang đi qua biển. Ba cây gậy được cắm trên mặt đất và anh ta hơi dựa vào một trong số chúng.",
+            "interpretation": "Ông tượng trưng cho sức mạnh thành lập, doanh nghiệp, nỗ lực, giao thương, thương mại, khám phá; đó là những con tàu của anh ta, chở hàng hóa của anh ta, đang đi trên biển. Lá bài cũng biểu thị khả năng hợp tác kinh doanh, như thể vị hoàng tử thương gia thành đạt đang nhìn từ phía anh ấy về phía bạn với mong muốn giúp đỡ bạn.",
+            "reversed": "Sự kết thúc của những rắc rối, đình chỉ hoặc chấm dứt nghịch cảnh, vất vả và thất vọng."
+        },
+        "en": {
+            "description": "A calm, stately personage, with his back turned, looking from a cliff's edge at ships passing over the sea. Three staves are planted in the ground, and he leans slightly on one of them.",
+            "interpretation": "He symbolizes established strength, enterprise, effort, trade, commerce, discovery; those are his ships, bearing his merchandise, which are sailing over the sea. The card also signifies able co-operation in business, as if the successful merchant prince were looking from his side towards yours with a view to help you.",
+            "reversed": "The end of troubles, suspension or cessation of adversity, toil and disappointment."
+        }
+    },
+    {
+        "name": "Five of Wands",
+        "suite": "Wands",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Five-of-Wands-icon.png",
+        "vi": {
+            "description": "Một đội gồm những thanh niên, những người đang vung cây gậy, như thể trong thể thao hoặc xung đột.",
+            "interpretation": "Ví dụ, cuộc chiến giả mạo, nhưng cũng là cuộc cạnh tranh và đấu tranh gay gắt để tìm kiếm sự giàu có và tài sản. Theo nghĩa này, nó kết nối với trận chiến của cuộc sống. Do đó, một số quy kết nói rằng nó là một thẻ vàng, lợi ích, sự sang trọng.",
+            "reversed": "Kiện tụng, tranh chấp, thủ đoạn, mâu thuẫn."
+        },
+        "en": {
+            "description": "A posse of youths, who are brandishing staves, as if in sport or strife.",
+            "interpretation": "Imitation, as, for example, sham fight, but also the strenuous competition and struggle of the search after riches and fortune. In this sense it connects with the battle of life. Hence some attributions say that it is a card of gold, gain, opulence.",
+            "reversed": "Litigation, disputes, trickery, contradiction."
+        }
+    },
+    {
+        "name": "Chariot",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/7-chariot-icon.png",
+        "vi": {
+            "description": "Một nhân vật cương nghị và oai phong mang theo một thanh kiếm được rút ra và nói một cách khái quát, tương ứng với mô tả truyền thống mà tôi đã đưa ra trong phần đầu tiên. Trên vai của người anh hùng chiến thắng được cho là Urim và Thummim. Anh ta đã dẫn đầu bị giam cầm; anh ta đang chinh phục trên mọi bình diện - trong tâm trí, trong khoa học, đang tiến triển, trong những thử thách nhất định của sự khởi đầu. Do đó, ông đã trả lời nhân sư, và chính vì lý do này mà tôi đã chấp nhận sự biến thể của Eliphas Levi; hai nhân sư do đó vẽ chiến xa của mình. Anh ấy là trên tất cả mọi thứ chiến thắng trong tâm trí. Vì lý do này cần được hiểu: \n(a) rằng câu hỏi về tượng nhân sư liên quan đến Bí ẩn của tự nhiên chứ không liên quan đến thế giới của Ân sủng, điều mà người đánh xe không thể đưa ra câu trả lời. \n(b) rằng các kế hoạch chinh phục của anh ta là biểu hiện hoặc bên ngoài chứ không phải bên trong bản thân anh ta. \n(c) rằng sự giải phóng mà anh ta tác động có thể khiến bản thân bị trói buộc bởi sự hiểu biết lôgic. \n(d) rằng các thử nghiệm khởi đầu mà anh ta đã vượt qua trong chiến thắng phải được hiểu về mặt lý tính hoặc lý trí. \n(e) rằng nếu anh ta đến những cây cột của Ngôi đền mà Nữ tư tế tối cao đang ngồi, anh ta không thể mở cuộn giấy có tên Tora, cũng như nếu cô ấy hỏi anh ta thì anh ta có thể trả lời không. Anh ta không phải là hoàng tộc cha truyền con nối và anh ta không phải là tư tế.",
+            "interpretation": "giúp đỡ, quan phòng cũng chiến tranh, chiến thắng, giả định, báo thù, rắc rối.",
+            "reversed": "Bạo loạn, cãi vã, tranh chấp, kiện tụng, thành bại."
+        },
+        "en": {
+            "description": "An erect and princely figure carrying a drawn sword and corresponding, broadly speaking, to the traditional description which I have given in the first part. On the shoulders of the victorious hero are supposed to be the Urim and Thummim. He has led captivity captive; he is conquest on all planes--in the mind, in science, in progress, in certain trials of initiation. He has thus replied to the sphinx, and it is on this account that I have accepted the variation of Eliphas Levi; two sphinxes thus draw his chariot. He is above all things triumph in the mind. It is to be understood for this reason (a) that the question of the sphinx is concerned with a Mystery of Nature and not of the world of Grace, to which the charioteer could offer no answer; (b) that the planes of his conquest are manifest or external and not within himself; (c) that the liberation which he effects may leave himself in the bondage of the logical understanding; (d) that the tests of initiation through which he has passed in triumph are to be understood physically or rationally; and (e) that if he came to the pillars of that Temple between which the High Priestess is seated, he could not open the scroll called Tora, nor if she questioned him could he answer. He is not hereditary royalty and he is not priesthood.",
+            "interpretation": "Succour, providence also war, triumph, presumption, vengeance, trouble.",
+            "reversed": "Riot, quarrel, dispute, litigation, defeat."
+        }
+    },
+    {
+        "name": "World",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/21-World-icon.png",
+        "vi": {
+            "description": "Vì thông điệp cuối cùng này của Trump chính là không thay đổi - và thực sự không thể thay đổi - về thiết kế của nó, nó đã được mô tả một phần liên quan đến ý nghĩa sâu sắc hơn của nó. Nó cũng đại diện cho sự hoàn hảo và kết thúc của Vũ trụ, bí mật bên trong nó, sự sung sướng của vũ trụ khi nó hiểu được chính nó trong Chúa. Nó còn là trạng thái của linh hồn trong ý thức của Divine Vision, được phản ánh từ tinh thần tự biết mình. Nhưng những ý nghĩa này không ảnh hưởng đến những ý nghĩa mà tôi đã nói về nó trên khía cạnh vật chất. Nó có nhiều hơn một thông điệp về mặt vũ trụ vĩ mô và chẳng hạn, trạng thái của thế giới được phục hồi khi quy luật biểu hiện sẽ được thực hiện ở mức độ hoàn thiện tự nhiên cao nhất. Nhưng có lẽ đặc biệt hơn là một câu chuyện của quá khứ, đề cập đến ngày đó khi tất cả được tuyên bố là tốt đẹp, khi các vì sao ban mai cùng nhau hát vang và tất cả Con cái của Đức Chúa Trời hét lên vì vui sướng. Một trong những lời giải thích tồi tệ nhất liên quan đến nó là hình tượng trưng cho Magus khi ông ấy đạt đến mức độ nhập môn cao nhất; một tài khoản khác nói rằng nó đại diện cho cái tuyệt đối, điều này thật nực cười. Con số này được cho là đại diện cho Truth, tuy nhiên, nó được phân bổ hợp lý hơn cho lá bài thứ mười bảy. Cuối cùng, nó được gọi là Crown of the Magi.",
+            "interpretation": "Thành công được đảm bảo, số tiền bồi thường, chuyến đi, tuyến đường, di cư, chuyến bay, thay đổi địa điểm.",
+            "reversed": "Quán tính, cố định, trì trệ, lâu dài."
+        },
+        "en": {
+            "description": "As this final message of the Major Trumps is unchanged--and indeed unchangeable--in respect of its design, it has been partly described already regarding its deeper sense. It represents also the perfection and end of the Cosmos, the secret which is within it, the rapture of the universe when it understands itself in God. It is further the state of the soul in the consciousness of Divine Vision, reflected from the self-knowing spirit. But these meanings are without prejudice to that which I have said concerning it on the material side. It has more than one message on the macrocosmic side and is, for example, the state of the restored world when the law of manifestation shall have been carried to the highest degree of natural perfection. But it is perhaps more especially a story of the past, referring to that day when all was declared to be good, when the morning stars sang together and all the Sons of God shouted for joy. One of the worst explanations concerning it is that the figure symbolizes the Magus when he has reached the highest degree of initiation; another account says that it represents the absolute, which is ridiculous. The figure has been said to stand for Truth, which is, however, more properly allocated to the seventeenth card. Lastly, it has been called the Crown of the Magi.",
+            "interpretation": "Assured success, recompense, voyage, route, emigration, flight, change of place.",
+            "reversed": "Inertia, fixity, stagnation, permanence."
+        }
+    },
+    {
+        "name": "Empress",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/3-Empress-icon.png",
+        "vi": {
+            "description": "Dáng người trang nghiêm, dáng ngồi, lễ phục sang trọng và đường nét vương giả, như con gái của trời đất. Vương miệng của cô ấy là mười hai ngôi sao tập hợp lại thành một. Biểu tượng của thần Vệ nữ nằm trên chiếc khiên đặt gần cô ấy. Trước mặt cô là một cánh đồng ngô đang chín, và bên kia là một bãi nước rơi. Vương trượng mà cô ấy mang đã vượt qua toàn cầu của thế giới này. Cô ấy là Vườn Địa Đàng thấp kém, Thiên đường của Trái đất, tất cả những gì được tượng trưng bằng ngôi nhà hữu hình của con người. Cô ấy không phải là Regina coeli, nhưng cô ấy vẫn là refugium peccatorum, người mẹ tốt của hàng ngàn người. Cũng có những khía cạnh nhất định mà cô ấy được mô tả chính xác là ham muốn và đôi cánh của nó, như người phụ nữ khoác lên mình tấm áo mặt trời, như Gloria Mundi và tấm màn che của Sanctum Sanctorum; nhưng cô ấy không phải, tôi có thể nói thêm, linh hồn đã đạt được đôi cánh, trừ khi tất cả các biểu tượng được tính theo một cách khác và bất thường. Cô ấy ở trên tất cả mọi thứ sự phong phú phổ quát và cảm giác bên ngoài của Lời. Điều này là hiển nhiên, bởi vì không có một thông điệp trực tiếp nào được trao cho người đàn ông giống như thông điệp do người phụ nữ sinh ra; Nhưng bản thân cô ấy không mang theo cách diễn giải của nó. và sau đó, con đường dẫn ra khỏi đó, dẫn đến cái bên ngoài, là bí mật mà Nữ tư tế tối cao biết: nó được cô ấy truyền đạt cho người được bầu chọn. Hầu hết các quy tắc cũ của lá bài này hoàn toàn sai về biểu tượng - chẳng hạn như sự đồng nhất của nó với Từ, Thiên tính, Bộ ba, v.v. ",
+            "interpretation": "Kết quả, hành động, sáng kiến, độ dài của ngày; điều chưa biết, bí mật; cũng khó khăn, nghi ngờ, thiếu hiểu biết.",
+            "reversed": "Ánh sáng, sự thật, làm sáng tỏ những vấn đề liên quan, sự vui mừng của công chúng; theo một cách đọc khác, vị trí tuyển dụng."
+        },
+        "en": {
+            "description": "A stately figure, seated, having rich vestments and royal aspect, as of a daughter of heaven and earth. Her diadem is of twelve stars, gathered in a cluster. The symbol of Venus is on the shield which rests near her. A field of corn is ripening in front of her, and beyond there is a fall of water. The sceptre which she bears is surmounted by the globe of this world. She is the inferior Garden of Eden, the Earthly Paradise, all that is symbolized by the visible house of man. She is not Regina coeli, but she is still refugium peccatorum, the fruitful mother of thousands. There are also certain aspects in which she has been correctly described as desire and the wings thereof, as the woman clothed with the sun, as Gloria Mundi and the veil of the Sanctum Sanctorum; but she is not, I may add, the soul that has attained wings, unless all the symbolism is counted up another and unusual way. She is above all things universal fecundity and the outer sense of the Word. This is obvious, because there is no direct message which has been given to man like that which is borne by woman; but she does not herself carry its interpretation.In another order of ideas, the card of the Empress signifies the door or gate by which an entrance is obtained into this life, as into the Garden of Venus; and then the way which leads out therefrom, into that which is beyond, is the secret known to the High Priestess: it is communicated by her to the elect. Most old attributions of this card are completely wrong on the symbolism--as, for example, its identification with the Word, Divine Nature, the Triad, and so forth.",
+            "interpretation": "Fruitfulness, action, initiative, length of days; the unknown, clandestine; also difficulty, doubt, ignorance.",
+            "reversed": "Light, truth, the unravelling of involved matters, public rejoicings; according to another reading, vacillation."
+        }
+    },
+    {
+        "name": "Emperor",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/4-Emperor-icon.png",
+        "vi": {
+            "description": "Anh ta có một hình dạng của Crux ansata cho quyền trượng và một quả địa cầu trên tay trái. Ông là một vị vua được trao vương miện - chỉ huy, trang nghiêm, ngồi trên ngai vàng, cánh tay cầm rìu đằng trước đầu của những con chó đực. Anh ta là người điều hành và hiện thực hóa, sức mạnh của thế giới này, ở đây được khoác lên mình những thuộc tính tự nhiên cao nhất của nó. Đôi khi, anh ta được thể hiện như đang ngồi trên một khối đá, tuy nhiên, điều này gây nhầm lẫn cho một số vấn đề. Anh ta là sức mạnh tối cao, được Nữ hoàng đáp lại, và theo nghĩa này, anh ta là người tìm cách gỡ bỏ Tấm màn che của Isis; nhưng cô ấy vẫn còn trinh nguyên. Cần hiểu rằng lá bài này và lá bài của Hoàng hậu không đại diện chính xác cho điều kiện của cuộc sống hôn nhân, mặc dù trạng thái này được ngụ ý. Bề ngoài, như tôi đã chỉ ra, họ đại diện cho hoàng gia trần tục, được nâng lên trên ghế của đấng quyền năng; nhưng ở trên điều này có gợi ý về một sự hiện diện khác. Họ cũng biểu thị - và đặc biệt là hình tượng nam giới - vương quyền cao hơn, chiếm ngôi trí tuệ. Đây là lãnh chúa của tư tưởng chứ không phải của thế giới động vật. Cả hai tính cách, theo cách riêng của họ, là 'đầy trải nghiệm kỳ lạ, nhưng của họ không phải là trí tuệ có ý thức được rút ra từ một thế giới cao hơn. The Emperor đã được mô tả là (a) ý chí trong hình thức hiện thân của nó, nhưng đây chỉ là một trong những ứng dụng của nó, và (b) như một biểu hiện của những ảo ảnh có trong Bản thể tuyệt đối - nhưng đây chỉ là tưởng tượng.",
+            "interpretation": "Tính ổn định, quyền lực, bảo vệ, hiện thực hóa; một người tuyệt vời; viện trợ, lý do, xác tín; cũng là thẩm quyền và ý chí.",
+            "reversed": "Nhân từ, nhân ái, tín nghĩa; cũng có sự nhầm lẫn với kẻ thù, trở ngại, non nớt."
+        },
+        "en": {
+            "description": "He has a form of the Crux ansata for his sceptre and a globe in his left hand. He is a crowned monarch--commanding, stately, seated on a throne, the arms of which axe fronted by rams' heads. He is executive and realization, the power of this world, here clothed with the highest of its natural attributes. He is occasionally represented as seated on a cubic stone, which, however, confuses some of the issues. He is the virile power, to which the Empress responds, and in this sense is he who seeks to remove the Veil of Isis; yet she remains virgo intacta. It should be understood that this card and that of the Empress do not precisely represent the condition of married life, though this state is implied. On the surface, as I have indicated, they stand for mundane royalty, uplifted on the seats of the mighty; but above this there is the suggestion of another presence. They signify also--and the male figure especially--the higher kingship, occupying the intellectual throne. Hereof is the lordship of thought rather than of the animal world. Both personalities, after their own manner, are 'full of strange experience,' but theirs is not consciously the wisdom which draws from a higher world. The Emperor has been described as (a) will in its embodied form, but this is only one of its applications, and (b) as an expression of virtualities contained in the Absolute Being--but this is fantasy.",
+            "interpretation": "Stability, power, protection, realization; a great person; aid, reason, conviction; also authority and will.",
+            "reversed": "Benevolence, compassion, credit; also confusion to enemies, obstruction, immaturity."
+        }
+    },
+    {
+        "name": "Knight of Wands",
+        "suite": "Wands",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Knight-of-Wands-icon.png",
+        "vi": {
+            "description": "Anh ta bị xẻ thịt như thể trong một cuộc hành trình, được trang bị một cây đũa phép ngắn, và mặc dù được gửi qua đường bưu điện không phải là một việc vặt hiếu chiến. Anh ta đang đi qua các gò đất hoặc kim tự tháp. Chuyển động của con ngựa là chìa khóa cho tính cách của người cưỡi ngựa, và gợi ý tâm trạng thích thú, hoặc những thứ liên quan đến nó.",
+            "interpretation": "Khởi hành, vắng mặt, chuyến bay, di cư. Một thanh niên da màu thân thiện. Thay đổi nơi cư trú.",
+            "reversed": "Tan vỡ, chia rẽ, gián đoạn, bất hòa."
+        },
+        "en": {
+            "description": "He is shewn as if upon a journey, armed with a short wand, and although mailed is not on a warlike errand. He is passing mounds or pyramids. The motion of the horse is a key to the character of its rider, and suggests the precipitate mood, or things connected therewith.",
+            "interpretation": "Departure, absence, flight, emigration. A dark young man, friendly. Change of residence.",
+            "reversed": "Rupture, division, interruption, discord."
+        }
+    },
+    {
+        "name": "Queen of Wands",
+        "suite": "Wands",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Queen-of-Wands-icon.png",
+        "vi": {
+            "description": "Đũa phép trong suốt bộ đồ này luôn ở dạng lá, vì nó là bộ đồ của cuộc sống và hoạt hình. Về mặt tình cảm và mặt khác, tính cách của Nữ hoàng tương ứng với tính cách của Nhà vua, nhưng có nhiều từ tính hơn.",
+            "interpretation": "Một người phụ nữ da màu, đồng quê, thân thiện, thuần khiết, đáng yêu, danh dự. Nếu lá bài bên cạnh cô ấy biểu thị một người đàn ông, cô ấy có thái độ tốt với anh ta; nếu là phụ nữ, cô ấy quan tâm đến Querent. Ngoài ra, thích tiền bạc, hoặc thành công nhất định trong kinh doanh.",
+            "reversed": "Tốt, tiết kiệm, bắt buộc, có thể phục vụ được. Cũng có dấu hiệu - nhưng ở một số vị trí nhất định và trong vùng lân cận của các lá bài khác có xu hướng theo hướng như vậy - sự chống đối, ghen tuông, thậm chí lừa dối và không chung thủy."
+        },
+        "en": {
+            "description": "The Wands throughout this suit are always in leaf, as it is a suit of life and animation. Emotionally and otherwise, the Queen's personality corresponds to that of the King, but is more magnetic.",
+            "interpretation": "A dark woman, countrywoman, friendly, chaste, loving, honourable. If the card beside her signifies a man, she is well disposed towards him; if a woman, she is interested in the Querent. Also, love of money, or a certain success in business.",
+            "reversed": "Good, economical, obliging, serviceable. Signifies also--but in certain positions and in the neighbourhood of other cards tending in such directions--opposition, jealousy, even deceit and infidelity."
+        }
+    },
+    {
+        "name": "Hermit",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/9-Hermit-icon.png",
+        "vi": {
+            "description": "Sự khác biệt so với các mô hình thông thường trong thẻ này chỉ là chiếc đèn không được bao bọc một phần trong lớp áo của người mang nó, người đã pha trộn ý tưởng của Ngày cổ đại với Ánh sáng của thế giới. Đó là một ngôi sao tỏa sáng trong đèn lồng. Tôi đã nói rằng đây là một lá bài của sự đạt được, và để mở rộng quan niệm này, người ta nhìn thấy nhân vật này đang giơ cao ngọn hải đăng của mình một cách xuất sắc. Do đó, tu sĩ, như Court de Gebelin giải thích, không phải là một người khôn ngoan trong việc tìm kiếm sự thật và công lý; , như một lời giải thích sau này đề xuất, anh ta cũng không phải là một ví dụ đặc biệt về kinh nghiệm. Dấu hiệu của anh ấy ám chỉ rằng 'tôi ở đâu, bạn cũng có thể ở đó'. Nó còn là một lá bài được hiểu khá sai khi nó được kết nối với ý tưởng về sự cô lập huyền bí, như là sự bảo vệ từ tính cá nhân chống lại chất phụ gia. Đây là một trong những kết xuất phù phiếm mà chúng ta nợ Eliphas Levi. Nó đã được Hội Martinism của Pháp áp dụng và một số người trong chúng ta đã nghe rất nhiều về Triết học Im lặng và Không biết được bao bọc bởi lớp áo của ông từ những hiểu biết về những điều tục tĩu. Trong chủ nghĩa Martinism thực sự, ý nghĩa của thuật ngữ Philosophe evalnu thuộc một trật tự khác. Nó không ám chỉ đến mục đích che giấu các Bí ẩn được tạo ra, ít hơn nhiều so với các sản phẩm thay thế của chúng, nhưng - giống như chính lá bài - nói đến sự thật rằng các Bí ẩn Thần thánh đảm bảo sự bảo vệ của chính chúng khỏi những kẻ không chuẩn bị.",
+            "interpretation": "Thận trọng, thận trọng; cũng và đặc biệt là phản quốc, tiêu điều, lừa đảo, tham nhũng.",
+            "reversed": "Che giấu, ngụy trang, chính sách, sợ hãi, thận trọng không cần thiết."
+        },
+        "en": {
+            "description": "The variation from the conventional models in this card is only that the lamp is not enveloped partially in the mantle of its bearer, who blends the idea of the Ancient of Days with the Light of the World It is a star which shines in the lantern. I have said that this is a card of attainment, and to extend this conception the figure is seen holding up his beacon on an eminence. Therefore the Hermit is not, as Court de Gebelin explained, a wise man in search of truth and justice; nor is he, as a later explanation proposes, an especial example of experience. His beacon intimates that 'where I am, you also may be'. It is further a card which is understood quite incorrectly when it is connected with the idea of occult isolation, as the protection of personal magnetism against admixture. This is one of the frivolous renderings which we owe to Eliphas Levi. It has been adopted by the French Order of Martinism and some of us have heard a great deal of the Silent and Unknown Philosophy enveloped by his mantle from the knowledge of the profane. In true Martinism, the significance of the term Philosophe inconnu was of another order. It did not refer to the intended concealment of the Instituted Mysteries, much less of their substitutes, but--like the card itself--to the truth that the Divine Mysteries secure their own protection from those who are unprepared.",
+            "interpretation": "Prudence, circumspection; also and especially treason, dissimulation, roguery, corruption.",
+            "reversed": "Concealment, disguise, policy, fear, unreasoned caution."
+        }
+    },
+    {
+        "name": "Three of Swords",
+        "suite": "Swords",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Three-of-Swords-icon.png",
+        "vi": {
+            "description": "Ba thanh kiếm xuyên qua một trái tim; mây và mưa phía sau.",
+            "interpretation": "Loại bỏ, vắng mặt, trì hoãn, phân chia, phá vỡ, phân tán và tất cả những gì thiết kế biểu thị một cách tự nhiên, quá đơn giản và rõ ràng để gọi cho một kiểu liệt kê cụ thể.",
+            "reversed": "Xa lánh tinh thần, sai sót, mất mát, mất tập trung, rối loạn, nhầm lẫn."
+        },
+        "en": {
+            "description": "Three swords piercing a heart; cloud and rain behind.",
+            "interpretation": "Removal, absence, delay, division, rupture, dispersion, and all that the design signifies naturally, being too simple and obvious to call for specific enumeration.",
+            "reversed": "Mental alienation, error, loss, distraction, disorder, confusion."
+        }
+    },
+    {
+        "name": "Four of Pentacles",
+        "suite": "Pentacles",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Four-of-Pentacles-icon.png",
+        "vi": {
+            "description": "Một nhân vật được trao vương miện, có một ngôi sao năm cánh trên vương miện của mình, siết chặt một người khác bằng bàn tay và cánh tay; dưới chân anh ta có hai chữ ngũ sắc. Anh ta nắm giữ những gì anh ta có.",
+            "interpretation": "Sự chắc chắn của tài sản, liên quan đến tài sản mà một người có, quà tặng, di sản, tài sản thừa kế.",
+            "reversed": "Hồi hộp, trì hoãn, đối lập."
+        },
+        "en": {
+            "description": "A crowned figure, having a pentacle over his crown, clasps another with hands and arms; two pentacles are under his feet. He holds to that which he has.",
+            "interpretation": "The surety of possessions, cleaving to that which one has, gift, legacy, inheritance.",
+            "reversed": "Suspense, delay, opposition."
+        }
+    },
+    {
+        "name": "The Magician",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/1-Magician-icon.png",
+        "vi": {
+            "description": "Một nhân vật trẻ trung trong chiếc áo choàng của một pháp sư, có khuôn mặt của thần Apollo, với nụ cười tự tin và đôi mắt sáng. Trên đầu anh là dấu huyền bí của Chúa Thánh Thần, dấu hiệu của sự sống, như một sợi dây bất tận, tạo thành hình số 8 nằm ngang. Ở phần eo của anh ta là một hình rắn, con rắn dường như đang nuốt chửng cái đuôi của chính nó. Điều này quen thuộc với hầu hết như một biểu tượng truyền thống của sự vĩnh cửu, nhưng ở đây nó chỉ ra đặc biệt hơn là sự vĩnh cửu của sự đạt được trong tinh thần. Trong tay phải của Magician là một cây đũa phép hướng lên trời, trong khi tay trái hướng xuống đất. Dấu hiệu kép này được biết đến trong các hạng rất cao của các Bí ẩn được Định chế; nó thể hiện nguồn gốc của ân sủng, đức hạnh và ánh sáng, rút ​​ra từ những thứ bên trên và bắt nguồn từ những thứ bên dưới. Do đó, gợi ý xuyên suốt là sở hữu và giao tiếp các Quyền năng và Quà tặng của Thần linh. Trên bàn trước mặt Nhà ảo thuật là biểu tượng của bốn bộ đồ Tarot, biểu thị các yếu tố của cuộc sống tự nhiên, những thứ này nằm giống như những cái quầy trước nhà lão luyện, và anh ta điều chỉnh chúng theo ý muốn. Bên dưới là hoa hồng và hoa loa kèn, các loài hoa flos campi và lilium convallium, được thay đổi thành hoa vườn, để thể hiện văn hóa khát vọng. Lá bài này biểu thị động cơ thiêng liêng trong con người, phản ánh Chúa, ý chí trong việc giải phóng sự kết hợp của nó với động cơ ở trên. Nó cũng là sự thống nhất của bản thể cá nhân trên tất cả các bình diện, và theo một nghĩa rất cao, nó được cho là, trong sự cố định của chúng. Khi tham khảo thêm về những gì tôi gọi là dấu hiệu của sự sống và mối liên hệ của nó với số 8, có thể nhớ rằng Thuyết Ngộ đạo Cơ đốc nói về sự tái sinh trong Đấng Christ như một sự thay đổi 'đối với Ogdoad.' Con số huyền bí được gọi là Jerusalem ở trên, Vùng đất chảy bằng Sữa và Mật ong, Chúa Thánh Thần và Vùng đất của Chúa. Theo thuyết Martinism, 8 là số của Chúa Kitô.",
+            "interpretation": "Kỹ năng, ngoại giao, xưng hô, tế nhị; ốm đau, đau thương, mất mát, tai ương, cạm bẫy của kẻ thù; tự tin, ý chí; người mê tín, nếu là nam",
+            "reversed": "Bác sĩ, Pháp sư, bệnh tâm thần, ô nhục, rối loạn."
+        },
+        "en": {
+            "description": "A youthful figure in the robe of a magician, having the countenance of divine Apollo, with smile of confidence and shining eyes. Above his head is the mysterious sign of the Holy Spirit, the sign of life, like an endless cord, forming the figure 8 in a horizontal position . About his waist is a serpent-cincture, the serpent appearing to devour its own tail. This is familiar to most as a conventional symbol of eternity, but here it indicates more especially the eternity of attainment in the spirit. In the Magician's right hand is a wand raised towards heaven, while the left hand is pointing to the earth. This dual sign is known in very high grades of the Instituted Mysteries; it shews the descent of grace, virtue and light, drawn from things above and derived to things below. The suggestion throughout is therefore the possession and communication of the Powers and Gifts of the Spirit. On the table in front of the Magician are the symbols of the four Tarot suits, signifying the elements of natural life, which lie like counters before the adept, and he adapts them as he wills. Beneath are roses and lilies, the flos campi and lilium convallium, changed into garden flowers, to shew the culture of aspiration. This card signifies the divine motive in man, reflecting God, the will in the liberation of its union with that which is above. It is also the unity of individual being on all planes, and in a very high sense it is thought, in the fixation thereof. With further reference to what I have called the sign of life and its connexion with the number 8, it may be remembered that Christian Gnosticism speaks of rebirth in Christ as a change 'unto the Ogdoad.' The mystic number is termed Jerusalem above, the Land flowing with Milk and Honey, the Holy Spirit and the Land of the Lord. According to Martinism, 8 is the number of Christ.",
+            "interpretation": "Skill, diplomacy, address, subtlety; sickness, pain, loss, disaster, snares of enemies; self-confidence, will; the Querent, if male.",
+            "reversed": "Physician, Magus, mental disease, disgrace, disquiet."
+        }
+    },
+    {
+        "name": "Eight of Swords",
+        "suite": "Swords",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Eight-of-Swords-icon.png",
+        "vi": {
+            "description": "Một người phụ nữ, bị ràng buộc và che giấu, với những thanh kiếm của lá bài về cô ấy. Tuy nhiên, nó đúng hơn là một lá bài của sự khoan dung tạm thời hơn là sự trói buộc không thể cứu vãn.",
+            "interpretation": "Tin xấu, sự hỗn loạn bạo lực, khủng hoảng, sự chỉ trích, quyền lực trong trammels, xung đột, bê bối; cũng ốm đau.",
+            "reversed": "Băn khoăn, khó khăn, chống đối, tai nạn, phản bội; điều gì không lường trước được; tử vong."
+        },
+        "en": {
+            "description": "A woman, bound and hoodwinked, with the swords of the card about her. Yet it is rather a card of temporary durance than of irretrievable bondage.",
+            "interpretation": "Bad news, violent chagrin, crisis, censure, power in trammels, conflict, calumny; also sickness.",
+            "reversed": "Disquiet, difficulty, opposition, accident, treachery; what is unforeseen; fatality."
+        }
+    },
+    {
+        "name": "Nine of Pentacles",
+        "suite": "Pentacles",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Nine-of-Pentacles-icon.png",
+        "vi": {
+            "description": "Một người phụ nữ, với một con chim trên cổ tay, đứng giữa bạt ngàn cây nho trong vườn của một ngôi nhà. Đó là một phạm vi rộng, gợi ý nhiều thứ. Có thể nó là vật sở hữu của riêng cô ấy và là minh chứng cho sự sung túc về vật chất.",
+            "interpretation": "Sự thận trọng, an toàn, thành công, thành tựu, chứng nhận, sáng suốt.",
+            "reversed": "Rắc rối, lừa dối, dự án vô hiệu, niềm tin xấu."
+        },
+        "en": {
+            "description": "A woman, with a bird upon her wrist, stands amidst a great abundance of grapevines in the garden of a manorial house. It is a wide domain, suggesting plenty in all things. Possibly it is her own possession and testifies to material well-being.",
+            "interpretation": "Prudence, safety, success, accomplishment, certitude, discernment.",
+            "reversed": "Roguery, deception, voided project, bad faith."
+        }
+    },
+    {
+        "name": "Four of Wands",
+        "suite": "Wands",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Four-of-Wands-icon.png",
+        "vi": {
+            "description": "Từ bốn cây đại thụ trồng ở phía trước có một vòng hoa lớn treo lơ lửng; hai nhân vật nữ nâng mũi; bên cạnh họ là một cây cầu bắc qua một con hào, dẫn đến một ngôi nhà cổ.",
+            "interpretation": "Chúng hầu như chỉ có trên bề mặt - cuộc sống đồng quê, thiên đường ẩn náu, một loài thu hoạch trong nước, tái định cư, hòa hợp, hòa hợp, thịnh vượng, hòa bình và công việc hoàn thiện của chúng.",
+            "reversed": "Ý nghĩa vẫn không thay đổi; nó là sự thịnh vượng, gia tăng, hạnh phúc, vẻ đẹp, sự tô điểm."
+        },
+        "en": {
+            "description": "From the four great staves planted in the foreground there is a great garland suspended; two female figures uplift nosegays; at their side is a bridge over a moat, leading to an old manorial house.",
+            "interpretation": "They are for once almost on the surface--country life, haven of refuge, a species of domestic harvest-home, repose, concord, harmony, prosperity, peace, and the perfected work of these.",
+            "reversed": "The meaning remains unaltered; it is prosperity, increase, felicity, beauty, embellishment."
+        }
+    },
+    {
+        "name": "Seven of Wands",
+        "suite": "Wands",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Seven-of-Wands-icon.png",
+        "vi": {
+            "description": "Một người đàn ông trẻ tuổi trên một vách đá cheo leo vung cây quyền trượng; sáu cây gậy khác được nâng lên về phía anh ta từ bên dưới.",
+            "interpretation": "Nó là một lá bài dũng cảm, vì bề ngoài, sáu con đang tấn công một con, tuy nhiên, người có vị trí thuận lợi. Trên bình diện trí tuệ, nó biểu thị sự thảo luận, xung đột kéo dài; trong kinh doanh - đàm phán, chiến tranh thương mại, hàng đổi hàng, cạnh tranh. Nó còn là một lá bài của sự thành công, vì người chiến đấu ở trên cùng và kẻ thù của anh ta có thể không thể tiếp cận anh ta.",
+            "reversed": "Bối rối, bối rối, lo lắng. Nó cũng là một sự thận trọng chống lại sự do dự."
+        },
+        "en": {
+            "description": "A young man on a craggy eminence brandishing a staff; six other staves are raised towards him from below.",
+            "interpretation": "It is a card of valour, for, on the surface, six are attacking one, who has, however, the vantage position. On the intellectual plane, it signifies discussion, wordy strife; in business--negotiations, war of trade, barter, competition. It is further a card of success, for the combatant is on the top and his enemies may be unable to reach him.",
+            "reversed": "Perplexity, embarrassments, anxiety. It is also a caution against indecision."
+        }
+    },
+    {
+        "name": "Strength",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/8-Strength-icon.png",
+        "vi": {
+            "description": "Một người phụ nữ, trên đầu có cái đầu của sự sống giống như biểu tượng của sự sống mà chúng ta đã thấy trong lá bài The Magician, đang khép hàm của một con sư tử. Điểm duy nhất mà thiết kế này khác với các bài thuyết trình thông thường là lòng dũng cảm của cô đã khuất phục được con sư tử đang được dẫn dắt bởi một chuỗi hoa. Vì những lý do thỏa mãn bản thân, lá bài này đã được hoán đổi với lá bài công lý, thường được đánh số tám. Vì biến thể không có gì biểu thị cho người đọc, nên không có lý do gì để giải thích. Nghị lực, ở một trong những khía cạnh cao quý nhất của nó, được kết nối với Bí ẩn thiêng liêng của sự kết hợp; tất nhiên, đức tính hoạt động trong tất cả các bình diện, và do đó rút ra tất cả trong tính biểu tượng của nó. Nó cũng kết nối với những người vô tội, và với sức mạnh tiềm tàng trong sự chiêm nghiệm. Tuy nhiên, những ý nghĩa cao hơn này chỉ là vấn đề suy luận và tôi không gợi ý rằng chúng trong suốt trên bề mặt của lá bài. Họ được giấu kín một cách kín đáo bởi chuỗi hoa, điều này biểu thị, trong số nhiều thứ khác, ách ngọt ngào và gánh nặng nhẹ của Luật thiêng liêng, khi nó đã được đưa vào trái tim của trái tim. Lá bài không liên quan gì đến sự tự tin theo nghĩa thông thường, mặc dù điều này đã được gợi ý - nhưng nó liên quan đến sự tự tin của những người có sức mạnh là Đức Chúa Trời, những người đã tìm thấy nơi nương tựa của họ trong Ngài. Có một khía cạnh mà sư tử biểu thị cho những đam mê, và cô ấy được gọi là Sức mạnh là bản chất cao hơn trong sự giải phóng của nó. Nó đã đi trên asp và nhà thờ và đã cưỡi con sư tử và con rồng.",
+            "interpretation": "Sức mạnh, nghị lực, hành động, lòng dũng cảm, sự hào hùng; cũng hoàn thành thành công và danh dự.",
+            "reversed": "Chuyên quyền, lạm quyền, nhu nhược, bất hòa, thậm chí có khi bị ô nhục."
+        },
+        "en": {
+            "description": "A woman, over whose head there broods the same symbol of life which we have seen in the card of the Magician, is closing the jaws of a lion. The only point in which this design differs from the conventional presentations is that her beneficent fortitude has already subdued the lion, which is being led by a chain of flowers. For reasons which satisfy myself, this card has been interchanged with that of justice, which is usually numbered eight. As the variation carries nothing with it which will signify to the reader, there is no cause for explanation. Fortitude, in one of its most exalted aspects, is connected with the Divine Mystery of Union; the virtue, of course, operates in all planes, and hence draws on all in its symbolism. It connects also with innocentia inviolata, and with the strength which resides in contemplation. These higher meanings are, however, matters of inference, and I do not suggest that they are transparent on the surface of the card. They are intimated in a concealed manner by the chain of flowers, which signifies, among many other things, the sweet yoke and the light burden of Divine Law, when it has been taken into the heart of hearts. The card has nothing to do with self-confidence in the ordinary sense, though this has been suggested--but it concerns the confidence of those whose strength is God, who have found their refuge in Him. There is one aspect in which the lion signifies the passions, and she who is called Strength is the higher nature in its liberation. It has walked upon the asp and the basilisk and has trodden down the lion and the dragon.",
+            "interpretation": "Power, energy, action, courage, magnanimity; also complete success and honours.",
+            "reversed": "Despotism, abuse if power, weakness, discord, sometimes even disgrace."
+        }
+    },
+    {
+        "name": "Ten of Wands",
+        "suite": "Wands",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Ten-of-Wands-icon.png",
+        "vi": {
+            "description": "người đàn ông bị áp bức bởi sức nặng của mười cây gậy mà anh ta đang mang.",
+            "interpretation": "Một lá bài có nhiều ý nghĩa, và một số bài đọc không thể hài hòa với nhau. Tôi đặt nó sang một bên kết nối nó với danh dự và đức tin tốt. Ý nghĩa chính là áp bức đơn giản, nhưng nó cũng là tài sản, đạt được, bất kỳ loại thành công nào, và sau đó nó là sự áp chế của những thứ này. Nó cũng là một lá bài của sự giả tạo, ngụy trang, hoàn hảo. Nơi mà nhân vật đang đến gần có thể bị ảnh hưởng bởi các thanh mà anh ta mang theo. Thành công được vun đắp nếu theo sau Nine of Swords, còn nếu vướng vào một vụ kiện, chắc chắn sẽ có tổn thất.",
+            "reversed": "Sự tương đồng, khó khăn, âm mưu và sự tương tự của chúng."
+        },
+        "en": {
+            "description": "man oppressed by the weight of the ten staves which he is carrying.",
+            "interpretation": "A card of many significances, and some of the readings cannot be harmonized. I set aside that which connects it with honour and good faith. The chief meaning is oppression simply, but it is also fortune, gain, any kind of success, and then it is the oppression of these things. It is also a card of false-seeming, disguise, perfidy. The place which the figure is approaching may suffer from the rods that he carries. Success is stultified if the Nine of Swords follows, and if it is a question of a lawsuit, there will be certain loss.",
+            "reversed": "Contrarieties, difficulties, intrigues, and their analogies."
+        }
+    },
+    {
+        "name": "Ten of Cups",
+        "suite": "Cups",
+        "image": "https://tarot.vn/wp-content/uploads/2014/09/Ten-of-Cups-icon.png",
+        "vi": {
+            "description": "Sự xuất hiện của Cups trong một cầu vồng; nó được chiêm ngưỡng trong sự ngạc nhiên và ngây ngất bởi một người đàn ông và phụ nữ bên dưới, rõ ràng là vợ chồng. Cánh tay phải của anh ấy là về cô ấy; bên trái của anh ta được nâng lên trên; cô ấy nâng cánh tay phải của mình lên. Hai đứa trẻ đang nhảy múa gần đó không quan sát thấy thần đồng nhưng rất vui theo cách riêng của chúng. Ngoài ra còn có một khung cảnh quê hương.",
+            "interpretation": "Bằng lòng, đặt lại toàn bộ trái tim; sự hoàn thiện của trạng thái đó; cũng là sự hoàn thiện của tình người và tình bạn; nếu với một số thẻ ảnh, một người phụ trách lợi ích của Querent; cũng là thị trấn, làng mạc hoặc quốc gia có người Querent sinh sống.",
+            "reversed": "Thay thế trái tim giả dối, phẫn nộ, bạo lực."
+        },
+        "en": {
+            "description": "Appearance of Cups in a rainbow; it is contemplated in wonder and ecstacy by a man and woman below, evidently husband and wife. His right arm is about her; his left is raised upward; she raises her right arm. The two children dancing near them have not observed the prodigy but are happy after their own manner. There is a home-scene beyond.",
+            "interpretation": "Contentment, repose of the entire heart; the perfection of that state; also perfection of human love and friendship; if with several picture-cards, a person who is taking charge of the Querent's interests; also the town, village or country inhabited by the Querent.",
+            "reversed": "Repose of the false heart, indignation, violence."
+        }
+    },
+    {
+        "name": "Page of Wands",
+        "suite": "Wands",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Page-of-Wands-icon.png",
+        "vi": {
+            "description": "Trong một cảnh tương tự như trước đây, một nam thanh niên đứng trong hành động tuyên bố. Anh ta không rõ danh tính nhưng chung thủy, và tính cách của anh ta thật kỳ lạ.",
+            "interpretation": "Chàng thanh niên hắc ám, chung tình, một người si tình, một sứ thần, một người đưa thư. Bên cạnh một người đàn ông, anh ta sẽ làm chứng thuận lợi về anh ta. Một đối thủ nguy hiểm, nếu theo sau là Page of Cups. Có những phẩm chất chính của bộ đồ của mình. Anh ta có thể biểu thị sự thông minh của gia đình.",
+            "reversed": "Giai thoại, thông báo, tin tức ma quỷ. Cũng do dự và không ổn định đi kèm với nó."
+        },
+        "en": {
+            "description": "In a scene similar to the former, a young man stands in the act of proclamation. He is unknown but faithful, and his tidings are strange.",
+            "interpretation": "Dark young man, faithful, a lover, an envoy, a postman. Beside a man, he will bear favourable testimony concerning him. A dangerous rival, if followed by the Page of Cups. Has the chief qualities of his suit. He may signify family intelligence.",
+            "reversed": "Anecdotes, announcements, evil news. Also indecision and the instability which accompanies it."
+        }
+    },
+    {
+        "name": "Four of Cups",
+        "suite": "Cups",
+        "image": "https://tarot.vn/wp-content/uploads/2014/09/Four-of-Cups-icon.png",
+        "vi": {
+            "description": "Một người đàn ông trẻ đang ngồi dưới gốc cây và chiêm ngưỡng ba chiếc cốc đặt trên bãi cỏ trước mặt anh ta; một cánh tay phóng ra từ một đám mây đưa cho anh ta một chiếc cốc khác. Mặc dù vậy, biểu hiện của anh ta là một trong những bất mãn với môi trường của anh ta.",
+            "interpretation": "Sự mệt mỏi, ghê tởm, chán ghét, những bực tức tưởng tượng, như thể rượu của thế giới này chỉ gây ra cảm giác no; một loại rượu khác, như thể một món quà thần tiên, bây giờ được cung cấp cho người chăn bò, nhưng anh ta không thấy có sự an ủi nào trong đó. Đây cũng là một lá bài của niềm vui pha trộn.",
+            "reversed": "Tính mới, tính trước, hướng dẫn mới, quan hệ mới."
+        },
+        "en": {
+            "description": "A young man is seated under a tree and contemplates three cups set on the grass before him; an arm issuing from a cloud offers him another cup. His expression notwithstanding is one of discontent with his environment.",
+            "interpretation": "Weariness, disgust, aversion, imaginary vexations, as if the wine of this world had caused satiety only; another wine, as if a fairy gift, is now offered the wastrel, but he sees no consolation therein. This is also a card of blended pleasure.",
+            "reversed": "Novelty, presage, new instruction, new relations."
+        }
+    },
+    {
+        "name": "Knight of Cups",
+        "suite": "Cups",
+        "image": "https://tarot.vn/wp-content/uploads/2014/09/Knight-of-Cups-icon.png",
+        "vi": {
+            "description": "Duyên dáng, nhưng không hiếu chiến; yên lặng cưỡi ngựa, đội chiếc mũ bảo hiểm có cánh ám chỉ những khả năng tưởng tượng cao hơn mà đôi khi đặc trưng cho lá bài này. Anh ấy cũng là một người mơ mộng, nhưng những hình ảnh về khía cạnh của giác quan luôn ám ảnh anh ấy trong tầm nhìn của anh ấy.",
+            "interpretation": "Đến, tiếp cận - đôi khi là của một người đưa tin; tiến bộ, đề nghị, phong thái, lời mời, xúi giục.",
+            "reversed": "Thủ đoạn, giả tạo, khôn khéo, lừa đảo, giả mạo, gian lận."
+        },
+        "en": {
+            "description": "Graceful, but not warlike; riding quietly, wearing a winged helmet, referring to those higher graces of the imagination which sometimes characterize this card. He too is a dreamer, but the images of the side of sense haunt him in his vision.",
+            "interpretation": "Arrival, approach--sometimes that of a messenger; advances, proposition, demeanour, invitation, incitement.",
+            "reversed": "Trickery, artifice, subtlety, swindling, duplicity, fraud."
+        }
+    },
+    {
+        "name": "Three of Pentacles",
+        "suite": "Pentacles",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Three-of-Pentacles-icon.png",
+        "vi": {
+            "description": "Một nhà điêu khắc tại tác phẩm của mình trong một tu viện. So sánh thiết kế minh họa Eight of Pentacles. Người học việc hoặc nghiệp dư trong đó đã nhận được phần thưởng của mình và hiện đang làm việc một cách nghiêm túc.",
+            "interpretation": "Thương mại, lao động có tay nghề cao; thường, tuy nhiên, được coi như một lá bài của quý tộc, tầng lớp quý tộc, danh tiếng, vinh quang.",
+            "reversed": "Tầm thường, trong công việc và mặt khác, nhu nhược, nhỏ nhen, yếu đuối."
+        },
+        "en": {
+            "description": "A sculptor at his work in a monastery. Compare the design which illustrates the Eight of Pentacles. The apprentice or amateur therein has received his reward and is now at work in earnest.",
+            "interpretation": "Metier, trade, skilled labour; usually, however, regarded as a card of nobility, aristocracy, renown, glory.",
+            "reversed": "Mediocrity, in work and otherwise, puerility, pettiness, weakness."
+        }
+    },
+    {
+        "name": "Nine of Cups",
+        "suite": "Cups",
+        "image": "https://tarot.vn/wp-content/uploads/2014/09/Nine-of-Cups-icon.png",
+        "vi": {
+            "description": "Một nhân cách tốt đã làm say lòng người, và lượng rượu giải khát dồi dào ở trên quầy mái vòm phía sau anh ta, dường như cho thấy tương lai cũng đã được đảm bảo. Bức tranh chỉ cung cấp khía cạnh vật chất, ngoài ra còn có những khía cạnh khác.",
+            "interpretation": "Sự đồng ý, sự hài lòng, hạnh phúc vật chất; cũng là chiến thắng, thành công, thuận lợi; sự hài lòng đối với Querent hoặc người mà cuộc tư vấn được thực hiện.",
+            "reversed": "Sự thật, lòng trung thành, sự tự do; nhưng các bài đọc khác nhau và bao gồm những sai lầm, sự không hoàn hảo, v.v."
+        },
+        "en": {
+            "description": "A goodly personage has feasted to his heart's content, and abundant refreshment of wine is on the arched counter behind him, seeming to indicate that the future is also assured. The picture offers the material side only, but there are other aspects.",
+            "interpretation": "Concord, contentment, physical bien-etre; also victory, success, advantage; satisfaction for the Querent or person for whom the consultation is made. Reversed: ",
+            "reversed": "Truth, loyalty, liberty; but the readings vary and include mistakes, imperfections, etc."
+        }
+    },
+    {
+        "name": "King of Cups",
+        "suite": "Cups",
+        "image": "https://tarot.vn/wp-content/uploads/2014/09/King-of-Cups-icon.png",
+        "vi": {
+            "description": "Anh ta cầm một cây quyền trượng ngắn ở tay trái và một chiếc cốc lớn ở bên phải; ngai vàng của ông được đặt trên biển; một bên là một con tàu đang cưỡi và một bên là một con cá heo đang nhảy. Điều ngầm hiểu là Sign of the Cup tự nhiên đề cập đến nước, xuất hiện trong tất cả các lá bài của tòa án.",
+            "interpretation": "Người đàn ông công bằng, người kinh doanh, luật pháp, hoặc thần thánh; chịu trách nhiệm, có trách nhiệm bắt buộc Querent; cũng như công bằng, nghệ thuật và khoa học, bao gồm cả những người hoạt động trong lĩnh vực khoa học, luật và nghệ thuật; trí tuệ sáng tạo.",
+            "reversed": "Người đàn ông gian dối, hai mặt; hành vi vô lại, đòi hỏi quá đáng, bất công, ngược lại, bê bối, cướp bóc, mất mát đáng kể."
+        },
+        "en": {
+            "description": "He holds a short sceptre in his left hand and a great cup in his right; his throne is set upon the sea; on one side a ship is riding and on the other a dolphin is leaping. The implicit is that the Sign of the Cup naturally refers to water, which appears in all the court cards.",
+            "interpretation": "Fair man, man of business, law, or divinity; responsible, disposed to oblige the Querent; also equity, art and science, including those who profess science, law and art; creative intelligence.",
+            "reversed": "Dishonest, double-dealing man; roguery, exaction, injustice, vice, scandal, pillage, considerable loss."
+        }
+    },
+    {
+        "name": "Devil",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/15-Devil-icon.png",
+        "vi": {
+            "description": "Thiết kế là một nơi ở, ý nghĩa hoặc sự hài hòa, giữa một số động cơ được đề cập trong phần đầu tiên. Dê có sừng của Mendes, với đôi cánh giống như cánh dơi, đang đứng trên bàn thờ. Tại hố dạ dày có dấu hiệu của sao Thủy. Tay phải giơ cao và mở rộng, là mặt trái của phép lành đó được Hierophant đưa ra trong lá bài thứ năm. Trong tay trái có một ngọn đuốc lớn, hướng ngược xuống đất. Trên trán có một ngôi sao năm cánh đảo ngược. Trước bàn thờ có một chiếc nhẫn, từ đó đeo hai sợi dây xích vào cổ của hai hình tượng nam và nữ. Những điều này tương tự với những gì của lá bài thứ năm, như thể Adam và Eve sau sự sụp đổ. Đây là dây chuyền và tính chất tử vong của đời sống vật chất. Các hình vẽ có đuôi, để biểu thị bản chất động vật, nhưng có trí thông minh của con người trong khuôn mặt, và người được tôn lên trên chúng sẽ không phải là chủ nhân của chúng mãi mãi. Ngay cả bây giờ, anh ta cũng là một kẻ trói buộc, bị duy trì bởi cái ác trong anh ta và mù quáng trước sự tự do phục vụ. Với sự chế nhạo hơn cả những môn nghệ thuật mà anh ta giả vờ tôn trọng và coi như một bậc thầy trong đó, Eliphas Levi khẳng định rằng hình tượng Baphometic là khoa học huyền bí và ma thuật. Một nhà bình luận khác nói rằng trong thế giới Thần thánh, nó biểu thị sự tiền định, nhưng không có sự tương ứng nào trong thế giới đó với những thứ dưới đây là của kẻ vũ phu. Những gì nó biểu thị là Người ở trên Ngưỡng không có Vườn thần bí khi những người bị đuổi đến đó từ những người đã ăn trái cấm.",
+            "interpretation": "Ravage, bạo lực, kịch liệt, nỗ lực phi thường, vũ lực, tử vong; đó là nhân duyên nhưng không phải vì lý do này mà ác.",
+            "reversed": "Vận mệnh xấu xa, yếu đuối, nhỏ nhen, mù quáng."
+        },
+        "en": {
+            "description": "The design is an accommodation, mean or harmony, between several motives mentioned in the first part. The Horned Goat of Mendes, with wings like those of a bat, is standing on an altar. At the pit of the stomach there is the sign of Mercury. The right hand is upraised and extended, being the reverse of that benediction which is given by the Hierophant in the fifth card. In the left hand there is a great flaming torch, inverted towards the earth. A reversed pentagram is on the forehead. There is a ring in front of the altar, from which two chains are carried to the necks of two figures, male and female. These are analogous with those of the fifth card, as if Adam and Eve after the Fall. Hereof is the chain and fatality of the material life. The figures are tailed, to signify the animal nature, but there is human intelligence in the faces, and he who is exalted above them is not to be their master for ever. Even now, he is also a bondsman, sustained by the evil that is in him and blind to the liberty of service. With more than his usual derision for the arts which he pretended to respect and interpret as a master therein, Eliphas Levi affirms that the Baphometic figure is occult science and magic. Another commentator says that in the Divine world it signifies predestination, but there is no correspondence in that world with the things which below are of the brute. What it does signify is the Dweller on the Threshold without the Mystical Garden when those are driven forth therefrom who have eaten the forbidden fruit.",
+            "interpretation": "Ravage, violence, vehemence, extraordinary efforts, force, fatality; that which is predestined but is not for this reason evil.",
+            "reversed": "Evil fatality, weakness, pettiness, blindness."
+        }
+    },
+    {
+        "name": "Ace of Cups",
+        "suite": "Cups",
+        "image": "https://tarot.vn/wp-content/uploads/2014/09/Ace-of-Cups-icon.png",
+        "vi": {
+            "description": "Nước ở bên dưới, và trên đó có hoa súng; bàn tay đưa ra từ đám mây, cầm trong lòng bàn tay cái chén, từ đó bốn dòng chảy tuôn ra; một con chim bồ câu, mang trên mình một Vật chủ được đánh dấu chéo, hạ xuống để đặt Wafer vào Cup; nước sương rơi tứ phía. Đó là một sự thân mật của điều đó có thể nằm sau Lesser Arcana.",
+            "interpretation": "Ngôi nhà của chân tâm, niềm vui, sự phù hợp, nơi ở, sự nuôi dưỡng, sự dồi dào, màu mỡ; Bàn Thánh, tội ác của điều này.",
+            "reversed": "Nhà của lòng giả, đột biến, bất ổn, cách mạng."
+        },
+        "en": {
+            "description": "The waters are beneath, and thereon are water-lilies; the hand issues from the cloud, holding in its palm the cup, from which four streams are pouring; a dove, bearing in its bill a cross-marked Host, descends to place the Wafer in the Cup; the dew of water is falling on all sides. It is an intimation of that which may lie behind the Lesser Arcana.",
+            "interpretation": "House of the true heart, joy, content, abode, nourishment, abundance, fertility; Holy Table, felicity hereof.",
+            "reversed": "House of the false heart, mutation, instability, revolution."
+        }
+    },
+    {
+        "name": "Ten of Pentacles",
+        "suite": "Pentacles",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Ten-of-Pentacles-icon.png",
+        "vi": {
+            "description": "Một người đàn ông và phụ nữ bên dưới một cổng tò vò dẫn lối vào một ngôi nhà và tài sản. Họ đi cùng với một đứa trẻ, người đang tò mò nhìn vào hai con chó có hình dáng cổ xưa ngồi ở phía trước. Tay của đứa trẻ nằm trên một trong số chúng.",
+            "interpretation": "Giàu sang, phú quý; các vấn đề gia đình, lưu trữ, trích xuất, nơi ở của một gia đình.",
+            "reversed": "Cơ hội, vận số, thua cuộc, trộm cướp, trò chơi mạo hiểm; đôi khi là quà tặng, của hồi môn, tiền trợ cấp."
+        },
+        "en": {
+            "description": "A man and woman beneath an archway which gives entrance to a house and domain. They are accompanied by a child, who looks curiously at two dogs accosting an ancient personage seated in the foreground. The child's hand is on one of them.",
+            "interpretation": "Gain, riches; family matters, archives, extraction, the abode of a family.",
+            "reversed": "Chance, fatality, loss, robbery, games of hazard; sometimes gift, dowry, pension."
+        }
+    },
+    {
+        "name": "Five of Swords",
+        "suite": "Swords",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Five-of-Swords-icon.png",
+        "vi": {
+            "description": "Một người đàn ông khinh thường nhìn theo hai nhân vật đang rút lui và chán nản. Thanh kiếm của họ nằm trên mặt đất. Anh ta cõng hai người khác trên vai trái, và thanh kiếm thứ ba ở tay phải, chỉ xuống đất. Anh ta là chủ nhân sở hữu cánh đồng.",
+            "interpretation": "Suy thoái, phá hủy, thu hồi, ô nhục, ô nhục, mất mát, với các biến thể và tương tự của chúng.",
+            "reversed": "Như nhau; chôn cất và những đám ma."
+        },
+        "en": {
+            "description": "A disdainful man looks after two retreating and dejected figures. Their swords lie upon the ground. He carries two others on his left shoulder, and a third sword is in his right hand, point to earth. He is the master in possession of the field.",
+            "interpretation": "Degradation, destruction, revocation, infamy, dishonour, loss, with the variants and analogues of these.",
+            "reversed": "The same; burial and obsequies."
+        }
+    },
+    {
+        "name": "Page of Swords",
+        "suite": "Swords",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Page-of-Swords-icon.png",
+        "vi": {
+            "description": "Một nhân vật năng động, nhẹ nhàng cầm kiếm thẳng đứng trên cả hai tay, trong khi bước đi nhanh chóng. Anh ta đang băng qua vùng đất gồ ghề, và về cách anh ta những đám mây được sắp xếp một cách hoang dã. Anh ta cảnh giác và sáng sủa, nhìn theo hướng này sang hướng khác, như thể một kẻ thù được mong đợi có thể xuất hiện bất cứ lúc nào.",
+            "interpretation": "Quyền hạn, giám sát, dịch vụ bí mật, cảnh giác, gián điệp, kiểm tra và những phẩm chất thuộc về họ.",
+            "reversed": "Mặt xấu xa hơn của những phẩm chất này; trạng thái không lường trước, không chuẩn bị là gì; bệnh tật cũng là tri kỷ."
+        },
+        "en": {
+            "description": "A lithe, active figure holds a sword upright in both hands, while in the act of swift walking. He is passing over rugged land, and about his way the clouds are collocated wildly. He is alert and lithe, looking this way and that, as if an expected enemy might appear at any moment.",
+            "interpretation": "Authority, overseeing, secret service, vigilance, spying, examination, and the qualities thereto belonging.",
+            "reversed": "More evil side of these qualities; what is unforeseen, unprepared state; sickness is also intimated."
+        }
+    },
+    {
+        "name": "Page of Pentacles",
+        "suite": "Pentacles",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Page-of-Pentacles-icon.png",
+        "vi": {
+            "description": "Một nhân vật trẻ trung, đang chăm chú nhìn vào khối ngũ sắc lơ lửng trên đôi tay đang giơ lên của mình. Anh ta di chuyển chậm chạp, không thể hiểu được điều đó là về anh ta.",
+            "interpretation": "Ứng dụng, nghiên cứu, học bổng, phản ánh một bài đọc khác nói rằng tin tức, thông điệp và người mang chúng; còn cai trị, quản lý.",
+            "reversed": "Sự hoang đàng, ăn chơi, phóng khoáng, xa hoa; tin tức bất lợi."
+        },
+        "en": {
+            "description": "A youthful figure, looking intently at the pentacle which hovers over his raised hands. He moves slowly, insensible of that which is about him.",
+            "interpretation": "Application, study, scholarship, reflection another reading says news, messages and the bringer thereof; also rule, management.",
+            "reversed": "Prodigality, dissipation, liberality, luxury; unfavourable news."
+        }
+    },
+    {
+        "name": "King of Wands",
+        "suite": "Wands",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/King-of-Wands-icon.png",
+        "vi": {
+            "description": "Bản chất thể chất và cảm xúc mà lá bài này được gán cho là đen tối, hăng hái, nhẹ nhàng, hoạt bát, nóng nảy, cao quý. Nhà vua nâng một cây đũa phép ra hoa, và đeo, giống như ba thư tín của mình trong bộ quần áo còn lại, cái được gọi là mũ bảo dưỡng bên dưới vương miện của mình. Ông kết nối với biểu tượng của con sư tử, được trang trí trên mặt sau của ngai vàng của mình.",
+            "interpretation": "Người đàn ông da đen, thân thiện, đồng hương, nói chung đã có gia đình, trung thực và tận tâm. Lá bài luôn biểu thị sự trung thực và có thể có nghĩa là tin tức liên quan đến một di sản bất ngờ sẽ xuất hiện trước đó rất lâu.",
+            "reversed": "Tốt, nhưng nghiêm trọng; khắc khổ, nhưng bao dung"
+        },
+        "en": {
+            "description": "The physical and emotional nature to which this card is attributed is dark, ardent, lithe, animated, impassioned, noble. The King uplifts a flowering wand, and wears, like his three correspondences in the remaining suits, what is called a cap of maintenance beneath his crown. He connects with the symbol of the lion, which is emblazoned on the back of his throne.",
+            "interpretation": "Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long.",
+            "reversed": "Good, but severe; austere, yet tolerant."
+        }
+    },
+    {
+        "name": "Two of Wands",
+        "suite": "Wands",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Two-of-Wands-icon.png",
+        "vi": {
+            "description": "người đàn ông cao lớn nhìn từ một mái nhà chiến đấu trên biển và bờ biển; anh ta cầm một quả địa cầu trong tay phải trong khi một cây quyền trượng bên trái đặt trên chiến trường; một cái khác được cố định trong một chiếc nhẫn. Hoa hồng và cây thánh giá và hoa huệ nên được chú ý ở phía bên trái.",
+            "interpretation": "Giữa các bài đọc thay thế không thể có hôn nhân; một mặt là sự giàu sang, phú quý, tráng lệ; mặt khác, đau khổ về thể xác, bệnh tật, chán nản, buồn bã, hành xác. Thiết kế đưa ra một gợi ý; đây là một vị chúa tể nhìn ra quyền thống trị của mình và luân phiên chiêm ngưỡng một quả địa cầu; nó trông giống như bệnh tật, hành xác, nỗi buồn của Alexander giữa sự hùng vĩ của sự giàu có trên thế giới này.",
+            "reversed": "Bất ngờ, ngạc nhiên, mê hoặc, xúc động, rắc rối, sợ hãi."
+        },
+        "en": {
+            "description": " tall man looks from a battlemented roof over sea and shore; he holds a globe in his right hand, while a staff in his left rests on the battlement; another is fixed in a ring. The Rose and Cross and Lily should be noticed on the left side.",
+            "interpretation": "Between the alternative readings there is no marriage possible; on the one hand, riches, fortune, magnificence; on the other, physical suffering, disease, chagrin, sadness, mortification. The design gives one suggestion; here is a lord overlooking his dominion and alternately contemplating a globe; it looks like the malady, the mortification, the sadness of Alexander amidst the grandeur of this world's wealth.",
+            "reversed": "Surprise, wonder, enchantment, emotion, trouble, fear."
+        }
+    },
+    {
+        "name": "Tower",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/16-Tower-icon.png",
+        "vi": {
+            "description": "Những lời giải thích huyền bí được đính kèm với lá bài này rất ít ỏi và hầu hết là gây bối rối. Thật là nhàn rỗi khi chỉ ra rằng nó mô tả min ở tất cả các khía cạnh của nó, bởi vì nó mang bằng chứng này trên bề mặt. Người ta còn nói xa hơn rằng nó có sự ám chỉ đầu tiên đến một tòa nhà bằng vật liệu, nhưng tôi không quan niệm rằng Tòa tháp bằng vật chất nhiều hay ít hơn những cây cột mà chúng ta đã gặp trong ba trường hợp trước. Tôi không thấy có gì phải bảo đảm với Papus khi cho rằng đó là sự sụp đổ của Adam theo đúng nghĩa đen, nhưng có nhiều lợi hơn cho sự thay thế của anh ấy - rằng nó biểu thị sự hiện thực hóa của từ tâm linh. Người viết thư mục Christian tưởng tượng rằng đó là sự sa sút của tâm trí, tìm cách thâm nhập sự huyền bí của Chúa. Tôi đồng ý với Grand Orient rằng đó là sự đổ nát của Ngôi nhà của Chúng ta, khi cái ác đã chiếm ưu thế trong đó, và trên tất cả, đó là sự kết thúc của một Ngôi nhà của Học thuyết. Tuy nhiên, tôi hiểu rằng tham chiếu đến Ngôi nhà của sự giả dối. Nó cũng minh họa một cách toàn diện nhất chân lý cũ rằng 'ngoại trừ Chúa xây dựng ngôi nhà, họ đã lao động vô ích để xây dựng nó.' Có cảm giác thảm họa là sự phản chiếu từ lá bài trước, nhưng không phải ở khía cạnh biểu tượng mà tôi đã cố gắng chỉ ra trong đó. Nó đúng hơn là một câu hỏi về phép loại suy; một bên quan tâm đến việc rơi vào trạng thái vật chất và động vật, trong khi bên kia biểu thị sự hủy diệt về mặt trí tuệ. Tháp đã được nói đến như là sự trừng phạt của lòng kiêu hãnh và trí tuệ bị áp đảo trong nỗ lực thâm nhập Bí ẩn của Chúa; nhưng trong mọi trường hợp, những lời giải thích này đều không giải thích cho hai người là những người đang sống đau khổ. Một là từ theo nghĩa đen làm cho vô hiệu và khác là cách hiểu sai của nó. Theo một nghĩa sâu hơn, nó cũng có thể biểu thị sự kết thúc của một kỳ phân phối, nhưng không có khả năng nào ở đây để xem xét câu hỏi liên quan này.",
+            "interpretation": "Đau khổ, phiền muộn, bần cùng, nghịch cảnh, tai họa, ô nhục, lừa dối, hủy hoại. Đó là một lá bài đặc biệt của thảm họa không lường trước được.",
+            "reversed": "According to one account, the same in a lesser degree also oppression, imprisonment, tyranny."
+        },
+        "en": {
+            "description": "Occult explanations attached to this card are meagre and mostly disconcerting. It is idle to indicate that it depicts min in all its aspects, because it bears this evidence on the surface. It is said further that it contains the first allusion to a material building, but I do not conceive that the Tower is more or less material than the pillars which we have met with in three previous cases. I see nothing to warrant Papus in supposing that it is literally the fall of Adam, but there is more in favour of his alternative--that it signifies the materialization of the spiritual word. The bibliographer Christian imagines that it is the downfall of the mind, seeking to penetrate the mystery of God. I agree rather with Grand Orient that it is the ruin of the House of We, when evil has prevailed therein, and above all that it is the rending of a House of Doctrine. I understand that the reference is, however, to a House of Falsehood. It illustrates also in the most comprehensive way the old truth that 'except the Lord build the house, they labour in vain that build it.' There is a sense in which the catastrophe is a reflection from the previous card, but not on the side of the symbolism which I have tried to indicate therein. It is more correctly a question of analogy; one is concerned with the fall into the material and animal state, while the other signifies destruction on the intellectual side. The Tower has been spoken of as the chastisement of pride and the intellect overwhelmed in the attempt to penetrate the Mystery of God; but in neither case do these explanations account for the two persons who are the living sufferers. The one is the literal word made void and the other its false interpretation. In yet a deeper sense, it may signify also the end of a dispensation, but there is no possibility here for the consideration of this involved question.",
+            "interpretation": "Misery, distress, indigence, adversity, calamity, disgrace, deception, ruin. It is a card in particular of unforeseen catastrophe.",
+            "reversed": "According to one account, the same in a lesser degree also oppression, imprisonment, tyranny."
+        }
+    },
+    {
+        "name": "Temperance",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/14-Temperance-icon.png",
+        "vi": {
+            "description": "Một thiên thần có cánh, với dấu hiệu của mặt trời trên trán và trên ngực, hình vuông và tam giác của ngôi sao. Tôi nói về anh ấy theo nghĩa nam tính, nhưng hình dáng đó không phải nam hay nữ. Nó được tổ chức để truyền những tinh hoa của cuộc sống từ chén thánh này sang chén thánh khác. Nó có một chân trên mặt đất và một chân trên mặt nước, do đó minh họa bản chất của các tinh chất. Một con đường trực tiếp đi lên độ cao nhất định ở bờ chân trời, và phía trên có một luồng sáng lớn, qua đó mơ hồ có thể nhìn thấy một chiếc vương miện. Đây là một số phần của Bí mật của Sự sống vĩnh cửu, vì con người có thể thực hiện được trong hóa thân của mình. Tất cả các biểu tượng thông thường được từ bỏ ở đây. Các nghĩa thông thường cũng vậy, dùng để chỉ những thay đổi trong các mùa, sự chuyển động vĩnh viễn của cuộc sống và thậm chí là sự kết hợp của các ý tưởng. Hơn nữa, thật không đúng khi nói rằng hình tượng trưng cho thiên tài của mặt trời, mặc dù nó là sự tương tự của ánh sáng mặt trời, được nhận ra trong phần thứ ba của con người chúng ta. Nó được gọi là Temperance tuyệt vời, bởi vì, khi quy tắc của nó có trong ý thức của chúng ta, nó sẽ điều hòa, kết hợp và điều hòa các bản chất tâm linh và vật chất. Theo quy luật đó, chúng ta biết trong phần lý trí của mình điều gì đó về thời điểm chúng ta đến và chúng ta sẽ đi.",
+            "interpretation": "Kinh tế, điều độ, sơ sài, quản lý, ân cần.",
+            "reversed": "Những thứ kết nối với nhà thờ, tôn giáo, giáo phái, chức tư tế, đôi khi thậm chí cả linh mục sẽ kết hôn với Querent; bất hòa, kết hợp bất hạnh, tranh giành quyền lợi."
+        },
+        "en": {
+            "description": "A winged angel, with the sign of the sun upon his forehead and on his breast the square and triangle of the septenary. I speak of him in the masculine sense, but the figure is neither male nor female. It is held to be pouring the essences of life from chalice to chalice. It has one foot upon the earth and one upon waters, thus illustrating the nature of the essences. A direct path goes up to certain heights on the verge of the horizon, and above there is a great light, through which a crown is seen vaguely. Hereof is some part of the Secret of Eternal Life, as it is possible to man in his incarnation. All the conventional emblems are renounced herein. So also are the conventional meanings, which refer to changes in the seasons, perpetual movement of life and even the combination of ideas. It is, moreover, untrue to say that the figure symbolizes the genius of the sun, though it is the analogy of solar light, realized in the third part of our human triplicity. It is called Temperance fantastically, because, when the rule of it obtains in our consciousness, it tempers, combines and harmonises the psychic and material natures. Under that rule we know in our rational part something of whence we came and whither we are going.",
+            "interpretation": "Economy, moderation, frugality, management, accommodation.",
+            "reversed": "Things connected with churches, religions, sects, the priesthood, sometimes even the priest who will marry the Querent; also disunion, unfortunate combinations, competing interests."
+        }
+    },
+    {
+        "name": "Eight of Wands",
+        "suite": "Wands",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Eight-of-Wands-icon.png",
+        "vi": {
+            "description": "Lá bài đại diện cho chuyển động xuyên suốt - một chuyến bay của cây đũa phép qua một đất nước rộng mở; nhưng họ kéo theo thời hạn của khóa học của họ. Điều mà họ biểu thị là trong tầm tay; nó thậm chí có thể ở ngưỡng.",
+            "interpretation": " Hoạt động trong các chủ trương, con đường của hoạt động đó, sự nhanh chóng như của một người đưa tin nhanh; sự vội vàng lớn, hy vọng lớn, tốc độ hướng tới một kết thúc hứa hẹn đảm bảo trọng tội; nói chung đó là đang di chuyển; cũng là những mũi tên của tình yêu.",
+            "reversed": "Mũi tên ghen tuông, tranh chấp nội bộ, cắn rứt lương tâm, cãi vã; tranh chấp gia đình đối với những người đã kết hôn."
+        },
+        "en": {
+            "description": "The card represents motion through the immovable-a flight of wands through an open country; but they draw to the term of their course. That which they signify is at hand; it may be even on the threshold.",
+            "interpretation": " Activity in undertakings, the path of such activity, swiftness, as that of an express messenger; great haste, great hope, speed towards an end which promises assured felicity; generally, that which is on the move; also the arrows of love.",
+            "reversed": "Arrows of jealousy, internal dispute, stingings of conscience, quarrels; and domestic disputes for persons who are married."
+        }
+    },
+    {
+        "name": "Two of Pentacles",
+        "suite": "Pentacles",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Two-of-Pentacles-icon.png",
+        "vi": {
+            "description": "Một người đàn ông trẻ tuổi, đang nhảy múa, có một chiếc đồng hồ năm cánh ở hai tay, và họ được nối với nhau bằng sợi dây vô tận, giống như số 8 bị đảo ngược.",
+            "interpretation": "Một mặt, nó được thể hiện như một lá bài của sự vui vẻ, giải trí và các mối liên hệ của nó, là chủ đề của thiết kế; nhưng nó cũng được đọc như tin tức và thông điệp bằng văn bản, như trở ngại, kích động, rắc rối, lôi kéo.",
+            "reversed": "Sự sung sướng bắt buộc, sự thích thú giả lập, nghĩa đen, chữ viết tay, thành phần, thư trao đổi."
+        },
+        "en": {
+            "description": "A young man, in the act of dancing, has a pentacle in either hand, and they are joined by that endless cord which is like the number 8 reversed.",
+            "interpretation": "On the one hand it is represented as a card of gaiety, recreation and its connexions, which is the subject of the design; but it is read also as news and messages in writing, as obstacles, agitation, trouble, embroilment.",
+            "reversed": "Enforced gaiety, simulated enjoyment, literal sense, handwriting, composition, letters of exchange."
+        }
+    },
+    {
+        "name": "Moon",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/18-Moon-icon.png",
+        "vi": {
+            "description": "Sự khác biệt giữa lá bài này và một số loại thông thường là mặt trăng đang tăng lên ở phía được gọi là phía của lòng thương xót, ở bên phải của người quan sát. Nó có mười sáu tia chính và mười sáu tia phụ. Lá bài đại diện cho cuộc sống của trí tưởng tượng ngoài cuộc sống của tinh thần. Con đường giữa các tòa tháp là một vấn đề chưa biết. Chó và sói là nỗi sợ hãi của tâm trí tự nhiên khi có mặt ở nơi thoát ra đó, khi chỉ có ánh sáng phản chiếu để dẫn đường cho nó. Tham chiếu cuối cùng là chìa khóa cho một hình thức biểu tượng khác. Ánh sáng trí tuệ là sự phản chiếu và bên ngoài nó là bí ẩn chưa được biết đến mà nó không thể giải đáp được. Nó chiếu sáng bản chất động vật của chúng ta, các loại được thể hiện bên dưới - chó, sói và những loài chui lên từ vực sâu, khuynh hướng vô danh và gớm ghiếc thấp hơn dã thú. Nó cố gắng đạt được biểu hiện, được tượng trưng bằng cách bò từ vực thẳm của nước lên đất, nhưng như một quy luật, nó chìm trở lại khi nó xuất hiện. Mặt tâm hướng ánh mắt bình tĩnh xuống phía dưới bất ổn; sương tưởng rơi; thông điệp là: Hòa bình, hãy tĩnh lặng; và có thể bản chất động vật sẽ bình tĩnh lại, trong khi vực thẳm bên dưới sẽ không còn hình dạng nữa.",
+            "interpretation": "Kẻ thù tiềm ẩn, nguy hiểm, bình tĩnh, bóng tối, khủng bố, lừa dối, lực lượng huyền bí, sai lầm.",
+            "reversed": "Tính không ổn định, không nhất quán, im lặng, ít mức độ lừa dối và sai sót hơn."
+        },
+        "en": {
+            "description": "The distinction between this card and some of the conventional types is that the moon is increasing on what is called the side of mercy, to the right of the observer. It has sixteen chief and sixteen secondary rays. The card represents life of the imagination apart from life of the spirit. The path between the towers is the issue into the unknown. The dog and wolf are the fears of the natural mind in the presence of that place of exit, when there is only reflected light to guide it. The last reference is a key to another form of symbolism. The intellectual light is a reflection and beyond it is the unknown mystery which it cannot shew forth. It illuminates our animal nature, types of which are represented below--the dog, the wolf and that which comes up out of the deeps, the nameless and hideous tendency which is lower than the savage beast. It strives to attain manifestation, symbolized by crawling from the abyss of water to the land, but as a rule it sinks back whence it came. The face of the mind directs a calm gaze upon the unrest below; the dew of thought falls; the message is: Peace, be still; and it may be that there shall come a calm upon the animal nature, while the abyss beneath shall cease from giving up a form.",
+            "interpretation": "Hidden enemies, danger, calumny, darkness, terror, deception, occult forces, error.",
+            "reversed": "Instability, inconstancy, silence, lesser degrees of deception and error."
+        }
+    },
+    {
+        "name": "Hanged Man",
+        "suite": "major",
+        "image": "https://tarot.vn/wp-content/uploads/2014/07/12-Hanged-Man-icon.png",
+        "vi": {
+            "description": "Giá treo cổ mà từ đó anh ta bị treo tạo thành một cây thánh giá Tau, trong khi hình - từ vị trí của chân - tạo thành một cây thánh giá Fylfot. Có một nimbus về cái đầu của người có vẻ như tử vì đạo. Cần lưu ý (1) cây tế là gỗ sống, có lá; (2) khuôn mặt thể hiện sự nhập tâm sâu sắc, không đau khổ; (3) rằng tổng thể, hình vẽ gợi ý sự sống trong trạng thái tạm ngừng, nhưng sự sống chứ không phải cái chết. Đó là một lá bài có ý nghĩa sâu sắc, nhưng tất cả ý nghĩa đều bị che đậy. Một trong những biên tập viên của ông cho rằng Eliphas Levi không biết ý nghĩa, điều này không thể nghi ngờ và chính người biên tập cũng vậy. Nó đã được gọi một cách giả tạo là thẻ tử đạo, thẻ thận trọng, thẻ Công việc vĩ đại, thẻ nghĩa vụ; nhưng chúng tôi có thể cạn kiệt tất cả các diễn giải đã xuất bản và chỉ tìm thấy những điều viển vông. Tôi sẽ nói rất đơn giản về phần mình rằng nó thể hiện mối quan hệ, ở một trong những khía cạnh của nó, giữa Thần thánh và Vũ trụ. Ai có thể hiểu rằng câu chuyện về bản chất cao hơn của mình được khắc sâu trong biểu tượng này sẽ nhận được những điều liên quan đến một sự thức tỉnh tuyệt vời có thể xảy ra, và sẽ biết rằng sau Mầu nhiệm chết thiêng liêng có một Mầu nhiệm Phục sinh vinh quang.",
+            "interpretation": "Sự khôn ngoan, sự cắt xét, sự phân biệt, thử thách, sự hy sinh, trực giác, bói toán, lời tiên tri.",
+            "reversed": "Ích kỉ, đám đông, đoàn thể chính trị."
+        },
+        "en": {
+            "description": "The gallows from which he is suspended forms a Tau cross, while the figure--from the position of the legs--forms a fylfot cross. There is a nimbus about the head of the seeming martyr. It should be noted (1) that the tree of sacrifice is living wood, with leaves thereon; (2) that the face expresses deep entrancement, not suffering; (3) that the figure, as a whole, suggests life in suspension, but life and not death. It is a card of profound significance, but all the significance is veiled. One of his editors suggests that Eliphas Levi did not know the meaning, which is unquestionable nor did the editor himself. It has been called falsely a card of martyrdom, a card a of prudence, a card of the Great Work, a card of duty; but we may exhaust all published interpretations and find only vanity. I will say very simply on my own part that it expresses the relation, in one of its aspects, between the Divine and the Universe. He who can understand that the story of his higher nature is imbedded in this symbolism will receive intimations concerning a great awakening that is possible, and will know that after the sacred Mystery of Death there is a glorious Mystery of Resurrection.",
+            "interpretation": "Wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, prophecy.",
+            "reversed": "Selfishness, the crowd, body politic."
+        }
+    },
+    {
+        "name": "Nine of Wands",
+        "suite": "Wands",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Nine-of-Wands-icon.png",
+        "vi": {
+            "description": "Hình dáng dựa vào cây quyền trượng của anh ta và có một cái nhìn đầy mong đợi, như thể đang chờ đợi một kẻ thù. Phía sau là tám cây gậy khác - dựng đứng, sắp xếp có trật tự, giống như một tấm chắn ngang.",
+            "interpretation": "Lá bài biểu thị sức mạnh đối lập. Nếu bị tấn công, người đó sẽ gặp một cuộc tấn công dữ dội; và vỏ bọc xây dựng của anh ta rằng anh ta có thể chứng tỏ là một nhân vật phản diện đáng gờm. Với ý nghĩa chính này, có tất cả các điều khoản có thể xảy ra - trì hoãn, đình chỉ, hoãn lại.",
+            "reversed": "Trở ngại, nghịch cảnh, tai họa."
+        },
+        "en": {
+            "description": "The figure leans upon his staff and has an expectant look, as if awaiting an enemy. Behind are eight other staves--erect, in orderly disposition, like a palisade.",
+            "interpretation": "The card signifies strength in opposition. If attacked, the person will meet an onslaught boldly; and his build shews, that he may prove a formidable antagonist. With this main significance there are all its possible adjuncts--delay, suspension, adjournment.",
+            "reversed": "Obstacles, adversity, calamity."
+        }
+    },
+    {
+        "name": "Six of Wands",
+        "suite": "Wands",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Six-of-Wands-icon.png",
+        "vi": {
+            "description": "Một con kỵ mã có vòng nguyệt quế mang một quyền trượng được trang trí bằng vương miện bằng vòng nguyệt quế; những người hầu với cây gậy đang ở bên cạnh anh ta.",
+            "interpretation": "Lá bài đã được thiết kế để nó có thể bao hàm một số ý nghĩa; bề ngoài, đó là một người chiến thắng, nhưng đó cũng là một tin tuyệt vời, chẳng hạn như có thể được chuyển phát nhanh bằng máy bay của Nhà vua; nó là sự mong đợi được trao vương miện với ước muốn của chính nó, vương miện của hy vọng, và nhiều ý nghĩa khác.",
+            "reversed": "Sự lo lắng, sợ hãi, như một kẻ thù chiến thắng ở cổng; phản bội, không trung thành, như cửa được mở cho kẻ thù; cũng chậm trễ vô thời hạn."
+        },
+        "en": {
+            "description": "A laurelled horseman bears one staff adorned with a laurel crown; footmen with staves are at his side.",
+            "interpretation": "The card has been so designed that it can cover several significations; on the surface, it is a victor triumphing, but it is also great news, such as might be carried in state by the King's courier; it is expectation crowned with its own desire, the crown of hope, and so forth.",
+            "reversed": "Apprehension, fear, as of a victorious enemy at the gate; treachery, disloyalty, as of gates being opened to the enemy; also indefinite delay."
+        }
+    },
+    {
+        "name": "Three of Cups",
+        "suite": "Cups",
+        "image": "https://tarot.vn/wp-content/uploads/2014/09/Three-of-Cups-icon.png",
+        "vi": {
+            "description": "Những thiếu nữ trong vườn với những chiếc cốc nâng cao, như thể đang cam kết với nhau.",
+            "interpretation": "Kết luận của bất kỳ vấn đề trong nhiều, hoàn hảo và vui vẻ; vấn đề hạnh phúc, chiến thắng, hoàn thành, an ủi, chữa lành.",
+            "reversed": "Cuộc thám hiểm, phái cử, thành tựu, kết thúc. Nó cũng biểu thị mặt của sự dư thừa trong việc hưởng thụ thể chất, và những thú vui của các giác quan."
+        },
+        "en": {
+            "description": "Maidens in a garden-ground with cups uplifted, as if pledging one another.",
+            "interpretation": "The conclusion of any matter in plenty, perfection and merriment; happy issue, victory, fulfilment, solace, healing.",
+            "reversed": "Expedition, dispatch, achievement, end. It signifies also the side of excess in physical enjoyment, and the pleasures of the senses."
+        }
+    },
+    {
+        "name": "Seven of Pentacles",
+        "suite": "Pentacles",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Seven-of-Pentacles-icon.png",
+        "vi": {
+            "description": "Một người đàn ông trẻ tuổi, đang dựa vào cây quyền trượng, chăm chú nhìn vào bảy bông hoa năm cánh gắn trên một khóm cây xanh bên phải anh ta; người ta sẽ nói rằng đây là kho báu của anh ấy và trái tim anh ấy ở đó.",
+            "interpretation": "Những điều này cực kỳ mâu thuẫn; trong chính, nó là một thẻ của tiền bạc, kinh doanh, hàng đổi hàng; nhưng một bài đọc mang lại sự hỗn loạn, cãi vã - và một bài đọc khác, sự khéo léo, sự thanh trừng.",
+            "reversed": "Vì lo lắng về khoản tiền mà nó có thể được đề xuất cho vay."
+        },
+        "en": {
+            "description": "A young man, leaning on his staff, looks intently at seven pentacles attached to a clump of greenery on his right; one would say that these were his treasures and that his heart was there.",
+            "interpretation": "These are exceedingly contradictory; in the main, it is a card of money, business, barter; but one reading gives altercation, quarrels--and another innocence, ingenuity, purgation.",
+            "reversed": "Cause for anxiety regarding money which it may be proposed to lend."
+        }
+    },
+    {
+        "name": "Ace of Pentacles",
+        "suite": "Pentacles",
+        "image": "https://tarot.vn/wp-content/uploads/2014/10/Ace-of-Pentacles-icon.png",
+        "vi": {
+            "description": "Một bàn tay - vấn đề, như thường lệ, từ một đám mây - cầm lên một dấu sao năm cánh.",
+            "interpretation": "Mãn nguyện hoàn hảo, hạnh phúc, sững sờ; sự thông minh bất chợt; vàng.",
+            "reversed": "Mặt xấu của sự giàu có, xấu thông minh; cũng đại phú đại quý. Trong mọi trường hợp, nó thể hiện sự thịnh vượng, điều kiện vật chất thoải mái, nhưng những điều này có lợi cho người sở hữu hay không sẽ phụ thuộc vào việc lá bài có đảo ngược hay không."
+        },
+        "en": {
+            "description": "A hand--issuing, as usual, from a cloud--holds up a pentacle.",
+            "interpretation": "Perfect contentment, felicity, ecstasy; also speedy intelligence; gold.",
+            "reversed": "The evil side of wealth, bad intelligence; also great riches. In any case it shews prosperity, comfortable material conditions, but whether these are of advantage to the possessor will depend on whether the card is reversed or not."
+        }
+    }
+]

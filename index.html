@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kz API</title>
+</head>
+  <style>
+    body {
+      background: #2b2b2b;
+      color: #ffffff;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background: #383838;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    }
+
+    .header {
+      background: #ff8c00;
+      padding: 20px;
+      border-radius: 10px 10px 0 0;
+      color: #fff;
+      font-size: 24px;
+      font-weight: bold;
+      letter-spacing: 2px;
+      transition: background-color 0.3s ease; /* Thêm transition cho hiệu ứng màu sắc */
+    }
+
+    .header:hover {
+      background: #ff6347; /* Màu sắc mới khi rê chuột vào */
+    }
+
+    .divider {
+      background: linear-gradient(to right, #FF00FF, #00FFFF);
+      height: 4px;
+      margin: 20px 0;
+      border-radius: 2px;
+    }
+
+    .skill-item {
+      margin: 20px 0;
+      cursor: pointer; /* Thêm cursor pointer để chỉ ra rằng nó có thể được click */
+      transition: transform 0.5s ease; /* Thêm transition cho hiệu ứng xoay */
+    }
+
+    .skill-item:hover {
+      transform: rotate(360deg); /* Xoay 360 độ khi rê chuột vào */
+    }
+
+    .skill-item b {
+      font-size: 22px;
+      color: #ff8c00;
+    }
+
+    .footer {
+      margin-top: 20px;
+      font-size: 14px;
+      color: #888;
+    }
+  </style>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      // Thêm hiệu ứng cho .header
+      var header = document.querySelector('.header');
+      header.addEventListener('mouseover', function () {
+        header.style.backgroundColor = '#ff6347'; // Màu sắc mới khi rê chuột vào
+      });
+      header.addEventListener('mouseout', function () {
+        header.style.backgroundColor = '#ff8c00'; // Màu sắc ban đầu khi rời chuột
+      });
+
+      // Thêm hiệu ứng cho .skill-item
+      var skillItems = document.querySelectorAll('.skill-item');
+      skillItems.forEach(function (item) {
+        item.addEventListener('click', function () {
+          item.style.transform = 'rotate(360deg)'; // Xoay 360 độ khi được click
+        });
+      });
+    });
+  </script>
+  <script>
+      async function createApiKey() {
+          const name = document.getElementById('name').value;
+
+          const response = await fetch(`/apikey?type=register&name=${name}`, {
+              method: 'GET',
+          });
+
+          const result = await response.json();
+
+          if (result.error) {
+              alert(result.error);
+          } else {
+              alert(`API Key created successfully:\n${result.apikey}`);
+              updateDataApiKeyFile(result.apikey, name);
+          }
+      }
+
+      async function updateDataApiKeyFile(apikey, name) {
+          const response = await fetch(`/updatefile?type=register&apikey=${apikey}&name=${name}`, {
+              method: 'GET',
+          });
+
+          const result = await response.json();
+
+          if (result.error) {
+              console.error(result.error);
+          } else {
+              console.log('Data updated successfully');
+          }
+      }
+  </script>
+<body>
+    <h2>Create API Key</h2>
+    <form id="apiKeyForm">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <button type="button" onclick="createApiKey()">Generate API Key</button>
+    </form>
+
+
+  <div class="container">
+    <div class="header">WEB - Kz API</div>
+    <div class="divider"></div>
+
+        <div class="skill-item" style="color: #FF8247;"><b>• 𝗔𝘂𝘁𝗵𝗲𝗿:</b> Kz </div>
+        <div class="skill-item" style="color: #8470FF;"><b>• 𝗡𝗮𝗺𝗲: </b>Kz Khánhh</div>
+        <div class="skill-item" style="color: #00BFFF;"><b>• 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞: </b>https://www.facebook.com/kzkhanh547</div>
+        <!-- Add other sections as needed -->
+
+        <div class="skill-item" style="color: #FFCC00;"><b>🔑 𝗔𝗣𝗜𝗞𝗘𝗬 🔑</b></div>
+                : "/apikey?type=register&name=tên của bạn"<br>
+                𝗥𝗲𝘀𝗲𝘁 𝗔𝗣𝗜𝗞𝗘𝗬: "/apikey?type=recover&ip_address=IP_address"<br>
+                𝗖𝗵𝗲𝗰𝗸 𝗔𝗣𝗜𝗞𝗘𝗬: "/apikey?type=checker&apikey=APIKEY"<br><br>
+        <div class="skill-item" style="color: #FF0000;"><b>🔞 𝗛𝗘𝗡𝗧𝗔𝗜 🔞</b></div>
+                𝗛𝗼𝗺𝗲: "/hentai/home<br>
+                𝗦𝗲𝗮𝗿𝗰𝗵: "/hentai/search?query=miku<br>
+                𝗜𝗻𝗳𝗼: "/hentai/details?link=( link )<br>
+                𝗖𝗵𝗮𝗽𝘁𝗲𝗿: "/hentai/read?link=( link )<br><br>
+        <div class="skill-item" style="color: #FFA500;"><b>📥 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 📥</b></div>
+                    𝗣𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁: "/pinterest?search=girl xinh"<br>
+
+                    𝗜𝗻𝗳𝗼 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺: "/instagram/infouser?ig=[ ID instagram ]"<br>
+                    𝗣𝗼𝘀𝘁 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺: "/instagram/postuser?username=[ ID instagram ]"<br>
+                    𝗜𝗻𝗳𝗼 𝗧𝗶𝗸𝘁𝗼𝗸: "/tiktok/infov2?username=[ ID tiktok ]"<br>
+                    𝗧𝗶𝗸𝘁𝗼𝗸 𝗗𝗼𝘄𝗹𝗼𝗮𝗱: "/tiktok/downloadvideo?url=[ Link ] ( Dowload được video, music )"<br>
+                    𝗧𝗶𝗸𝘁𝗼𝗸 𝗦𝗲𝗮𝗿𝗰𝗵: "/tiktok/searchvideo?keywords=[ Từ khoá ]"<br>
+                    𝗧𝗶𝗸𝘁𝗼𝗸 𝗧𝗿𝗲𝗻𝗱𝗶𝗻𝗴: "/tiktok/trendingtiktok"<br>
+                    𝗣𝗼𝘀𝘁 𝗧𝗶𝗸𝘁𝗼𝗸: "/tiktok/postuserv2?username"<br><br>
+
+        <div class="skill-item" style="color: #FF3300;"><b>💻 𝗖𝗔𝗡𝗩𝗔𝗦 💻</b></div>
+                    𝗔𝘃𝗮𝘁𝗮𝗿 𝗔𝗻𝗶𝗺𝗲": "/canvas/avatarwibu?id=2&chu_nen=rqzax&chu_ky=Kz"<br>
+                    𝗟𝗶𝘀𝘁 𝗔𝗻𝗶𝗺𝗲: "/taoanhdep/list"<br>
+                    𝗔𝗻𝗶𝗺𝗲 𝗦𝗲𝗮𝗿𝗰𝗵: "/taoanhdep/search?key=dora"<br>
+                    𝗖𝗼𝘃𝗲𝗿 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 𝘃𝟭: "/fbcover/v1?name=Kz Khánhh&uid=100081129610697&address=địa chỉ&email=113@gmail.com&subname=Kz&sdt=113&color=pink"<br>
+                    𝗖𝗼𝘃𝗲𝗿 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 𝘃𝟮: "/fbcover/v2?name=Kz Khánhh&id=1&subname=Kz"<br>
+                    𝗖𝗼𝘃𝗲𝗿 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 𝘃𝟯: "/fbcover/v3?name=Kz Khánhh&birthday=10/11&love=mqh&location=nơi ở&hometown=quê quán&follow=9999999999&gender=gioitinh&uid=100081129610697"<br>
+                    𝗟𝗶𝗲̂𝗻 𝗤𝘂𝗮̂𝗻: "/lienquan?id=45&word=hi"<br>
+                    𝗧𝗵𝘂̛ 𝗣𝗵𝗮́𝗽: "/thuphap?id=1&sodong=3&dong_1=Kz&dong_2=ACG&dong_3=Khánhh"<br>
+                    𝗕𝗹𝗶𝗻𝗸: "/blink?id=uid,uid,uid&delay=500"<br>
+                    𝗗𝗮𝗻𝗵 𝘁𝗵𝗶𝗲̂́𝗽: "/shopmaihuong?text1=test&text2=1234345332"<br>
+                    𝗚𝗶𝗮́𝗻𝗴 𝗦𝗶𝗻𝗵: "/giangsinh?text=kz"<br>
+                    𝗙𝗮𝗸𝗲 𝗖𝗖𝗖𝗗: "/cccd?text1=kz&text2=dd/mm/yy&text3=giới tính&text4=nơi ở&urlimg=https://i.imgur.com/p9wciqt.jpg"<br>
+                    𝗔̉𝗻𝗵 𝗕𝗶̀𝗮: "/anhbia?name=Kz Khánhh&age=2007"<br>
+                    𝗕𝗮𝗻𝗻𝗲𝗿𝘁𝗰: "/bannertc?kieu=1&age=2007&name=Kz Khánhh"<br>
+                    𝗕𝗮𝗻𝗻𝗲𝗿𝘁𝗰𝟮: "/bannertc2?age=2007&name=Kz Khánhh&text=Kz"<br>
+                    𝗖𝗮𝗿𝗱𝗶𝗻𝗳𝗼: "/cardinfo?location=trên mặt đất&name=Kz&gender=Nam&vanity=Kz&uid=100081129610697&chuky=Kz"<br>
+                    𝗚𝗚𝗦𝗔𝗜𝗗: "/ggsaid?name=Kz"<br>
+                    𝗟𝗶̀ 𝘅𝗶̀ 𝟮𝟬𝟮𝟮: "/hn2022?&name=Kz Khánhh&kieu=2&uid=100081129610697"<br>
+                    𝗕𝗶̀𝗮 𝗧𝗲̂́𝘁 𝟮𝟬𝟮𝟮: "/m2022?&name=Kz Khánhh&uid=100081129610697"<br>
+                    𝗕𝗶̀𝗮 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴: "/mkt?text1=Kz Khánhh&text2=Kz&fb=xxx@gmail.com&tl=113&lc=trên mặt đất&uid=100081129610697"<br>
+                    𝗔̉𝗻𝗵 𝗧𝗿𝗮̆𝗻𝗴: "/moon?name=Kz Khánhh&ngay=10&thang=11&nam=2007"<br>
+                    𝗟𝗼𝗴𝗼 𝗕𝗹𝗼𝗰𝗸: "/tad?color1=red&color2=blue&tenchinh=Kz Khánhh&ten_phu=Kz"<br>
+                    𝗧𝗶́𝗰𝗵 𝗫𝗮𝗻𝗵: "/tichxanh?kieu=2&uid=100081129610697&name=Kz Khánhh"<br><br>
+        <div class="skill-item" style="color: #FF00FF;"><b>🎀 𝐈𝐌𝐀𝐆𝐄𝐒 🎀</b></div>
+                        𝐀̉𝐧𝐡 𝐖𝐚𝐥𝐥𝐩𝐚𝐩𝐞𝐫: images/wallpaper<br>
+                        𝗔̉𝗻𝗵 𝗔𝗻𝗶𝗺𝗲: "/images/anime"<br>
+                        𝗔̉𝗻𝗵 𝗖𝗵𝗶𝘁𝗮𝗻𝗱𝗮: "/images/chitanda"<br>
+                        𝗔̉𝗻𝗵 𝗟𝘂𝗰𝘆: "/images/lucy"<br>
+                        𝗔̉𝗻𝗵 𝗞𝗮𝘄𝗮𝗶𝗶: "/images/kawaii"<br>
+                        𝗔̉𝗻𝗵 𝗔𝘂𝘀𝗮𝗻𝗱: "/images/ausand"<br>
+                        𝗔̉𝗻𝗵 𝗞𝗮𝗻𝗮: "/images/kana"<br>
+                        𝗔̉𝗻𝗵 𝗚𝘂𝗿𝗮: "/images/gura"<br>
+                        𝗔̉𝗻𝗵 𝗖𝗼𝘀𝗽𝗹𝗮𝘆: "/images/cosplay"<br>
+                        𝗔̉𝗻𝗵 𝗖𝗼𝘂𝗽𝗹𝗲: "/images/couple"<br>
+                        𝗔𝘃𝗮𝘁𝗮𝗿 𝗖𝗼𝘂𝗽𝗹𝗲": "/images/ppcouple"<br>
+                        𝗔̉𝗻𝗵 𝗭𝘂́: "/images/du"<br>
+                        𝗔̉𝗻𝗵 𝗚𝗲𝗻𝘁𝗹𝗲": "/images/gentle"<br>
+                        𝗔̉𝗻𝗵 𝗚𝗮́𝗶: "/images/girl"<br>
+                        𝗔̉𝗻𝗵 𝗚𝗮́𝗶 𝗦𝗲𝘅𝘆: "/images/girlsexy"<br>
+                        𝗔̉𝗻𝗵 𝗛𝗲𝗹𝗽: "/images/help"<br>
+                        𝗔̉𝗻𝗵 𝗛𝗲𝗻𝘁𝗮𝗶: "/images/hentai"<br>
+                        𝗔̉𝗻𝗵 𝗚𝗮́𝗶 𝗜𝗚: "/images/ig"<br>
+                        𝗔̉𝗻𝗵 𝗜𝘁𝗮𝗰𝗵𝗶: "/images/itachi"<br>
+                        𝗔̉𝗻𝗵 𝗟𝗼𝗹𝗶: "/images/loli"<br>
+                        𝗔̉𝗻𝗵 𝗠𝗘𝗠𝗘: "/images/meme"<br>
+                        𝗔̉𝗻𝗵 𝗠𝗶𝗿𝗮𝗶: "/images/mirai"<br>
+                        𝗔̉𝗻𝗵 𝗪𝗶𝗯𝘂: "/images/wibu"<br>
+                        𝗔̉𝗻𝗵 𝗠𝗼̂𝗻𝗴: "/images/mong"<br>
+                        𝗔̉𝗻𝗵 𝗡𝗮𝘂𝗴𝗵𝘁𝘆: "/images/naughty"<br>
+                        𝗔̉𝗻𝗵 𝗡𝘂𝗱𝗲: "/images/nude"<br>
+                        𝗔̉𝗻𝗵 𝟲 𝗠𝘂́𝗶: "/images/saumui"<br>
+                        𝗔̉𝗻𝗵 𝗧𝗿𝗮𝗶: "/images/trai"<br>
+                        𝗔̉𝗻𝗵 𝗧𝗪: "/images/tw"<br>
+                        𝗩𝗶𝗱𝗲𝗼 𝗔𝘂𝘁𝗼𝘀𝗲𝗻𝗱: "/images/autosend"<br>
+                        𝗩𝗶𝗱𝗲𝗼 𝗔𝗻𝗶𝗺𝗲 𝗖𝗵𝗶𝗹𝗹: "/images/videochill"<br>
+                        𝗩𝗶𝗱𝗲𝗼 𝗚𝗮́𝗶 𝗧𝗶𝗸𝘁𝗼𝗸": "/images/videogaixinh"<br>
+                        𝗩𝗶𝗱𝗲𝗼 𝗦𝗲𝘅": "/images/videosex"<br><br>
+        <div class="skill-item" style="color: #FF34B3;"><b>💖 𝗧𝗛𝗢̛ 💖</b></div>
+                𝗖𝗮̂𝘂 𝗧𝗵𝗶́𝗻𝗵: "/poem/love"<br>
+                𝗖𝗮 𝗗𝗮𝗼: "/poem/cadao"<br>
+                𝗧𝗵𝗮̂̀𝘆 𝗕𝗼́𝗶: "/poem/thayboi"<br>
+                𝗧𝗿𝘂𝘆𝗲̣̂𝗻 𝗖𝘂̛𝗼̛̀𝗶: "/poem/truyencuoi"<br>
+                𝗝𝗼𝗸𝗲𝗿: "/poem/joker"<br><br>
+        <div class="skill-item" style="color: #FF9900;"><b>🎮 𝗚𝗔𝗠𝗘 🎮</b></div>
+                𝗗𝗛𝗕𝗖: "/game/dhbcv1"<br>
+                𝗗𝗛𝗕𝗖𝟮: "/game/dhbcv2"<br>
+                𝗗𝗛𝗕𝗖𝟯: "/game/dhbcv𝟯"<br>
+                𝗡𝗼̂́𝗶 𝗧𝘂̛̀: "/game/linkword?word="<br>
+                𝗗𝗼𝘃𝘂𝗶: "/game/dovui"<br>
+                𝗧𝗮̀𝗶 𝗫𝗶̉𝘂: "/game/taixiu"<br>
+                𝗧𝗮̀𝗶 𝗫𝗶̉𝘂 𝘃𝟮": "/game/taixiuv2"<br>
+                𝗣𝗨𝗕𝗚: "/game/pubg"<br>
+                𝗖𝗦𝗚𝗢: "/game/csgo"<br>
+                𝗦𝗶𝗺 𝗮𝘀𝗸: "/sim?type=ask&ask=sim%20ơi"<br>
+                𝗦𝗶𝗺 𝘁𝗲𝗮𝗰𝗵: "/sim?type=teach&ask=sim%20ơi&ans=ơii"<br>
+                𝗩𝘂𝗮 𝗧𝗶𝗲̂́𝗻𝗴 𝗩𝗶𝗲̣̂𝘁: {<br>
+                𝗚𝗲𝘁 𝗞𝗲𝘆 𝗪𝗼𝗿𝗱": "/game/vuatiengviet/keyword"<br>
+                𝗖𝗿𝗲𝗮𝘁𝗲 𝗜𝗺𝗮𝗴𝗲": "/game/vuatiengviet/image?word=từ khóa"<br>
+                𝐂𝐅𝐒: {<br>
+                𝗖𝗳𝘀: "/cfs"<br>
+                𝗖𝗳𝘀𝗱𝗮𝘁𝗮: "/cfsdata"<br>
+                𝗥𝗲𝗮𝗰𝘁: "/react"<br><br>
+        <div class="skill-item" style="color: #00aff0;"><b>📜 𝗗𝗔𝗧𝗔 📜</b></div>
+                    𝗖𝗼𝘃𝗶𝗱: "/covid?country=viet nam"<br>
+                    𝗧𝗮𝗿𝗼𝘁: "/tarot"<br>
+                    𝗟𝗶𝗲̂𝗻 𝗠𝗶𝗻𝗵 𝗛𝘂𝘆𝗲̂̀𝗻 𝗧𝗵𝗼𝗮̣𝗶: {<br>
+                    𝗟𝗶𝘀𝘁 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻: "/lol/list"<br>
+                    𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻: "/lol?champion=yasuo"<br>
+                    𝗪𝗮𝘁𝘁𝗽𝗮𝗱: "/wattpad/search?q=[name]"<br>
+                    𝗣𝗼𝗸𝗲𝗺𝗼𝗻: "/pokemon/search?name=Pikachu<br><br>
+        <div class="skill-item" style="color: #00FFFF;"><b>📌 𝗧𝗢𝗢𝗟𝗦 📌</b></div>
+                    𝗨𝗽𝗹𝗼𝗮𝗱 𝗜𝗺𝗴𝘂𝗿: "/imgur?link=<link ảnh>"<br>
+                    𝗨𝗽𝗹𝗼𝗮𝗱 𝗜𝗺𝗴𝘂𝗿 𝘃𝟮: "/imgurupload?link=< link ảnh >"<br>
+                    𝗖𝗵𝗲𝗰𝗸 𝗡𝘂𝗱𝗲: "checknude?key=(key)&link=<link ảnh>"<br>
+                    𝗨𝗽𝘁𝗶𝗺𝗲 𝗥𝗼𝗯𝗼𝘁: "/uptimerobot/create?url=<link>"<br>
+                    𝗥𝗮𝗻𝗱𝗼𝗺 𝗨𝘀𝗲𝗿𝗔𝗴𝗲𝗻𝘁: "/random/useragent"<br>
+                    𝗪𝗮𝗹𝗹𝗽𝗮𝗽𝗲𝗿: "/img/wallpaper?q=[ name ]"<br>
+                    𝗪𝗮𝗹𝗹𝗽𝗮𝗽𝗲𝗿 𝘃𝟮: "/img/wallpaperv2?q=raiden&page=1"<br>
+                    𝗧𝗶𝗻𝘆𝘂𝗿𝗹: "/tinyurl?url=<link>"<br>
+                    𝗫𝗦𝗠𝗕: "/xsmb"<br>
+                    𝗫𝗦𝗠𝗕 𝗗𝗮𝘆: "/xsmb?date="<br>
+                    𝗚𝗲𝘁 𝗣𝗿𝗼𝘅𝘆: "/proxy?location=vn&protocols=socks4"<br>
+                    𝗠𝗮𝗶𝗹𝟭𝟬𝗽: {<br>
+                        𝗟𝗶𝘀𝘁 𝗗𝗼𝗺𝗮𝗶𝗻: "/mail10p/domain"<br>
+                        𝗚𝗲𝘁 𝗘𝗺𝗮𝗶𝗹: "/mail10p/get?email=emall@domain&apikey="<br>
+                        𝗖𝗵𝗲𝗰𝗸 𝗠𝗮𝗶𝗹: "/mail10p/check?id_mail=id_mail&apikey="<br>
+                        𝐃𝐎𝐂𝐔𝐌𝐄𝐍𝐓": {<br>
+                            𝗨𝘀𝗲: "lấy 1 email gửi tới 1 địa chỉ email bạn tự đặt tên@domain (ví dụ miraicute@mailkept.com),<br>
+                            𝗚𝗲𝘁: "email bạn vừa mới đặt ở trên@domain (ví dụ: miraicute@mailkept.com). Hãy chắc chắn rằng đã có 1 email đã gửi thư đến email bạn vừa tạo"<br>
+                            𝗖𝗵𝗲𝗰𝗸: "nhập id mail của bạn (id có khi bạn get thành công)"<br><br>
+        <div class="skill-item" style="color: #00FF00;"><b>💸 𝗕𝗔𝗡𝗞𝗜𝗡𝗚 💸</b></div>
+                  𝗖𝗵𝗲𝗰𝗸: "/bank/check"<br>
+                  𝗙𝗶𝗻𝗱: "/bank/find"<br>
+                  𝗚𝗲𝘁: "/bank/get"<br>
+                  𝗣𝗮𝘀𝘀𝘄𝗼𝗿𝗱: "/bank/password"<br>
+                  𝗣𝗮𝘆: "/bank/pay"<br>
+                  𝗥𝗲𝗴𝗶𝘀𝘁𝗲𝗿: "/bank/register"<br>
+                  𝗦𝗲𝗻𝗱: "/bank/send"<br>
+                  𝗧𝗼𝗽: "/bank/top"<br><br>
+
+    <footer class="footer">© 2024 Kz API</footer>
+  </div>
+</body>
+</html>

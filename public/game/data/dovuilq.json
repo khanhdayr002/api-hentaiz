@@ -1,0 +1,3202 @@
+[
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/1f3550ad239ebc98101e46028ffbddd25ad971a5cca0c.png",
+    "skillnamee": "Lốc chân không",
+    "answer": "The Flash",
+    "answer_": "D",
+    "options": [
+      "Lauriel",
+      "Amily",
+      "Ngộ Không",
+      "The Flash"
+    ],
+    "options_": [
+      "[A] Lauriel\n[B] Amily\n[C] Ngộ Không\n[D] The Flash"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/fd3619efaa99e035e1bc7799cbd818045fc5576bdbc29.png",
+    "skillnamee": "Tam giác quỷ",
+    "answer": "Keera",
+    "answer_": "B",
+    "options": [
+      "Y'bneth",
+      "Keera",
+      "Laville",
+      "Batman"
+    ],
+    "options_": [
+      "[A] Y'bneth\n[B] Keera\n[C] Laville\n[D] Batman"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/635d526dbf5edb1d2ac377e49ae15db65a3a34724c31f.png",
+    "skillnamee": "Súng thần công",
+    "answer": "Moren",
+    "answer_": "B",
+    "options": [
+      "Azzen'Ka",
+      "Moren",
+      "The Flash",
+      "Ishar"
+    ],
+    "options_": [
+      "[A] Azzen'Ka\n[B] Moren\n[C] The Flash\n[D] Ishar"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/fb50e93ba4a478abc1c5e778a0e4fa6960fefeeed958d.png",
+    "skillnamee": "Hỏa bạo",
+    "answer": "IGGY",
+    "answer_": "D",
+    "options": [
+      "Nakroth",
+      "Sinestrea",
+      "Rourke",
+      "IGGY"
+    ],
+    "options_": [
+      "[A] Nakroth\n[B] Sinestrea\n[C] Rourke\n[D] IGGY"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/243331147c585656dac4f406a98faa375902c5be15463.png",
+    "skillnamee": "Trục xuất",
+    "answer": "Ilumia",
+    "answer_": "C",
+    "options": [
+      "Allain",
+      "Zata",
+      "Ilumia",
+      "Astrid"
+    ],
+    "options_": [
+      "[A] Allain\n[B] Zata\n[C] Ilumia\n[D] Astrid"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/775babab1959d630492799db3fdda1e95970ddc9c8097.png",
+    "skillnamee": "Hỏa Hoạn",
+    "answer": "Ignis",
+    "answer_": "D",
+    "options": [
+      "Tel'Annas",
+      "Wisp",
+      "Rourke",
+      "Ignis"
+    ],
+    "options_": [
+      "[A] Tel'Annas\n[B] Wisp\n[C] Rourke\n[D] Ignis"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/28496fb3102bced9fbd0b35fe08872aa591e6dedf1718.png",
+    "skillnamee": "Đấm Và Lách",
+    "answer": "Raz",
+    "answer_": "D",
+    "options": [
+      "Omen",
+      "Eland'orr",
+      "Volkath",
+      "Raz"
+    ],
+    "options_": [
+      "[A] Omen\n[B] Eland'orr\n[C] Volkath\n[D] Raz"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/f37dcb80bb5fbf602aed1389bbc354e9583e9f7c3831d.png",
+    "skillnamee": "Chúa tể",
+    "answer": "Lữ Bố",
+    "answer_": "B",
+    "options": [
+      "Laville",
+      "Lữ Bố",
+      "Elsu",
+      "Max"
+    ],
+    "options_": [
+      "[A] Laville\n[B] Lữ Bố\n[C] Elsu\n[D] Max"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/2793706eb605b6c46e84b9c781324d475b30b70597bcf.png",
+    "skillnamee": "Chế độ phá hoại",
+    "answer": "Omega",
+    "answer_": "D",
+    "options": [
+      "Lumburr",
+      "Volkath",
+      "Astrid",
+      "Omega"
+    ],
+    "options_": [
+      "[A] Lumburr\n[B] Volkath\n[C] Astrid\n[D] Omega"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/ffe34f7a30fd35e90d569deb75c1b15f5bf7798b0833b.png",
+    "skillnamee": "Chém đôi",
+    "answer": "Quillen",
+    "answer_": "A",
+    "options": [
+      "Quillen",
+      "Dextra",
+      "Marja",
+      "Ryoma"
+    ],
+    "options_": [
+      "[A] Quillen\n[B] Dextra\n[C] Marja\n[D] Ryoma"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/5b1f357b3ef160f07e1d8b693e66beed5a2a5f775e531.png",
+    "skillnamee": "Lá chắn thời không",
+    "answer": "Alice",
+    "answer_": "A",
+    "options": [
+      "Alice",
+      "Grakk",
+      "Cresht",
+      "Lindis"
+    ],
+    "options_": [
+      "[A] Alice\n[B] Grakk\n[C] Cresht\n[D] Lindis"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/89ef88c452e1dbadac993ba1c5d47b365b9a113ed39f3.png",
+    "skillnamee": "Thiên nhiên vỗ về",
+    "answer": "Y'bneth",
+    "answer_": "B",
+    "options": [
+      "Sinestrea",
+      "Y'bneth",
+      "Eland'orr",
+      "Wiro "
+    ],
+    "options_": [
+      "[A] Sinestrea\n[B] Y'bneth\n[C] Eland'orr\n[D] Wiro "
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/0513df81b6ebcb1d378f1582dff83bc65955d4f8d0e93.png",
+    "skillnamee": "Truy Nã",
+    "answer": "Batman",
+    "answer_": "A",
+    "options": [
+      "Batman",
+      "Max",
+      "Bright",
+      "Sinestrea"
+    ],
+    "options_": [
+      "[A] Batman\n[B] Max\n[C] Bright\n[D] Sinestrea"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/281bcee21905d1b8d61901374191c0b35df33f5b1c5e6.png",
+    "skillnamee": "Tuyết liên",
+    "answer": "Điêu Thuyền",
+    "answer_": "A",
+    "options": [
+      "Điêu Thuyền",
+      "Moren",
+      "Bright",
+      "Ignis"
+    ],
+    "options_": [
+      "[A] Điêu Thuyền\n[B] Moren\n[C] Bright\n[D] Ignis"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/c40655d6952c05bcb1e43aec3037328e583e9d0761f74.png",
+    "skillnamee": "Chuyến săn mạo hiểm",
+    "answer": "Valhein",
+    "answer_": "B",
+    "options": [
+      "AOI",
+      "Valhein",
+      "Joker",
+      "Preyta"
+    ],
+    "options_": [
+      "[A] AOI\n[B] Valhein\n[C] Joker\n[D] Preyta"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/0b76661f92471b3ed091c8124b5e4fa75eb1371715d2d.png",
+    "skillnamee": "Đạn liên châu",
+    "answer": "Laville",
+    "answer_": "C",
+    "options": [
+      "Kriknak",
+      "Maloch",
+      "Laville",
+      "Ishar"
+    ],
+    "options_": [
+      "[A] Kriknak\n[B] Maloch\n[C] Laville\n[D] Ishar"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/03cf07846d820b35c5807245d2d162b5610004030ecb0.png",
+    "skillnamee": "Long Trảm",
+    "answer": "AOI",
+    "answer_": "B",
+    "options": [
+      "Zata",
+      "AOI",
+      "Superman",
+      "Điêu Thuyền"
+    ],
+    "options_": [
+      "[A] Zata\n[B] AOI\n[C] Superman\n[D] Điêu Thuyền"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/236e8ede3380192a84f4d06e51beb5815bc98e8ebf336.png",
+    "skillnamee": "Viễn trình kích",
+    "answer": "Elsu",
+    "answer_": "D",
+    "options": [
+      "Rourke",
+      "Grakk",
+      "Ryoma",
+      "Elsu"
+    ],
+    "options_": [
+      "[A] Rourke\n[B] Grakk\n[C] Ryoma\n[D] Elsu"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/ac8aef131836caf5646fa660cad895bb590bf40f5cd46.png",
+    "skillnamee": "Rồng dịch bênh",
+    "answer": "Preyta",
+    "answer_": "C",
+    "options": [
+      "Amily",
+      "Arduin",
+      "Preyta",
+      "Zuka"
+    ],
+    "options_": [
+      "[A] Amily\n[B] Arduin\n[C] Preyta\n[D] Zuka"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/c5bd5a3d56514536551011a15ffcd2785c25f747f3542.png",
+    "skillnamee": "Thưởng hoa",
+    "answer": "Florentino",
+    "answer_": "C",
+    "options": [
+      "Zuka",
+      "Paine",
+      "Florentino",
+      "Lữ Bố"
+    ],
+    "options_": [
+      "[A] Zuka\n[B] Paine\n[C] Florentino\n[D] Lữ Bố"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/24b62183a512a387d2e219da08ce582058cb955d33626.png",
+    "skillnamee": "Quỷ Kiếm",
+    "answer": "Maloch",
+    "answer_": "D",
+    "options": [
+      "Capheny",
+      "Ngộ Không",
+      "Max",
+      "Maloch"
+    ],
+    "options_": [
+      "[A] Capheny\n[B] Ngộ Không\n[C] Max\n[D] Maloch"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/0fd55b686edc386f5f1937a09de2d1f1583e9d6a7fcc5.png",
+    "skillnamee": "Bão đạn",
+    "answer": "Valhein",
+    "answer_": "B",
+    "options": [
+      "Murad",
+      "Valhein",
+      "AOI",
+      "Keera"
+    ],
+    "options_": [
+      "[A] Murad\n[B] Valhein\n[C] AOI\n[D] Keera"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/541620c87481fd28c60fb965e11f05f65eb13fbd5e9a1.png",
+    "skillnamee": "Thần môn",
+    "answer": "Rouie",
+    "answer_": "A",
+    "options": [
+      "Rouie",
+      "Yena",
+      "IGGY",
+      "Chaugnar"
+    ],
+    "options_": [
+      "[A] Rouie\n[B] Yena\n[C] IGGY\n[D] Chaugnar"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/78416948cd35b70da6254b5bb7d2f5a85b7e3e9fdde05.png",
+    "skillnamee": "Gió xoáy",
+    "answer": "Annette",
+    "answer_": "C",
+    "options": [
+      "Keera",
+      "AOI",
+      "Annette",
+      "Azzen'Ka"
+    ],
+    "options_": [
+      "[A] Keera\n[B] AOI\n[C] Annette\n[D] Azzen'Ka"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/1819e9b106ac88ff39e0282083f19d645aec0d6b1bf8f.png",
+    "skillnamee": "Pháo YOYO",
+    "answer": "Wisp",
+    "answer_": "A",
+    "options": [
+      "Wisp",
+      "Astrid",
+      "Bright",
+      "Eland'orr"
+    ],
+    "options_": [
+      "[A] Wisp\n[B] Astrid\n[C] Bright\n[D] Eland'orr"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/d090723f6839411cd883b00a59e6b0e5610003228d5b9.png",
+    "skillnamee": "Long Lực",
+    "answer": "AOI",
+    "answer_": "D",
+    "options": [
+      "Ilumia",
+      "Omega",
+      "Điêu Thuyền",
+      "AOI"
+    ],
+    "options_": [
+      "[A] Ilumia\n[B] Omega\n[C] Điêu Thuyền\n[D] AOI"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/7b6a93e7160787f81dbe61e655fede055a87199177d9d.png",
+    "skillnamee": "Lôi điện",
+    "answer": "Tulen",
+    "answer_": "B",
+    "options": [
+      "Wonder Woman",
+      "Tulen",
+      "Y'bneth",
+      "Capheny"
+    ],
+    "options_": [
+      "[A] Wonder Woman\n[B] Tulen\n[C] Y'bneth\n[D] Capheny"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/1140d9a1b24578afc5be77d3feeb0a2158ae5d91e6d13.png",
+    "skillnamee": "Loạn hạt",
+    "answer": "Jinna",
+    "answer_": "D",
+    "options": [
+      "Alice",
+      "Điêu Thuyền",
+      "Superman",
+      "Jinna"
+    ],
+    "options_": [
+      "[A] Alice\n[B] Điêu Thuyền\n[C] Superman\n[D] Jinna"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/c6a9214656bf8ca09288125263c29bcf5d9477363544a.png",
+    "skillnamee": "Bá vương trảo",
+    "answer": "Volkath",
+    "answer_": "B",
+    "options": [
+      "Ignis",
+      "Volkath",
+      "Dextra",
+      "Lindis"
+    ],
+    "options_": [
+      "[A] Ignis\n[B] Volkath\n[C] Dextra\n[D] Lindis"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/48d7e4d1147aaa02d92c8207fe6fa40f5bf779fa54387.png",
+    "skillnamee": "Ẩn sát",
+    "answer": "Quillen",
+    "answer_": "D",
+    "options": [
+      "The Flash",
+      "Ngộ Không",
+      "Preyta",
+      "Quillen"
+    ],
+    "options_": [
+      "[A] The Flash\n[B] Ngộ Không\n[C] Preyta\n[D] Quillen"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/eeebbefa841f2c544b0eaf730b2501ba5eb1375cdbc99.png",
+    "skillnamee": "Đạn truy ảnh",
+    "answer": "Laville",
+    "answer_": "A",
+    "options": [
+      "Laville",
+      "Natalya",
+      "Rourke",
+      "Arthur"
+    ],
+    "options_": [
+      "[A] Laville\n[B] Natalya\n[C] Rourke\n[D] Arthur"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/099af9c154213473b8764bc612e46f8758609997121da.png",
+    "skillnamee": "Ma thuật đen",
+    "answer": "Aleister",
+    "answer_": "C",
+    "options": [
+      "Sephera",
+      "Tel'Annas",
+      "Aleister",
+      "Richter"
+    ],
+    "options_": [
+      "[A] Sephera\n[B] Tel'Annas\n[C] Aleister\n[D] Richter"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/234c0c620162c0e98103c774edfdd8b55df217f2bc705.png",
+    "skillnamee": "Sa Bàn Ma Thuật",
+    "answer": "Ishar",
+    "answer_": "B",
+    "options": [
+      "Yena",
+      "Ishar",
+      "Jinna",
+      "Sinestrea"
+    ],
+    "options_": [
+      "[A] Yena\n[B] Ishar\n[C] Jinna\n[D] Sinestrea"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/d78f18dc73aa1928fed16bfd5c28a8d85b9a11812f63e.png",
+    "skillnamee": "Hạt giống sinh mệnh",
+    "answer": "Y'bneth",
+    "answer_": "D",
+    "options": [
+      "Bright",
+      "Zip",
+      "Violet",
+      "Y'bneth"
+    ],
+    "options_": [
+      "[A] Bright\n[B] Zip\n[C] Violet\n[D] Y'bneth"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/849f814ac016a6f58c8526b5c7a088175b6ace58c141b.png",
+    "skillnamee": "Địa giam",
+    "answer": "Baldum",
+    "answer_": "B",
+    "options": [
+      "Ryoma",
+      "Baldum",
+      "Skud",
+      "Veera"
+    ],
+    "options_": [
+      "[A] Ryoma\n[B] Baldum\n[C] Skud\n[D] Veera"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/e02eec242f1b880e3213136ea243484e5c132d9c5a943.png",
+    "skillnamee": "Thuỷ âm",
+    "answer": "Sephera",
+    "answer_": "A",
+    "options": [
+      "Sephera",
+      "Gildur",
+      "Arthur",
+      "Hayate"
+    ],
+    "options_": [
+      "[A] Sephera\n[B] Gildur\n[C] Arthur\n[D] Hayate"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/1819e9b106ac88ff39e0282083f19d645aec0d6b1bf8f.png",
+    "skillnamee": "Pháo YOYO",
+    "answer": "Wisp",
+    "answer_": "A",
+    "options": [
+      "Wisp",
+      "Astrid",
+      "Bright",
+      "Eland'orr"
+    ],
+    "options_": [
+      "[A] Wisp\n[B] Astrid\n[C] Bright\n[D] Eland'orr"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/0077baf3281acf1f5f7f4c6e9ac222e45970dd8d3234b.png",
+    "skillnamee": "Hỏa Cầu",
+    "answer": "Ignis",
+    "answer_": "C",
+    "options": [
+      "Wisp",
+      "Omega",
+      "Ignis",
+      "Wiro "
+    ],
+    "options_": [
+      "[A] Wisp\n[B] Omega\n[C] Ignis\n[D] Wiro "
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/78416948cd35b70da6254b5bb7d2f5a85b7e3e9fdde05.png",
+    "skillnamee": "Gió xoáy",
+    "answer": "Annette",
+    "answer_": "C",
+    "options": [
+      "Keera",
+      "AOI",
+      "Annette",
+      "Azzen'Ka"
+    ],
+    "options_": [
+      "[A] Keera\n[B] AOI\n[C] Annette\n[D] Azzen'Ka"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/c672a914ad48130d0e9344982dca4d1b584a49a3b0a7c.png",
+    "skillnamee": "Bồi thẩm đoàn",
+    "answer": "Nakroth",
+    "answer_": "A",
+    "options": [
+      "Nakroth",
+      "Marja",
+      "Roxie",
+      "Ilumia"
+    ],
+    "options_": [
+      "[A] Nakroth\n[B] Marja\n[C] Roxie\n[D] Ilumia"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/7736387e470db99ef985b7c3a581b6b05abdefc6721d0.png",
+    "skillnamee": "Ra đa đạn đạo",
+    "answer": "Max",
+    "answer_": "A",
+    "options": [
+      "Max",
+      "Ishar",
+      "Raz",
+      "Amily"
+    ],
+    "options_": [
+      "[A] Max\n[B] Ishar\n[C] Raz\n[D] Amily"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/332cd5695f5a9e92a4df857c9738e159587c413879515.png",
+    "skillnamee": "Quả Cầu Hắc Ám",
+    "answer": "Natalya",
+    "answer_": "C",
+    "options": [
+      "Ngộ Không",
+      "Điêu Thuyền",
+      "Natalya",
+      "Ryoma"
+    ],
+    "options_": [
+      "[A] Ngộ Không\n[B] Điêu Thuyền\n[C] Natalya\n[D] Ryoma"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/96017805bfd414e83b290913a9940801587c40dac72c4.png",
+    "skillnamee": "Ác Quỷ Tụ Hội",
+    "answer": "Natalya",
+    "answer_": "A",
+    "options": [
+      "Natalya",
+      "Aleister",
+      "Cresht",
+      "Lindis"
+    ],
+    "options_": [
+      "[A] Natalya\n[B] Aleister\n[C] Cresht\n[D] Lindis"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/313ff250121ea48bd74b4ed4fa1306575bd7d895b1bf8.png",
+    "skillnamee": "Công thủ toàn diện",
+    "answer": "Richter",
+    "answer_": "C",
+    "options": [
+      "Sinestrea",
+      "Kil'Groth",
+      "Richter",
+      "Zuka"
+    ],
+    "options_": [
+      "[A] Sinestrea\n[B] Kil'Groth\n[C] Richter\n[D] Zuka"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/d0b146512f795a344b6f807ea1a945465fa1a0538f93b.png",
+    "skillnamee": "Hoa máu",
+    "answer": "Sinestrea",
+    "answer_": "D",
+    "options": [
+      "Ormarr",
+      "Zip",
+      "Ignis",
+      "Sinestrea"
+    ],
+    "options_": [
+      "[A] Ormarr\n[B] Zip\n[C] Ignis\n[D] Sinestrea"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/55e94d9905b9e8ba91bb4b580e6f81c7585358c5214bd.png",
+    "skillnamee": "Càn Quét",
+    "answer": "Grakk",
+    "answer_": "C",
+    "options": [
+      "Omen",
+      "Bright",
+      "Grakk",
+      "Jinna"
+    ],
+    "options_": [
+      "[A] Omen\n[B] Bright\n[C] Grakk\n[D] Jinna"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/7b4c636abbd8f977a7d8e69cc7d0ac8c5daec5dac4411.png",
+    "skillnamee": "Vạn Vật Hấp Dẫn",
+    "answer": "Krizzix",
+    "answer_": "D",
+    "options": [
+      "Maloch",
+      "Ormarr",
+      "Volkath",
+      "Krizzix"
+    ],
+    "options_": [
+      "[A] Maloch\n[B] Ormarr\n[C] Volkath\n[D] Krizzix"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/843e42c9e6559bd076697edb1ca0289a5cfe1e1703789.png",
+    "skillnamee": "Bán nguyệt trảm",
+    "answer": "Yena",
+    "answer_": "B",
+    "options": [
+      "Veera",
+      "Yena",
+      "Capheny",
+      "Batman"
+    ],
+    "options_": [
+      "[A] Veera\n[B] Yena\n[C] Capheny\n[D] Batman"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/243331147c585656dac4f406a98faa375902c5be15463.png",
+    "skillnamee": "Trục xuất",
+    "answer": "Ilumia",
+    "answer_": "C",
+    "options": [
+      "Allain",
+      "Zata",
+      "Ilumia",
+      "Astrid"
+    ],
+    "options_": [
+      "[A] Allain\n[B] Zata\n[C] Ilumia\n[D] Astrid"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/5dd0ed7d03c4e8950b2ac677f84ac99d5df33f6c51e16.png",
+    "skillnamee": "Bão tuyết",
+    "answer": "Điêu Thuyền",
+    "answer_": "B",
+    "options": [
+      "Skud",
+      "Điêu Thuyền",
+      "Tulen",
+      "Errol"
+    ],
+    "options_": [
+      "[A] Skud\n[B] Điêu Thuyền\n[C] Tulen\n[D] Errol"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/29b04043c51909a37edfefa6a8cc7661583f94de863d0.png",
+    "skillnamee": "Nước xoáy",
+    "answer": "Chaugnar",
+    "answer_": "A",
+    "options": [
+      "Chaugnar",
+      "Kil'Groth",
+      "Kriknak",
+      "Celica"
+    ],
+    "options_": [
+      "[A] Chaugnar\n[B] Kil'Groth\n[C] Kriknak\n[D] Celica"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/3965e55122296fab01f566e10822a518583f90b8c7f99.png",
+    "skillnamee": "Tiểu quỷ",
+    "answer": "Veera",
+    "answer_": "B",
+    "options": [
+      "Airi",
+      "Veera",
+      "Astrid",
+      "Fennik"
+    ],
+    "options_": [
+      "[A] Airi\n[B] Veera\n[C] Astrid\n[D] Fennik"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/fb50e93ba4a478abc1c5e778a0e4fa6960fefeeed958d.png",
+    "skillnamee": "Hỏa bạo",
+    "answer": "IGGY",
+    "answer_": "D",
+    "options": [
+      "Nakroth",
+      "Sinestrea",
+      "Rourke",
+      "IGGY"
+    ],
+    "options_": [
+      "[A] Nakroth\n[B] Sinestrea\n[C] Rourke\n[D] IGGY"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/e6aee705b5741fef3c136a8f6c67cf0658dcee169679a.png",
+    "skillnamee": "Phân Thân Thuật",
+    "answer": "Ngộ Không",
+    "answer_": "D",
+    "options": [
+      "Kahlii",
+      "Lorion",
+      "Toro",
+      "Ngộ Không"
+    ],
+    "options_": [
+      "[A] Kahlii\n[B] Lorion\n[C] Toro\n[D] Ngộ Không"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/0b76661f92471b3ed091c8124b5e4fa75eb1371715d2d.png",
+    "skillnamee": "Đạn liên châu",
+    "answer": "Laville",
+    "answer_": "C",
+    "options": [
+      "Kriknak",
+      "Maloch",
+      "Laville",
+      "Ishar"
+    ],
+    "options_": [
+      "[A] Kriknak\n[B] Maloch\n[C] Laville\n[D] Ishar"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/3dc827986c6355d90753e6649e1f2a715e8ae047a9160.png",
+    "skillnamee": "Trảm hồn",
+    "answer": "Paine",
+    "answer_": "B",
+    "options": [
+      "Natalya",
+      "Paine",
+      "Allain",
+      "Ignis"
+    ],
+    "options_": [
+      "[A] Natalya\n[B] Paine\n[C] Allain\n[D] Ignis"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/28496fb3102bced9fbd0b35fe08872aa591e6dedf1718.png",
+    "skillnamee": "Đấm Và Lách",
+    "answer": "Raz",
+    "answer_": "D",
+    "options": [
+      "Omen",
+      "Eland'orr",
+      "Volkath",
+      "Raz"
+    ],
+    "options_": [
+      "[A] Omen\n[B] Eland'orr\n[C] Volkath\n[D] Raz"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/14c941885a33d2eb215d55f85d10943e583f9b287569b.png",
+    "skillnamee": "Hiên ngang",
+    "answer": "Ormarr",
+    "answer_": "A",
+    "options": [
+      "Ormarr",
+      "Baldum",
+      "Alice",
+      "Kriknak"
+    ],
+    "options_": [
+      "[A] Ormarr\n[B] Baldum\n[C] Alice\n[D] Kriknak"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/d70060e371bfafc5cbe782809c5f0e415a17a02bebd9c.png",
+    "skillnamee": "Chùy Thần Lực",
+    "answer": "Xeniel",
+    "answer_": "D",
+    "options": [
+      "Ngộ Không",
+      "TeeMee",
+      "Astrid",
+      "Xeniel"
+    ],
+    "options_": [
+      "[A] Ngộ Không\n[B] TeeMee\n[C] Astrid\n[D] Xeniel"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/42c95ae0e99b6058e15ad49b6333f76758cb966fc9394.png",
+    "skillnamee": "Luyện ngục",
+    "answer": "Maloch",
+    "answer_": "A",
+    "options": [
+      "Maloch",
+      "Hayate",
+      "Alice",
+      "Amily"
+    ],
+    "options_": [
+      "[A] Maloch\n[B] Hayate\n[C] Alice\n[D] Amily"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/7abdce75ba41db1cd1885528a94333b9583f8f0c775cf.png",
+    "skillnamee": "Tung cánh",
+    "answer": "Krixi",
+    "answer_": "A",
+    "options": [
+      "Krixi",
+      "Zuka",
+      "Mina",
+      "Jinna"
+    ],
+    "options_": [
+      "[A] Krixi\n[B] Zuka\n[C] Mina\n[D] Jinna"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/a680b3ce90b3f5d780a20ef0ceace6095965d6fbdd190.png",
+    "skillnamee": "Sắc Lẻm",
+    "answer": "Airi",
+    "answer_": "C",
+    "options": [
+      "Yorn",
+      "Raz",
+      "Airi",
+      "Omen"
+    ],
+    "options_": [
+      "[A] Yorn\n[B] Raz\n[C] Airi\n[D] Omen"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/1a95cd7781abc7131524a1f5bcf456045a3a34ca13098.png",
+    "skillnamee": "Pháo phản lực",
+    "answer": "Moren",
+    "answer_": "D",
+    "options": [
+      "Ignis",
+      "Tel'Annas",
+      "Lumburr",
+      "Moren"
+    ],
+    "options_": [
+      "[A] Ignis\n[B] Tel'Annas\n[C] Lumburr\n[D] Moren"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/18bbb17dcf38fcd980ebcff3492d8e925a742543919aa.png",
+    "skillnamee": "Sát khí",
+    "answer": "Omen",
+    "answer_": "C",
+    "options": [
+      "Chaugnar",
+      "Ignis",
+      "Omen",
+      "Mina"
+    ],
+    "options_": [
+      "[A] Chaugnar\n[B] Ignis\n[C] Omen\n[D] Mina"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/934f022f6377ad5e3528a1607d3b917c610004fe7e68f.png",
+    "skillnamee": "Long Trảo",
+    "answer": "AOI",
+    "answer_": "B",
+    "options": [
+      "Zata",
+      "AOI",
+      "Omen",
+      "Điêu Thuyền"
+    ],
+    "options_": [
+      "[A] Zata\n[B] AOI\n[C] Omen\n[D] Điêu Thuyền"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/de303578817f474c5c6c39ba263d05085b2a1a6407667.png",
+    "skillnamee": "Phệ hồn trùng",
+    "answer": "Marja",
+    "answer_": "B",
+    "options": [
+      "Moren",
+      "Marja",
+      "Raz",
+      "Ormarr"
+    ],
+    "options_": [
+      "[A] Moren\n[B] Marja\n[C] Raz\n[D] Ormarr"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/adf5f5a265e7b85f08b09f662c506f035afeaa3f3f46b.png",
+    "skillnamee": "Thú sổng",
+    "answer": "Arum",
+    "answer_": "B",
+    "options": [
+      "Sephera",
+      "Arum",
+      "Florentino",
+      "Ryoma"
+    ],
+    "options_": [
+      "[A] Sephera\n[B] Arum\n[C] Florentino\n[D] Ryoma"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/9f4269a267080e49bfd0b37bd22405b359966e7e2e9a0.png",
+    "skillnamee": "Phong Độn",
+    "answer": "Zill",
+    "answer_": "D",
+    "options": [
+      "Natalya",
+      "Wisp",
+      "Lữ Bố",
+      "Zill"
+    ],
+    "options_": [
+      "[A] Natalya\n[B] Wisp\n[C] Lữ Bố\n[D] Zill"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/e76cd16ed2ecab3a4890240819ff5f5b5a02b7ebee1cb.png",
+    "skillnamee": "Superman",
+    "answer": "Superman",
+    "answer_": "D",
+    "options": [
+      "Điêu Thuyền",
+      "Ilumia",
+      "Yena",
+      "Superman"
+    ],
+    "options_": [
+      "[A] Điêu Thuyền\n[B] Ilumia\n[C] Yena\n[D] Superman"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/24016c828e2d50e922909935ccc274e958dcee94d847c.png",
+    "skillnamee": "Cân đẩu vân",
+    "answer": "Ngộ Không",
+    "answer_": "B",
+    "options": [
+      "Murad",
+      "Ngộ Không",
+      "Mganga",
+      "Butterfly"
+    ],
+    "options_": [
+      "[A] Murad\n[B] Ngộ Không\n[C] Mganga\n[D] Butterfly"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/f58937ccb405488543127fa5ba25f93a5ef1fa2188c43.png",
+    "skillnamee": "Kiếm toả mệnh",
+    "answer": "Allain",
+    "answer_": "B",
+    "options": [
+      "Errol",
+      "Allain",
+      "The Flash",
+      "Paine"
+    ],
+    "options_": [
+      "[A] Errol\n[B] Allain\n[C] The Flash\n[D] Paine"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/cd3129805ce41ebfd3a5e298eb2d78cc5840e7201f859.png",
+    "skillnamee": "Thân thể thép",
+    "answer": "Taara",
+    "answer_": "A",
+    "options": [
+      "Taara",
+      "Lữ Bố",
+      "Natalya",
+      "Zuka"
+    ],
+    "options_": [
+      "[A] Taara\n[B] Lữ Bố\n[C] Natalya\n[D] Zuka"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/abd8ee3ebabd4c68ef78f23333cd642e5cfe1ebde3e39.png",
+    "skillnamee": "Toái nguyệt trảm / Tụ nguyệt trảm",
+    "answer": "Yena",
+    "answer_": "B",
+    "options": [
+      "Lorion",
+      "Yena",
+      "Veera",
+      "Zip"
+    ],
+    "options_": [
+      "[A] Lorion\n[B] Yena\n[C] Veera\n[D] Zip"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/d54e0da837d2dc76e49b451dd47f0fc05a292cab9ec8f.png",
+    "skillnamee": "Ác mộng biển khơi",
+    "answer": "Kil'Groth",
+    "answer_": "D",
+    "options": [
+      "Eland'orr",
+      "Veera",
+      "Annette",
+      "Kil'Groth"
+    ],
+    "options_": [
+      "[A] Eland'orr\n[B] Veera\n[C] Annette\n[D] Kil'Groth"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/9028882e6992247c2b75ab54d32e57805d947669674a8.png",
+    "skillnamee": "Ma Quân",
+    "answer": "Volkath",
+    "answer_": "C",
+    "options": [
+      "Omen",
+      "Eland'orr",
+      "Volkath",
+      "Paine"
+    ],
+    "options_": [
+      "[A] Omen\n[B] Eland'orr\n[C] Volkath\n[D] Paine"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/af00ce5685ebd57209d003139755027c5c8f26d959079.png",
+    "skillnamee": "Ảnh biến",
+    "answer": "Hayate",
+    "answer_": "A",
+    "options": [
+      "Hayate",
+      "Yorn",
+      "Wisp",
+      "Celica"
+    ],
+    "options_": [
+      "[A] Hayate\n[B] Yorn\n[C] Wisp\n[D] Celica"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/abcf17da55f204e8f45e64916f86dc8b59e0221cc5424.png",
+    "skillnamee": "Kiếm Tâm",
+    "answer": "Astrid",
+    "answer_": "D",
+    "options": [
+      "Murad",
+      "Ata",
+      "Ishar",
+      "Astrid"
+    ],
+    "options_": [
+      "[A] Murad\n[B] Ata\n[C] Ishar\n[D] Astrid"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/a35f4b82e40be2c9be97123b6ddb1c375875b7dbe06a8.png",
+    "skillnamee": "Đất bằng dậy sóng",
+    "answer": "Lumburr",
+    "answer_": "C",
+    "options": [
+      "Dirak",
+      "Slimz",
+      "Lumburr",
+      "Lindis"
+    ],
+    "options_": [
+      "[A] Dirak\n[B] Slimz\n[C] Lumburr\n[D] Lindis"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/3830289ca423998dab73bb6db01e2e4058e713246c585.png",
+    "skillnamee": "Bọ Húc",
+    "answer": "Kriknak",
+    "answer_": "A",
+    "options": [
+      "Kriknak",
+      "Payna",
+      "Toro",
+      "Arduin"
+    ],
+    "options_": [
+      "[A] Kriknak\n[B] Payna\n[C] Toro\n[D] Arduin"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/432486becfdb9d6b687ca11d36effbe5583f96c9da1fe.png",
+    "skillnamee": "Sừng trâu",
+    "answer": "Toro",
+    "answer_": "D",
+    "options": [
+      "Batman",
+      "Wisp",
+      "Astrid",
+      "Toro"
+    ],
+    "options_": [
+      "[A] Batman\n[B] Wisp\n[C] Astrid\n[D] Toro"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/e049eca888cabfc47203461432dab4d05b5ebca198704.png",
+    "skillnamee": "Balo lửa",
+    "answer": "Roxie",
+    "answer_": "C",
+    "options": [
+      "Moren",
+      "Wisp",
+      "Roxie",
+      "Veres"
+    ],
+    "options_": [
+      "[A] Moren\n[B] Wisp\n[C] Roxie\n[D] Veres"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/766088d05000bab14cc070bf38dcb9675c25f6ba8ea1e.png",
+    "skillnamee": "Xuất chúng",
+    "answer": "Florentino",
+    "answer_": "D",
+    "options": [
+      "Toro",
+      "Payna",
+      "Nakroth",
+      "Florentino"
+    ],
+    "options_": [
+      "[A] Toro\n[B] Payna\n[C] Nakroth\n[D] Florentino"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/4ea990168ba972f3dc2b74f4eb9a2ccf583e9e6523ec9.png",
+    "skillnamee": "Excalibur",
+    "answer": "Thane",
+    "answer_": "D",
+    "options": [
+      "Lauriel",
+      "D'arcy",
+      "Mganga",
+      "Thane"
+    ],
+    "options_": [
+      "[A] Lauriel\n[B] D'arcy\n[C] Mganga\n[D] Thane"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/a65e2024f0938dfca07679de26167f4d583f909eb3ad1.png",
+    "skillnamee": "Hôn gió",
+    "answer": "Veera",
+    "answer_": "C",
+    "options": [
+      "Aleister",
+      "Rouie",
+      "Veera",
+      "D'arcy"
+    ],
+    "options_": [
+      "[A] Aleister\n[B] Rouie\n[C] Veera\n[D] D'arcy"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/97b90c80fc7cee1bf4a1b0fe0b873da25eb13f66cfa5c.png",
+    "skillnamee": "Quang tốc",
+    "answer": "Rouie",
+    "answer_": "A",
+    "options": [
+      "Rouie",
+      "Y'bneth",
+      "Aleister",
+      "D'arcy"
+    ],
+    "options_": [
+      "[A] Rouie\n[B] Y'bneth\n[C] Aleister\n[D] D'arcy"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/06a960d2ce2c338df790364d743aabbb5b2a1a867e2d6.png",
+    "skillnamee": "Ác hồn",
+    "answer": "Marja",
+    "answer_": "C",
+    "options": [
+      "Ishar",
+      "Roxie",
+      "Marja",
+      "Hayate"
+    ],
+    "options_": [
+      "[A] Ishar\n[B] Roxie\n[C] Marja\n[D] Hayate"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/a926a11ef79ed1dceb0cba3b8a492a72583f91f585a13.png",
+    "skillnamee": "Long Hống",
+    "answer": "Triệu Vân",
+    "answer_": "C",
+    "options": [
+      "Joker",
+      "Dextra",
+      "Triệu Vân",
+      "Mina"
+    ],
+    "options_": [
+      "[A] Joker\n[B] Dextra\n[C] Triệu Vân\n[D] Mina"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/2793706eb605b6c46e84b9c781324d475b30b70597bcf.png",
+    "skillnamee": "Chế độ phá hoại",
+    "answer": "Omega",
+    "answer_": "D",
+    "options": [
+      "Lumburr",
+      "Volkath",
+      "Astrid",
+      "Omega"
+    ],
+    "options_": [
+      "[A] Lumburr\n[B] Volkath\n[C] Astrid\n[D] Omega"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/3006b635a01445334829a9c83c6e9a87583f96f9957a6.png",
+    "skillnamee": "Đại địa chấn",
+    "answer": "Toro",
+    "answer_": "C",
+    "options": [
+      "Lumburr",
+      "Omen",
+      "Toro",
+      "Airi"
+    ],
+    "options_": [
+      "[A] Lumburr\n[B] Omen\n[C] Toro\n[D] Airi"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/432486becfdb9d6b687ca11d36effbe5583f96c9da1fe.png",
+    "skillnamee": "Sừng trâu",
+    "answer": "Toro",
+    "answer_": "D",
+    "options": [
+      "Batman",
+      "Wisp",
+      "Astrid",
+      "Toro"
+    ],
+    "options_": [
+      "[A] Batman\n[B] Wisp\n[C] Astrid\n[D] Toro"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/e2ec85509dd6479e9f025bfe60ffd6d85a2a5e6e17458.png",
+    "skillnamee": "Cồn cát tà ác",
+    "answer": "Azzen'Ka",
+    "answer_": "B",
+    "options": [
+      "Astrid",
+      "Azzen'Ka",
+      "IGGY",
+      "Lumburr"
+    ],
+    "options_": [
+      "[A] Astrid\n[B] Azzen'Ka\n[C] IGGY\n[D] Lumburr"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/bb5662cdb8612ab9b8029eee61506203583f98349b55e.png",
+    "skillnamee": "Quả đấm vàng",
+    "answer": "Gildur",
+    "answer_": "B",
+    "options": [
+      "Batman",
+      "Gildur",
+      "Skud",
+      "Mina"
+    ],
+    "options_": [
+      "[A] Batman\n[B] Gildur\n[C] Skud\n[D] Mina"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/0b5a465715fb899c2203f7dbe1cac5625fc55a1fd83d6.png",
+    "skillnamee": "Tốc độ quang minh",
+    "answer": "Bright",
+    "answer_": "C",
+    "options": [
+      "Taara",
+      "Paine",
+      "Bright",
+      "Arduin"
+    ],
+    "options_": [
+      "[A] Taara\n[B] Paine\n[C] Bright\n[D] Arduin"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/b3620cf9d75a371b0955aa971a71765f5fc554cedd8ef.png",
+    "skillnamee": "Hiến tế",
+    "answer": "Dextra",
+    "answer_": "A",
+    "options": [
+      "Dextra",
+      "Zill",
+      "Lindis",
+      "Mina"
+    ],
+    "options_": [
+      "[A] Dextra\n[B] Zill\n[C] Lindis\n[D] Mina"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/5487eed16ae93743f14b9edc0f83847d5db1770df15f0.png",
+    "skillnamee": "Điệp vũ",
+    "answer": "Eland'orr",
+    "answer_": "D",
+    "options": [
+      "Florentino",
+      "Ilumia",
+      "Lorion",
+      "Eland'orr"
+    ],
+    "options_": [
+      "[A] Florentino\n[B] Ilumia\n[C] Lorion\n[D] Eland'orr"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/106028c9d9a959b62d58ef789829ce945a2a501db6730.png",
+    "skillnamee": "Độc khí",
+    "answer": "Mganga",
+    "answer_": "C",
+    "options": [
+      "Ishar",
+      "Tulen",
+      "Mganga",
+      "Wisp"
+    ],
+    "options_": [
+      "[A] Ishar\n[B] Tulen\n[C] Mganga\n[D] Wisp"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/76c4654d08299b62d6f5839df0c951b15a02b7a14b16a.png",
+    "skillnamee": "Người đàn ông thép",
+    "answer": "Superman",
+    "answer_": "B",
+    "options": [
+      "Omega",
+      "Superman",
+      "Nakroth",
+      "Taara"
+    ],
+    "options_": [
+      "[A] Omega\n[B] Superman\n[C] Nakroth\n[D] Taara"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/313ff250121ea48bd74b4ed4fa1306575bd7d895b1bf8.png",
+    "skillnamee": "Công thủ toàn diện",
+    "answer": "Richter",
+    "answer_": "C",
+    "options": [
+      "Sinestrea",
+      "Kil'Groth",
+      "Richter",
+      "Zuka"
+    ],
+    "options_": [
+      "[A] Sinestrea\n[B] Kil'Groth\n[C] Richter\n[D] Zuka"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/50239f9433a5b986616eea9c275efb155a61c115efca0.png",
+    "skillnamee": "Nguyệt Vực",
+    "answer": "Lindis",
+    "answer_": "C",
+    "options": [
+      "Lumburr",
+      "Arduin",
+      "Lindis",
+      "Wiro "
+    ],
+    "options_": [
+      "[A] Lumburr\n[B] Arduin\n[C] Lindis\n[D] Wiro "
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/051bd10a7513ca6230f15ad7e7bd06c15db175df3b43d.png",
+    "skillnamee": "Tinh linh ấn",
+    "answer": "Eland'orr",
+    "answer_": "D",
+    "options": [
+      "Volkath",
+      "Roxie",
+      "Sinestrea",
+      "Eland'orr"
+    ],
+    "options_": [
+      "[A] Volkath\n[B] Roxie\n[C] Sinestrea\n[D] Eland'orr"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/4ad1252ee55a82f317a6a95ff19b4713583f94522b4d8.png",
+    "skillnamee": "Đâm lao",
+    "answer": "Zephys",
+    "answer_": "C",
+    "options": [
+      "Zip",
+      "Sephera",
+      "Zephys",
+      "Xeniel"
+    ],
+    "options_": [
+      "[A] Zip\n[B] Sephera\n[C] Zephys\n[D] Xeniel"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/934f022f6377ad5e3528a1607d3b917c610004fe7e68f.png",
+    "skillnamee": "Long Trảo",
+    "answer": "AOI",
+    "answer_": "B",
+    "options": [
+      "Zata",
+      "AOI",
+      "Omen",
+      "Điêu Thuyền"
+    ],
+    "options_": [
+      "[A] Zata\n[B] AOI\n[C] Omen\n[D] Điêu Thuyền"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/28e59ebddcaec5727f000077918d85695ad9711da360e.png",
+    "skillnamee": "Cú đấm chớp nhoáng",
+    "answer": "The Flash",
+    "answer_": "D",
+    "options": [
+      "Butterfly",
+      "Moren",
+      "Alice",
+      "The Flash"
+    ],
+    "options_": [
+      "[A] Butterfly\n[B] Moren\n[C] Alice\n[D] The Flash"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/cbb62f4492f2e5d9935287f520417bee5aec0c96ef659.png",
+    "skillnamee": "Tự hủy",
+    "answer": "Wisp",
+    "answer_": "B",
+    "options": [
+      "Nakroth",
+      "Wisp",
+      "Qi",
+      "Payna"
+    ],
+    "options_": [
+      "[A] Nakroth\n[B] Wisp\n[C] Qi\n[D] Payna"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/2793706eb605b6c46e84b9c781324d475b30b70597bcf.png",
+    "skillnamee": "Chế độ phá hoại",
+    "answer": "Omega",
+    "answer_": "D",
+    "options": [
+      "Lumburr",
+      "Volkath",
+      "Astrid",
+      "Omega"
+    ],
+    "options_": [
+      "[A] Lumburr\n[B] Volkath\n[C] Astrid\n[D] Omega"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/2d430e7572c6a3d6f5aba143ce46f42b5a17a06fbde3c.png",
+    "skillnamee": "Sứ Mệnh Cứu Thể",
+    "answer": "Xeniel",
+    "answer_": "A",
+    "options": [
+      "Xeniel",
+      "Volkath",
+      "Lindis",
+      "Krixi"
+    ],
+    "options_": [
+      "[A] Xeniel\n[B] Volkath\n[C] Lindis\n[D] Krixi"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/3006b635a01445334829a9c83c6e9a87583f96f9957a6.png",
+    "skillnamee": "Đại địa chấn",
+    "answer": "Toro",
+    "answer_": "C",
+    "options": [
+      "Lumburr",
+      "Omen",
+      "Toro",
+      "Airi"
+    ],
+    "options_": [
+      "[A] Lumburr\n[B] Omen\n[C] Toro\n[D] Airi"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/c8640c212a2b6e9ded6d2fa5a77e73a55915325709959.png",
+    "skillnamee": "Găng nổi loạn",
+    "answer": "Skud",
+    "answer_": "A",
+    "options": [
+      "Skud",
+      "Xeniel",
+      "Baldum",
+      "Ormarr"
+    ],
+    "options_": [
+      "[A] Skud\n[B] Xeniel\n[C] Baldum\n[D] Ormarr"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/1b26da06352c048891cd5f8e9aa41d275a2a4f3e5f4df.png",
+    "skillnamee": "Độc tố",
+    "answer": "Mganga",
+    "answer_": "C",
+    "options": [
+      "Ata",
+      "Toro",
+      "Mganga",
+      "Payna"
+    ],
+    "options_": [
+      "[A] Ata\n[B] Toro\n[C] Mganga\n[D] Payna"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/4095e69eb302efb640d9c20759eaeac65983e63a25d43.png",
+    "skillnamee": "Ảo Ảnh Trảm",
+    "answer": "Murad",
+    "answer_": "C",
+    "options": [
+      "Zuka",
+      "Arum",
+      "Murad",
+      "Slimz"
+    ],
+    "options_": [
+      "[A] Zuka\n[B] Arum\n[C] Murad\n[D] Slimz"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/54ca5724142325af1a99a4c10e8ccf72583f933d68efb.png",
+    "skillnamee": "Linh hồn hộ mệnh",
+    "answer": "Kahlii",
+    "answer_": "B",
+    "options": [
+      "Butterfly",
+      "Kahlii",
+      "TeeMee",
+      "Nakroth"
+    ],
+    "options_": [
+      "[A] Butterfly\n[B] Kahlii\n[C] TeeMee\n[D] Nakroth"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/bdaeeab0844fbddc7c40493b0659932a59706f9bee6fe.png",
+    "skillnamee": "Đập tan",
+    "answer": "Taara",
+    "answer_": "A",
+    "options": [
+      "Taara",
+      "Alice",
+      "Yena",
+      "Kil'Groth"
+    ],
+    "options_": [
+      "[A] Taara\n[B] Alice\n[C] Yena\n[D] Kil'Groth"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/7736387e470db99ef985b7c3a581b6b05abdefc6721d0.png",
+    "skillnamee": "Ra đa đạn đạo",
+    "answer": "Max",
+    "answer_": "A",
+    "options": [
+      "Max",
+      "Ishar",
+      "Raz",
+      "Amily"
+    ],
+    "options_": [
+      "[A] Max\n[B] Ishar\n[C] Raz\n[D] Amily"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/d5655f3a63b12b4fb6323c81f899ee785a61c0669e8f7.png",
+    "skillnamee": "Phục kích",
+    "answer": "Lindis",
+    "answer_": "C",
+    "options": [
+      "Ilumia",
+      "Celica",
+      "Lindis",
+      "Omega"
+    ],
+    "options_": [
+      "[A] Ilumia\n[B] Celica\n[C] Lindis\n[D] Omega"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/b6ae875a9f960dcf91a8023f3eb854c8590bf4a781a75.png",
+    "skillnamee": "Bom hoại tử",
+    "answer": "Preyta",
+    "answer_": "B",
+    "options": [
+      "Batman",
+      "Preyta",
+      "Ngộ Không",
+      "Chaugnar"
+    ],
+    "options_": [
+      "[A] Batman\n[B] Preyta\n[C] Ngộ Không\n[D] Chaugnar"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/87193cc0086f381baa431a3c5fa00789583f8f7254474.png",
+    "skillnamee": "Mưa sao băng",
+    "answer": "Krixi",
+    "answer_": "C",
+    "options": [
+      "Omega",
+      "Violet",
+      "Krixi",
+      "Thane"
+    ],
+    "options_": [
+      "[A] Omega\n[B] Violet\n[C] Krixi\n[D] Thane"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/227792039c96a09c5264216583dcac1d5860e63440350.png",
+    "skillnamee": "Lốc siêu thanh",
+    "answer": "Fennik",
+    "answer_": "B",
+    "options": [
+      "Zill",
+      "Fennik",
+      "Grakk",
+      "Allain"
+    ],
+    "options_": [
+      "[A] Zill\n[B] Fennik\n[C] Grakk\n[D] Allain"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/1edc36db741ef6762422a055a31735205c132d23b0256.png",
+    "skillnamee": "Suối nguồn",
+    "answer": "Sephera",
+    "answer_": "D",
+    "options": [
+      "Wiro ",
+      "Payna",
+      "Grakk",
+      "Sephera"
+    ],
+    "options_": [
+      "[A] Wiro \n[B] Payna\n[C] Grakk\n[D] Sephera"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/bb5662cdb8612ab9b8029eee61506203583f98349b55e.png",
+    "skillnamee": "Quả đấm vàng",
+    "answer": "Gildur",
+    "answer_": "B",
+    "options": [
+      "Batman",
+      "Gildur",
+      "Skud",
+      "Mina"
+    ],
+    "options_": [
+      "[A] Batman\n[B] Gildur\n[C] Skud\n[D] Mina"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/4aba50a38444a537adec3718c4e1fcee5daec619d7b62.png",
+    "skillnamee": "Ngụy Trang Đồng Bộ",
+    "answer": "Krizzix",
+    "answer_": "B",
+    "options": [
+      "Kahlii",
+      "Krizzix",
+      "Lauriel",
+      "TeeMee"
+    ],
+    "options_": [
+      "[A] Kahlii\n[B] Krizzix\n[C] Lauriel\n[D] TeeMee"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/1827b1d68988d8c443a10243b83c87235a0e6c68599c7.png",
+    "skillnamee": "Khiên thần lực",
+    "answer": "Wonder Woman",
+    "answer_": "B",
+    "options": [
+      "Zuka",
+      "Wonder Woman",
+      "Chaugnar",
+      "Jinna"
+    ],
+    "options_": [
+      "[A] Zuka\n[B] Wonder Woman\n[C] Chaugnar\n[D] Jinna"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/14a64fbc2a349b851b5763ca7a4bd3e15daec54366a5c.png",
+    "skillnamee": "Ngụy Trang Đơn Lẻ",
+    "answer": "Krizzix",
+    "answer_": "B",
+    "options": [
+      "Yorn",
+      "Krizzix",
+      "Arthur",
+      "Wiro "
+    ],
+    "options_": [
+      "[A] Yorn\n[B] Krizzix\n[C] Arthur\n[D] Wiro "
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/864b099e9a6463ecacab419d5b8918a75c61057cbe903.png",
+    "skillnamee": "Ma trận thứ nguyên",
+    "answer": "D'arcy",
+    "answer_": "D",
+    "options": [
+      "Gildur",
+      "Richter",
+      "Ryoma",
+      "D'arcy"
+    ],
+    "options_": [
+      "[A] Gildur\n[B] Richter\n[C] Ryoma\n[D] D'arcy"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/1d1170e66af811becb805934a3fa95a55d3ac8b5bbbca.png",
+    "skillnamee": "ÁC HẬN",
+    "answer": "Zip",
+    "answer_": "A",
+    "options": [
+      "Zip",
+      "Xeniel",
+      "Rouie",
+      "Eland'orr"
+    ],
+    "options_": [
+      "[A] Zip\n[B] Xeniel\n[C] Rouie\n[D] Eland'orr"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/f5fbd9c0377aff8cfad1fa66443bab905840e7300d82e.png",
+    "skillnamee": "Chiến ý",
+    "answer": "Taara",
+    "answer_": "C",
+    "options": [
+      "Celica",
+      "Arduin",
+      "Taara",
+      "Y'bneth"
+    ],
+    "options_": [
+      "[A] Celica\n[B] Arduin\n[C] Taara\n[D] Y'bneth"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/f83d0571926891ec5b1643a58636f35c5afeaa15aec7e.png",
+    "skillnamee": "Linh thú",
+    "answer": "Arum",
+    "answer_": "B",
+    "options": [
+      "Natalya",
+      "Arum",
+      "Zip",
+      "The Flash"
+    ],
+    "options_": [
+      "[A] Natalya\n[B] Arum\n[C] Zip\n[D] The Flash"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/79cecacdc7803258d966b07de4825b6058dcf1e236ebd.png",
+    "skillnamee": "Gậy như ý",
+    "answer": "Ngộ Không",
+    "answer_": "B",
+    "options": [
+      "Elsu",
+      "Ngộ Không",
+      "Maloch",
+      "Wiro "
+    ],
+    "options_": [
+      "[A] Elsu\n[B] Ngộ Không\n[C] Maloch\n[D] Wiro "
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/414630c4ecb1dc5025f40e40560004205b1915a32efc2.png",
+    "skillnamee": "Đoạt mệnh nỏ",
+    "answer": "Rourke",
+    "answer_": "B",
+    "options": [
+      "Elsu",
+      "Rourke",
+      "Ormarr",
+      "Annette"
+    ],
+    "options_": [
+      "[A] Elsu\n[B] Rourke\n[C] Ormarr\n[D] Annette"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/470890bc984393b1c7b2e54fcc0c5635583ea08f28545.png",
+    "skillnamee": "Chiến thần",
+    "answer": "Lữ Bố",
+    "answer_": "B",
+    "options": [
+      "D'arcy",
+      "Lữ Bố",
+      "Butterfly",
+      "Maloch"
+    ],
+    "options_": [
+      "[A] D'arcy\n[B] Lữ Bố\n[C] Butterfly\n[D] Maloch"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/7789135118fa5c462d8bb84286ae12125ef1f471d6120.png",
+    "skillnamee": "Kiếm gầm",
+    "answer": "Allain",
+    "answer_": "A",
+    "options": [
+      "Allain",
+      "Azzen'Ka",
+      "Arthur",
+      "Thane"
+    ],
+    "options_": [
+      "[A] Allain\n[B] Azzen'Ka\n[C] Arthur\n[D] Thane"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/4095e69eb302efb640d9c20759eaeac65983e63a25d43.png",
+    "skillnamee": "Ảo Ảnh Trảm",
+    "answer": "Murad",
+    "answer_": "C",
+    "options": [
+      "Zuka",
+      "Arum",
+      "Murad",
+      "Slimz"
+    ],
+    "options_": [
+      "[A] Zuka\n[B] Arum\n[C] Murad\n[D] Slimz"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/792bcf4c2650cdaed77bff58f54d1c9c5fc557a8c7372.png",
+    "skillnamee": "Bá vương trảo",
+    "answer": "Ata",
+    "answer_": "D",
+    "options": [
+      "Dextra",
+      "Skud",
+      "Omen",
+      "Ata"
+    ],
+    "options_": [
+      "[A] Dextra\n[B] Skud\n[C] Omen\n[D] Ata"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/934f022f6377ad5e3528a1607d3b917c610004fe7e68f.png",
+    "skillnamee": "Long Trảo",
+    "answer": "AOI",
+    "answer_": "B",
+    "options": [
+      "Zata",
+      "AOI",
+      "Omen",
+      "Điêu Thuyền"
+    ],
+    "options_": [
+      "[A] Zata\n[B] AOI\n[C] Omen\n[D] Điêu Thuyền"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/1140d9a1b24578afc5be77d3feeb0a2158ae5d91e6d13.png",
+    "skillnamee": "Loạn hạt",
+    "answer": "Jinna",
+    "answer_": "D",
+    "options": [
+      "Alice",
+      "Điêu Thuyền",
+      "Superman",
+      "Jinna"
+    ],
+    "options_": [
+      "[A] Alice\n[B] Điêu Thuyền\n[C] Superman\n[D] Jinna"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/541620c87481fd28c60fb965e11f05f65eb13fbd5e9a1.png",
+    "skillnamee": "Thần môn",
+    "answer": "Rouie",
+    "answer_": "A",
+    "options": [
+      "Rouie",
+      "Yena",
+      "IGGY",
+      "Chaugnar"
+    ],
+    "options_": [
+      "[A] Rouie\n[B] Yena\n[C] IGGY\n[D] Chaugnar"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/abd8ee3ebabd4c68ef78f23333cd642e5cfe1ebde3e39.png",
+    "skillnamee": "Toái nguyệt trảm / Tụ nguyệt trảm",
+    "answer": "Yena",
+    "answer_": "B",
+    "options": [
+      "Lorion",
+      "Yena",
+      "Veera",
+      "Zip"
+    ],
+    "options_": [
+      "[A] Lorion\n[B] Yena\n[C] Veera\n[D] Zip"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/c6588d59c1afa5baeed5fcd2510c392d583e9ff83495c.png",
+    "skillnamee": "Xích thố",
+    "answer": "Lữ Bố",
+    "answer_": "B",
+    "options": [
+      "Mina",
+      "Lữ Bố",
+      "Thorne",
+      "Raz"
+    ],
+    "options_": [
+      "[A] Mina\n[B] Lữ Bố\n[C] Thorne\n[D] Raz"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/aa96e30c88b285f5516964dafa2b7332583f971900358.png",
+    "skillnamee": "Vô tận tên",
+    "answer": "Yorn",
+    "answer_": "C",
+    "options": [
+      "Ata",
+      "Capheny",
+      "Yorn",
+      "Tulen"
+    ],
+    "options_": [
+      "[A] Ata\n[B] Capheny\n[C] Yorn\n[D] Tulen"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/bb5662cdb8612ab9b8029eee61506203583f98349b55e.png",
+    "skillnamee": "Quả đấm vàng",
+    "answer": "Gildur",
+    "answer_": "B",
+    "options": [
+      "Batman",
+      "Gildur",
+      "Skud",
+      "Mina"
+    ],
+    "options_": [
+      "[A] Batman\n[B] Gildur\n[C] Skud\n[D] Mina"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/70aad1b7fcb85c6d3428a3c2aa57995f594392c3de4a4.png",
+    "skillnamee": "Đôi Cánh Thuẩn Khiết",
+    "answer": "Lauriel",
+    "answer_": "A",
+    "options": [
+      "Lauriel",
+      "Mganga",
+      "Zata",
+      "Kahlii"
+    ],
+    "options_": [
+      "[A] Lauriel\n[B] Mganga\n[C] Zata\n[D] Kahlii"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/58e624c3704c9cff80e399995587b1d1583f97d8ef93d.png",
+    "skillnamee": "Bàn tay vàng",
+    "answer": "Gildur",
+    "answer_": "C",
+    "options": [
+      "Wisp",
+      "Mganga",
+      "Gildur",
+      "Rouie"
+    ],
+    "options_": [
+      "[A] Wisp\n[B] Mganga\n[C] Gildur\n[D] Rouie"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/332cd5695f5a9e92a4df857c9738e159587c413879515.png",
+    "skillnamee": "Quả Cầu Hắc Ám",
+    "answer": "Natalya",
+    "answer_": "C",
+    "options": [
+      "Ngộ Không",
+      "Điêu Thuyền",
+      "Natalya",
+      "Ryoma"
+    ],
+    "options_": [
+      "[A] Ngộ Không\n[B] Điêu Thuyền\n[C] Natalya\n[D] Ryoma"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/4b839616ce567a2780502da62b05956f591e6e31756d6.png",
+    "skillnamee": "Cú Đấm Thăng Hoa",
+    "answer": "Raz",
+    "answer_": "A",
+    "options": [
+      "Raz",
+      "Laville",
+      "Thane",
+      "Preyta"
+    ],
+    "options_": [
+      "[A] Raz\n[B] Laville\n[C] Thane\n[D] Preyta"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/6e6f3241f81eec8e869a61758b797e0f58535875ac29d.png",
+    "skillnamee": "Huyết Tế",
+    "answer": "Grakk",
+    "answer_": "B",
+    "options": [
+      "Astrid",
+      "Grakk",
+      "Roxie",
+      "Mina"
+    ],
+    "options_": [
+      "[A] Astrid\n[B] Grakk\n[C] Roxie\n[D] Mina"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/bdaeeab0844fbddc7c40493b0659932a59706f9bee6fe.png",
+    "skillnamee": "Đập tan",
+    "answer": "Taara",
+    "answer_": "A",
+    "options": [
+      "Taara",
+      "Alice",
+      "Yena",
+      "Kil'Groth"
+    ],
+    "options_": [
+      "[A] Taara\n[B] Alice\n[C] Yena\n[D] Kil'Groth"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/d5655f3a63b12b4fb6323c81f899ee785a61c0669e8f7.png",
+    "skillnamee": "Phục kích",
+    "answer": "Lindis",
+    "answer_": "C",
+    "options": [
+      "Ilumia",
+      "Celica",
+      "Lindis",
+      "Omega"
+    ],
+    "options_": [
+      "[A] Ilumia\n[B] Celica\n[C] Lindis\n[D] Omega"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/70ea3a46ff247e47d163ea46602b5c78583f942dc9d11.png",
+    "skillnamee": "Bền bỉ",
+    "answer": "Zephys",
+    "answer_": "B",
+    "options": [
+      "Zuka",
+      "Zephys",
+      "Allain",
+      "Slimz"
+    ],
+    "options_": [
+      "[A] Zuka\n[B] Zephys\n[C] Allain\n[D] Slimz"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/313ff250121ea48bd74b4ed4fa1306575bd7d895b1bf8.png",
+    "skillnamee": "Công thủ toàn diện",
+    "answer": "Richter",
+    "answer_": "C",
+    "options": [
+      "Sinestrea",
+      "Kil'Groth",
+      "Richter",
+      "Zuka"
+    ],
+    "options_": [
+      "[A] Sinestrea\n[B] Kil'Groth\n[C] Richter\n[D] Zuka"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/849f814ac016a6f58c8526b5c7a088175b6ace58c141b.png",
+    "skillnamee": "Địa giam",
+    "answer": "Baldum",
+    "answer_": "B",
+    "options": [
+      "Ryoma",
+      "Baldum",
+      "Skud",
+      "Veera"
+    ],
+    "options_": [
+      "[A] Ryoma\n[B] Baldum\n[C] Skud\n[D] Veera"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/7b1f82597089ffdc9b4b2d66b6689173583f96b00b9b5.png",
+    "skillnamee": "Mình đồng da sắt",
+    "answer": "Toro",
+    "answer_": "B",
+    "options": [
+      "TeeMee",
+      "Toro",
+      "Moren",
+      "Mina"
+    ],
+    "options_": [
+      "[A] TeeMee\n[B] Toro\n[C] Moren\n[D] Mina"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/aa1eb37c6e9eb4dedf5049e3aa199dd55ca5c27836dab.png",
+    "skillnamee": "Pháo tự động",
+    "answer": "Capheny",
+    "answer_": "A",
+    "options": [
+      "Capheny",
+      "Errol",
+      "Lữ Bố",
+      "Enzo"
+    ],
+    "options_": [
+      "[A] Capheny\n[B] Errol\n[C] Lữ Bố\n[D] Enzo"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/13f4e4231c42f79891f4c55c34d12d9f610006c20421b.png",
+    "skillnamee": "Điều Luật Ma Súng",
+    "answer": "Thorne",
+    "answer_": "A",
+    "options": [
+      "Thorne",
+      "D'arcy",
+      "Moren",
+      "Yena"
+    ],
+    "options_": [
+      "[A] Thorne\n[B] D'arcy\n[C] Moren\n[D] Yena"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/f58937ccb405488543127fa5ba25f93a5ef1fa2188c43.png",
+    "skillnamee": "Kiếm toả mệnh",
+    "answer": "Allain",
+    "answer_": "B",
+    "options": [
+      "Errol",
+      "Allain",
+      "The Flash",
+      "Paine"
+    ],
+    "options_": [
+      "[A] Errol\n[B] Allain\n[C] The Flash\n[D] Paine"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/2a544d4c59467b9f71c50f7eba68cb9a58f97ce1ef87b.png",
+    "skillnamee": "Xuyên thấu",
+    "answer": "Slimz",
+    "answer_": "B",
+    "options": [
+      "Nakroth",
+      "Slimz",
+      "Rouie",
+      "Laville"
+    ],
+    "options_": [
+      "[A] Nakroth\n[B] Slimz\n[C] Rouie\n[D] Laville"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/e049eca888cabfc47203461432dab4d05b5ebca198704.png",
+    "skillnamee": "Balo lửa",
+    "answer": "Roxie",
+    "answer_": "C",
+    "options": [
+      "Moren",
+      "Wisp",
+      "Roxie",
+      "Veres"
+    ],
+    "options_": [
+      "[A] Moren\n[B] Wisp\n[C] Roxie\n[D] Veres"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/ca4a5d365e46f50d9565bb0f361802fb5853594e60972.png",
+    "skillnamee": "Nuốt Chửng",
+    "answer": "Grakk",
+    "answer_": "A",
+    "options": [
+      "Grakk",
+      "Lữ Bố",
+      "Allain",
+      "Ryoma"
+    ],
+    "options_": [
+      "[A] Grakk\n[B] Lữ Bố\n[C] Allain\n[D] Ryoma"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/9a917293b0324ed65ab89625da69f728583f935c54e4f.png",
+    "skillnamee": "Binh đoàn linh hồn",
+    "answer": "Kahlii",
+    "answer_": "A",
+    "options": [
+      "Kahlii",
+      "Marja",
+      "Celica",
+      "Arum"
+    ],
+    "options_": [
+      "[A] Kahlii\n[B] Marja\n[C] Celica\n[D] Arum"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/0dd5a46133f416e70f5cc9e1e1767cfc5a292a1ebefc7.png",
+    "skillnamee": "Áp suất biển sâu",
+    "answer": "Kil'Groth",
+    "answer_": "C",
+    "options": [
+      "Dextra",
+      "Superman",
+      "Kil'Groth",
+      "Thorne"
+    ],
+    "options_": [
+      "[A] Dextra\n[B] Superman\n[C] Kil'Groth\n[D] Thorne"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/f8faf6a889c6693c6c869df6e275543759bb7dee68e67.png",
+    "skillnamee": "Hồn trảm",
+    "answer": "Arduin",
+    "answer_": "B",
+    "options": [
+      "IGGY",
+      "Arduin",
+      "Natalya",
+      "Astrid"
+    ],
+    "options_": [
+      "[A] IGGY\n[B] Arduin\n[C] Natalya\n[D] Astrid"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/c8640c212a2b6e9ded6d2fa5a77e73a55915325709959.png",
+    "skillnamee": "Găng nổi loạn",
+    "answer": "Skud",
+    "answer_": "A",
+    "options": [
+      "Skud",
+      "Xeniel",
+      "Baldum",
+      "Ormarr"
+    ],
+    "options_": [
+      "[A] Skud\n[B] Xeniel\n[C] Baldum\n[D] Ormarr"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/14a64fbc2a349b851b5763ca7a4bd3e15daec54366a5c.png",
+    "skillnamee": "Ngụy Trang Đơn Lẻ",
+    "answer": "Krizzix",
+    "answer_": "B",
+    "options": [
+      "Yorn",
+      "Krizzix",
+      "Arthur",
+      "Wiro "
+    ],
+    "options_": [
+      "[A] Yorn\n[B] Krizzix\n[C] Arthur\n[D] Wiro "
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/cdf3e02c041839a7e26f3b3db9fa78055df21682c6e40.png",
+    "skillnamee": "Tí Nị",
+    "answer": "Ishar",
+    "answer_": "D",
+    "options": [
+      "Wonder Woman",
+      "Ata",
+      "Ilumia",
+      "Ishar"
+    ],
+    "options_": [
+      "[A] Wonder Woman\n[B] Ata\n[C] Ilumia\n[D] Ishar"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/df40e86b54272541af06fa2918b66b105970de097e110.png",
+    "skillnamee": "Hỏa Trận",
+    "answer": "Ignis",
+    "answer_": "D",
+    "options": [
+      "Murad",
+      "Wiro ",
+      "IGGY",
+      "Ignis"
+    ],
+    "options_": [
+      "[A] Murad\n[B] Wiro \n[C] IGGY\n[D] Ignis"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/42b366f7da1eeec5655937ade8bba83b5fc55780b51da.png",
+    "skillnamee": "Truy sát",
+    "answer": "Keera",
+    "answer_": "A",
+    "options": [
+      "Keera",
+      "Airi",
+      "Eland'orr",
+      "Richter"
+    ],
+    "options_": [
+      "[A] Keera\n[B] Airi\n[C] Eland'orr\n[D] Richter"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/6cb03008d187d276f3a4bab82e08dfaa5afeaa2a98fdf.png",
+    "skillnamee": "Thú kích",
+    "answer": "Arum",
+    "answer_": "A",
+    "options": [
+      "Arum",
+      "Eland'orr",
+      "Raz",
+      "Lumburr"
+    ],
+    "options_": [
+      "[A] Arum\n[B] Eland'orr\n[C] Raz\n[D] Lumburr"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/d49319c82de9b26df60814fc53aea16c58609d234740b.png",
+    "skillnamee": "Ma trận thống khổ",
+    "answer": "Aleister",
+    "answer_": "C",
+    "options": [
+      "Kil'Groth",
+      "Joker",
+      "Aleister",
+      "Raz"
+    ],
+    "options_": [
+      "[A] Kil'Groth\n[B] Joker\n[C] Aleister\n[D] Raz"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/f83d0571926891ec5b1643a58636f35c5afeaa15aec7e.png",
+    "skillnamee": "Linh thú",
+    "answer": "Arum",
+    "answer_": "B",
+    "options": [
+      "Natalya",
+      "Arum",
+      "Zip",
+      "The Flash"
+    ],
+    "options_": [
+      "[A] Natalya\n[B] Arum\n[C] Zip\n[D] The Flash"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/4b839616ce567a2780502da62b05956f591e6e31756d6.png",
+    "skillnamee": "Cú Đấm Thăng Hoa",
+    "answer": "Raz",
+    "answer_": "A",
+    "options": [
+      "Raz",
+      "Laville",
+      "Thane",
+      "Preyta"
+    ],
+    "options_": [
+      "[A] Raz\n[B] Laville\n[C] Thane\n[D] Preyta"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/0af7b2f2210a9518f2334fcbb325153c5aec0db450655.png",
+    "skillnamee": "Pháo Cao Xạ",
+    "answer": "Wisp",
+    "answer_": "B",
+    "options": [
+      "Rourke",
+      "Wisp",
+      "Qi",
+      "Laville"
+    ],
+    "options_": [
+      "[A] Rourke\n[B] Wisp\n[C] Qi\n[D] Laville"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/c4a08f0a9a741a2054f4306f5d92591059e0232482e57.png",
+    "skillnamee": "Cự Kiếm",
+    "answer": "Astrid",
+    "answer_": "B",
+    "options": [
+      "Zip",
+      "Astrid",
+      "Triệu Vân",
+      "Volkath"
+    ],
+    "options_": [
+      "[A] Zip\n[B] Astrid\n[C] Triệu Vân\n[D] Volkath"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/24b62183a512a387d2e219da08ce582058cb955d33626.png",
+    "skillnamee": "Quỷ Kiếm",
+    "answer": "Maloch",
+    "answer_": "D",
+    "options": [
+      "Capheny",
+      "Ngộ Không",
+      "Max",
+      "Maloch"
+    ],
+    "options_": [
+      "[A] Capheny\n[B] Ngộ Không\n[C] Max\n[D] Maloch"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/c3339f412a7e0b1cb93b049ac24712165ef1fa7319583.png",
+    "skillnamee": "Kiếm tất sát",
+    "answer": "Allain",
+    "answer_": "A",
+    "options": [
+      "Allain",
+      "Aleister",
+      "Slimz",
+      "Elsu"
+    ],
+    "options_": [
+      "[A] Allain\n[B] Aleister\n[C] Slimz\n[D] Elsu"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/52d30ec6446a5aefea18560adec8073d59707161085f0.png",
+    "skillnamee": "Nẹt điện",
+    "answer": "Fennik",
+    "answer_": "D",
+    "options": [
+      "Moren",
+      "Qi",
+      "Arum",
+      "Fennik"
+    ],
+    "options_": [
+      "[A] Moren\n[B] Qi\n[C] Arum\n[D] Fennik"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/2d430e7572c6a3d6f5aba143ce46f42b5a17a06fbde3c.png",
+    "skillnamee": "Sứ Mệnh Cứu Thể",
+    "answer": "Xeniel",
+    "answer_": "A",
+    "options": [
+      "Xeniel",
+      "Volkath",
+      "Lindis",
+      "Krixi"
+    ],
+    "options_": [
+      "[A] Xeniel\n[B] Volkath\n[C] Lindis\n[D] Krixi"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/03995e250cf160fa4a152a4413ee93e75aa0ffb9c5b5a.png",
+    "skillnamee": "Biến ảnh hoán hình",
+    "answer": "Liliana",
+    "answer_": "B",
+    "options": [
+      "Alice",
+      "Liliana",
+      "Veres",
+      "Jinna"
+    ],
+    "options_": [
+      "[A] Alice\n[B] Liliana\n[C] Veres\n[D] Jinna"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/65594eb93b7c5b165371bc69cbaace01591e6ea53e9ec.png",
+    "skillnamee": "Tả Xung Hữu Đột",
+    "answer": "Raz",
+    "answer_": "B",
+    "options": [
+      "Mina",
+      "Raz",
+      "Cresht",
+      "The Flash"
+    ],
+    "options_": [
+      "[A] Mina\n[B] Raz\n[C] Cresht\n[D] The Flash"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/76c4654d08299b62d6f5839df0c951b15a02b7a14b16a.png",
+    "skillnamee": "Người đàn ông thép",
+    "answer": "Superman",
+    "answer_": "B",
+    "options": [
+      "Omega",
+      "Superman",
+      "Nakroth",
+      "Taara"
+    ],
+    "options_": [
+      "[A] Omega\n[B] Superman\n[C] Nakroth\n[D] Taara"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/01e493e6efcc881998595b091d51ec7a5a4dfb843dc09.png",
+    "skillnamee": "Giáo Móc TeeMee",
+    "answer": "TeeMee",
+    "answer_": "A",
+    "options": [
+      "TeeMee",
+      "Butterfly",
+      "Kriknak",
+      "Batman"
+    ],
+    "options_": [
+      "[A] TeeMee\n[B] Butterfly\n[C] Kriknak\n[D] Batman"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/eed8944ca08fc1101b58873a37d164de5a871b26923b3.png",
+    "skillnamee": "Lôi điểu",
+    "answer": "Tulen",
+    "answer_": "C",
+    "options": [
+      "IGGY",
+      "Rouie",
+      "Tulen",
+      "Arum"
+    ],
+    "options_": [
+      "[A] IGGY\n[B] Rouie\n[C] Tulen\n[D] Arum"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/8000cd14d644ae999d3c2d32f294e4525fc55793e295f.png",
+    "skillnamee": "Biển sâu chúc phúc",
+    "answer": "Ata",
+    "answer_": "C",
+    "options": [
+      "Natalya",
+      "Kahlii",
+      "Ata",
+      "Chaugnar"
+    ],
+    "options_": [
+      "[A] Natalya\n[B] Kahlii\n[C] Ata\n[D] Chaugnar"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/70ea3a46ff247e47d163ea46602b5c78583f942dc9d11.png",
+    "skillnamee": "Bền bỉ",
+    "answer": "Zephys",
+    "answer_": "B",
+    "options": [
+      "Zuka",
+      "Zephys",
+      "Allain",
+      "Slimz"
+    ],
+    "options_": [
+      "[A] Zuka\n[B] Zephys\n[C] Allain\n[D] Slimz"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/f58937ccb405488543127fa5ba25f93a5ef1fa2188c43.png",
+    "skillnamee": "Kiếm toả mệnh",
+    "answer": "Allain",
+    "answer_": "B",
+    "options": [
+      "Errol",
+      "Allain",
+      "The Flash",
+      "Paine"
+    ],
+    "options_": [
+      "[A] Errol\n[B] Allain\n[C] The Flash\n[D] Paine"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/87193cc0086f381baa431a3c5fa00789583f8f7254474.png",
+    "skillnamee": "Mưa sao băng",
+    "answer": "Krixi",
+    "answer_": "C",
+    "options": [
+      "Omega",
+      "Violet",
+      "Krixi",
+      "Thane"
+    ],
+    "options_": [
+      "[A] Omega\n[B] Violet\n[C] Krixi\n[D] Thane"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/461014df38f770824080ac3db72e35d35a0e6d3abb89a.png",
+    "skillnamee": "Giáp tay thần kì",
+    "answer": "Wonder Woman",
+    "answer_": "C",
+    "options": [
+      "Richter",
+      "Keera",
+      "Wonder Woman",
+      "Murad"
+    ],
+    "options_": [
+      "[A] Richter\n[B] Keera\n[C] Wonder Woman\n[D] Murad"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/7f606055e10fb99d854d5f19884104fd5a2a4ecca4d81.png",
+    "skillnamee": "Tà thuật",
+    "answer": "Mganga",
+    "answer_": "C",
+    "options": [
+      "Taara",
+      "Astrid",
+      "Mganga",
+      "Enzo"
+    ],
+    "options_": [
+      "[A] Taara\n[B] Astrid\n[C] Mganga\n[D] Enzo"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/570b36e8787dd68016ae7749c7e8972b5c3f07f62a49b.png",
+    "skillnamee": "Xiềng xích",
+    "answer": "Veres",
+    "answer_": "A",
+    "options": [
+      "Veres",
+      "Omen",
+      "Chaugnar",
+      "Celica"
+    ],
+    "options_": [
+      "[A] Veres\n[B] Omen\n[C] Chaugnar\n[D] Celica"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/dc1bda89897f235ad1c8e97cae0313c15943931818e34.png",
+    "skillnamee": "Đại Phán Xét",
+    "answer": "Lauriel",
+    "answer_": "C",
+    "options": [
+      "Raz",
+      "Capheny",
+      "Lauriel",
+      "Laville"
+    ],
+    "options_": [
+      "[A] Raz\n[B] Capheny\n[C] Lauriel\n[D] Laville"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/1a95cd7781abc7131524a1f5bcf456045a3a34ca13098.png",
+    "skillnamee": "Pháo phản lực",
+    "answer": "Moren",
+    "answer_": "D",
+    "options": [
+      "Ignis",
+      "Tel'Annas",
+      "Lumburr",
+      "Moren"
+    ],
+    "options_": [
+      "[A] Ignis\n[B] Tel'Annas\n[C] Lumburr\n[D] Moren"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/306ffc0357c3704743973c1cb597b070610009c6795b9.png",
+    "skillnamee": "Ma súng phán quyết",
+    "answer": "Thorne",
+    "answer_": "C",
+    "options": [
+      "Batman",
+      "Rouie",
+      "Thorne",
+      "Ormarr"
+    ],
+    "options_": [
+      "[A] Batman\n[B] Rouie\n[C] Thorne\n[D] Ormarr"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/792bcf4c2650cdaed77bff58f54d1c9c5fc557a8c7372.png",
+    "skillnamee": "Bá vương trảo",
+    "answer": "Ata",
+    "answer_": "D",
+    "options": [
+      "Dextra",
+      "Skud",
+      "Omen",
+      "Ata"
+    ],
+    "options_": [
+      "[A] Dextra\n[B] Skud\n[C] Omen\n[D] Ata"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/8640f2d55ca4720d721db33c196690905983e5d69d99f.png",
+    "skillnamee": "Vô Ảnh Vực",
+    "answer": "Murad",
+    "answer_": "B",
+    "options": [
+      "Yena",
+      "Murad",
+      "Arum",
+      "Taara"
+    ],
+    "options_": [
+      "[A] Yena\n[B] Murad\n[C] Arum\n[D] Taara"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/ab9988206ded0cc6c7650df7b06f5da95955d581bac9b.png",
+    "skillnamee": "Phi Tiêu Dơi",
+    "answer": "Batman",
+    "answer_": "C",
+    "options": [
+      "Thorne",
+      "Qi",
+      "Batman",
+      "Fennik"
+    ],
+    "options_": [
+      "[A] Thorne\n[B] Qi\n[C] Batman\n[D] Fennik"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/b0e3537a79816da5c312de91ee82217c583e9e469712e.png",
+    "skillnamee": "Gươm thần",
+    "answer": "Thane",
+    "answer_": "B",
+    "options": [
+      "Florentino",
+      "Thane",
+      "Enzo",
+      "Lữ Bố"
+    ],
+    "options_": [
+      "[A] Florentino\n[B] Thane\n[C] Enzo\n[D] Lữ Bố"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/5a5681226ba05df824b239c29ee93f5e59439268b9e6b.png",
+    "skillnamee": "Con Đường Sám Hối",
+    "answer": "Lauriel",
+    "answer_": "C",
+    "options": [
+      "Superman",
+      "Zephys",
+      "Lauriel",
+      "Florentino"
+    ],
+    "options_": [
+      "[A] Superman\n[B] Zephys\n[C] Lauriel\n[D] Florentino"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/cdf3e02c041839a7e26f3b3db9fa78055df21682c6e40.png",
+    "skillnamee": "Tí Nị",
+    "answer": "Ishar",
+    "answer_": "D",
+    "options": [
+      "Wonder Woman",
+      "Ata",
+      "Ilumia",
+      "Ishar"
+    ],
+    "options_": [
+      "[A] Wonder Woman\n[B] Ata\n[C] Ilumia\n[D] Ishar"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/d090723f6839411cd883b00a59e6b0e5610003228d5b9.png",
+    "skillnamee": "Long Lực",
+    "answer": "AOI",
+    "answer_": "D",
+    "options": [
+      "Ilumia",
+      "Omega",
+      "Điêu Thuyền",
+      "AOI"
+    ],
+    "options_": [
+      "[A] Ilumia\n[B] Omega\n[C] Điêu Thuyền\n[D] AOI"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/d090723f6839411cd883b00a59e6b0e5610003228d5b9.png",
+    "skillnamee": "Long Lực",
+    "answer": "AOI",
+    "answer_": "D",
+    "options": [
+      "Ilumia",
+      "Omega",
+      "Điêu Thuyền",
+      "AOI"
+    ],
+    "options_": [
+      "[A] Ilumia\n[B] Omega\n[C] Điêu Thuyền\n[D] AOI"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/7789135118fa5c462d8bb84286ae12125ef1f471d6120.png",
+    "skillnamee": "Kiếm gầm",
+    "answer": "Allain",
+    "answer_": "A",
+    "options": [
+      "Allain",
+      "Azzen'Ka",
+      "Arthur",
+      "Thane"
+    ],
+    "options_": [
+      "[A] Allain\n[B] Azzen'Ka\n[C] Arthur\n[D] Thane"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/5625a205a66d4ed1d3e2a18f155653565a74265d19d5d.png",
+    "skillnamee": "Sát niệm",
+    "answer": "Omen",
+    "answer_": "D",
+    "options": [
+      "Dirak",
+      "Preyta",
+      "Ormarr",
+      "Omen"
+    ],
+    "options_": [
+      "[A] Dirak\n[B] Preyta\n[C] Ormarr\n[D] Omen"
+    ]
+  },
+  {
+    "question": "Vị tướng nào có skill này?",
+    "skillInfo": "https://lienquan.garena.vn/files/skill/icon/6a0be6816a1d3ca9887f6fb738e724a55902c5c6394b6.png",
+    "skillnamee": "Quả cầu ánh sáng",
+    "answer": "Ilumia",
+    "answer_": "B",
+    "options": [
+      "Yorn",
+      "Ilumia",
+      "Veres",
+      "Richter"
+    ],
+    "options_": [
+      "[A] Yorn\n[B] Ilumia\n[C] Veres\n[D] Richter"
+    ]
+  }
+]
